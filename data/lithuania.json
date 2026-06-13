@@ -1,0 +1,57 @@
+{
+  "country": "Lithuania",
+  "last_updated": "2026-06-13",
+  "personnel": {
+    "active": 20000,
+    "reserve": 28000,
+    "paramilitary": 14000,
+    "source": "Wikipedia / Lithuanian MoD, figures vary by source - verify against IISS Military Balance"
+  },
+  "branches": [
+    "Land Force - approx. 16,000",
+    "Air Force",
+    "Navy (mine countermeasures, patrol vessels)",
+    "Special Operations Force (Aitvaras)",
+    "Paramilitary - approx. 14,000"
+  ],
+  "equipment": [
+    "Boxer / Vilkas infantry fighting vehicles",
+    "PzH 2000 self-propelled howitzers",
+    "M113 armoured personnel carriers, HMMWVs",
+    "Leopard 2A8 main battle tanks (incoming)",
+    "11 aircraft incl. transport and helicopters",
+    "Hunt-class minehunters"
+  ],
+  "procurement": [
+    {
+      "item": "Mercedes G-Class, Unimog, Zetros, Arocs trucks and SUVs",
+      "value": "EUR 1 billion",
+      "supplier": "Germany (Daimler Truck / Veho Lietuva)",
+      "delivery": "2026-2032",
+      "source_url": "",
+      "date_reported": "2026-06-10"
+    },
+    {
+      "item": "HIMARS launchers, guided missiles, C3 equipment",
+      "value": "USD 280 million",
+      "supplier": "United States",
+      "delivery": "follow-on to 2022 deal, 8 HIMARS, full capability by 2027",
+      "source_url": "",
+      "date_reported": "2026-05-05"
+    },
+    {
+      "item": "Javelin, JLTV, Black Hawk, NASAMS/AMRAAM",
+      "value": "USD 2 billion (cumulative, 3 years)",
+      "supplier": "United States",
+      "delivery": "ongoing",
+      "source_url": "",
+      "date_reported": "2026-05-05"
+    }
+  ],
+  "nato_presence": {
+    "battlegroup_name": "NATO Multinational Battlegroup Lithuania",
+    "framework_nation": "Germany",
+    "troops_estimate": "1,000 - 5,000 (German brigade to reach 5,000 by 2027)",
+    "notes": "eFP battlegroup under Multinational Corps Northeast, Szczecin"
+  }
+}
