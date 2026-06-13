@@ -1,0 +1,39 @@
+{
+  "country": "Estonia",
+  "last_updated": "2026-06-13",
+  "personnel": {
+    "active": 8200,
+    "conscripts": 4000,
+    "reserve": 230000,
+    "deployed_abroad": 141,
+    "source": "Wikipedia / Estonian MoD, figures vary by source - verify against IISS Military Balance"
+  },
+  "branches": [
+    "Land Forces - approx. 6,000 (largest branch)",
+    "Navy",
+    "Air Force"
+  ],
+  "equipment": [
+    "CV90 infantry fighting vehicles",
+    "K9 Thunder self-propelled howitzers",
+    "Javelin, Spike anti-tank guided missiles",
+    "Mistral, Piorun air defence systems",
+    "Patrol vessels (Navy)"
+  ],
+  "procurement": [
+    {
+      "item": "K9 Thunder self-propelled howitzers (additional units)",
+      "value": "not specified",
+      "supplier": "South Korea",
+      "delivery": "ongoing",
+      "source_url": "",
+      "date_reported": ""
+    }
+  ],
+  "nato_presence": {
+    "battlegroup_name": "NATO Multinational Battlegroup Estonia",
+    "framework_nation": "United Kingdom",
+    "troops_estimate": "approx. 1,000+",
+    "notes": "German-Netherlands Corps newly assigned to defend Estonia and Latvia (announced May 2026)"
+  }
+}
