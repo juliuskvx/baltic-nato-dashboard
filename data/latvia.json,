@@ -1,0 +1,47 @@
+{
+  "country": "Latvia",
+  "last_updated": "2026-06-13",
+  "personnel": {
+    "active": 17870,
+    "reserve": 38000,
+    "national_guard": 10000,
+    "source": "Wikipedia / Latvian MoD, figures vary by source - verify against IISS Military Balance"
+  },
+  "branches": [
+    "Land Forces - approx. 7,870 professional soldiers",
+    "Naval Forces",
+    "Air Force",
+    "National Guard - approx. 10,000"
+  ],
+  "equipment": [
+    "M1095 self-propelled howitzers",
+    "CVR(T) armoured vehicles",
+    "Patria 6x6 armoured personnel carriers",
+    "ASCOD 2 infantry fighting vehicles (incoming, Spain)",
+    "ARCHER self-propelled howitzers (incoming, Sweden)"
+  ],
+  "procurement": [
+    {
+      "item": "ASCOD 2 tracked infantry fighting vehicles",
+      "value": "not specified",
+      "supplier": "Spain",
+      "delivery": "future delivery",
+      "source_url": "",
+      "date_reported": ""
+    },
+    {
+      "item": "ARCHER self-propelled howitzers",
+      "value": "not specified",
+      "supplier": "Sweden",
+      "delivery": "future delivery",
+      "source_url": "",
+      "date_reported": ""
+    }
+  ],
+  "nato_presence": {
+    "battlegroup_name": "NATO Multinational Brigade Latvia",
+    "framework_nation": "Canada",
+    "troops_estimate": "up to 2,200 by 2026",
+    "notes": "First eFP battlegroup scaled to brigade level (July 2024), forward elements of Multinational Division North HQ located in Adazi"
+  }
+}
