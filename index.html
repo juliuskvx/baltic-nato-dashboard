@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Baltic States NATO Dashboard</title>
+<style>
+  :root {
+    --bg: #f5f4f0;
+    --card-bg: #ffffff;
+    --border: #d8d6cf;
+    --text-primary: #1a1a1a;
+    --text-secondary: #5f5e5a;
+    --text-tertiary: #8b8a85;
+    --accent-bg: #e6f1fb;
+    --accent-text: #0c447c;
+    --radius: 12px;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text-primary);
+    padding: 24px;
+  }
+  .page-header {
+    max-width: 1100px;
+    margin: 0 auto 20px;
+  }
+  .page-header h1 {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0 0 4px;
+  }
+  .page-header p {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin: 0;
+  }
+  .grid {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 16px;
+  }
+  @media (max-width: 900px) {
+    .grid { grid-template-columns: 1fr; }
+  }
+  .card {
+    background: var(--card-bg);
+    border: 0.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+  }
+  .card-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2px;
+  }
+  .card-title h2 {
+    font-size: 17px;
+    font-weight: 500;
+    margin: 0;
+  }
+  .updated {
+    font-size: 11px;
+    color: var(--text-tertiary);
+    margin: 0 0 12px;
+  }
+  .metric {
+    background: #f0eee8;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 12px;
+  }
+  .metric .label {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin: 0 0 2px;
+  }
+  .metric .value {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+  }
+  .metric .sub {
+    font-size: 12px;
+    color: var(--text-tertiary);
+    margin: 4px 0 0;
+  }
+  .section-title {
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0 0 6px;
+  }
+  ul {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin: 0 0 14px;
+    padding-left: 18px;
+    line-height: 1.6;
+  }
+  .procurement-box {
+    background: var(--accent-bg);
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin-bottom: 14px;
+  }
+  .procurement-box .ptitle {
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--accent-text);
+    margin: 0 0 6px;
+  }
+  .procurement-item {
+    font-size: 12px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+    margin: 0 0 8px;
+    padding-bottom: 8px;
+    border-bottom: 0.5px solid rgba(12,68,124,0.12);
+  }
+  .procurement-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+  .procurement-item .pmeta {
+    color: var(--text-tertiary);
+    font-size: 11px;
+  }
+  .nato-value {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0;
+  }
+  .nato-note {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin: 4px 0 0;
+    line-height: 1.5;
+  }
+  .error {
+    color: #a32d2d;
+    font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>Baltic States NATO Dashboard</h1>
+  <p>Lithuania, Latvia, Estonia - personnel, equipment, recent procurement, NATO presence. Data manually curated, see data/ folder.</p>
+</div>
+
+<div class="grid" id="dashboard">
+  <div class="card"><p class="error">Loading...</p></div>
+  <div class="card"><p class="error">Loading...</p></div>
+  <div class="card"><p class="error">Loading...</p></div>
+</div>
+
+<script>
+const countries = ["lithuania", "latvia", "estonia"];
+
+function formatNumber(n) {
+  if (typeof n !== "number") return n;
+  return n.toLocaleString("en-US");
+}
+
+function buildPersonnelSub(p) {
+  const parts = [];
+  if (p.reserve) parts.push(formatNumber(p.reserve) + " reserve");
+  if (p.paramilitary) parts.push(formatNumber(p.paramilitary) + " paramilitary");
+  if (p.national_guard) parts.push(formatNumber(p.national_guard) + " national guard");
+  if (p.conscripts) parts.push(formatNumber(p.conscripts) + " conscripts (of active)");
+  if (p.deployed_abroad) parts.push(formatNumber(p.deployed_abroad) + " deployed abroad");
+  return parts.join(", ");
+}
+
+function renderCard(data) {
+  const branchesHtml = data.branches.map(b => `<li>${b}</li>`).join("");
+  const equipmentHtml = data.equipment.map(e => `<li>${e}</li>`).join("");
+
+  const procurementHtml = data.procurement.map(p => `
+    <div class="procurement-item">
+      <strong>${p.item}</strong> &mdash; ${p.value}<br>
+      Supplier: ${p.supplier} | Delivery: ${p.delivery}
+      ${p.date_reported ? `<div class="pmeta">Reported: ${p.date_reported}</div>` : ""}
+    </div>
+  `).join("");
+
+  return `
+    <div class="card">
+      <div class="card-title"><h2>${data.country}</h2></div>
+      <p class="updated">Updated ${data.last_updated}</p>
+
+      <div class="metric">
+        <p class="label">Active personnel</p>
+        <p class="value">${formatNumber(data.personnel.active)}</p>
+        <p class="sub">${buildPersonnelSub(data.personnel)}</p>
+      </div>
+
+      <p class="section-title">By branch</p>
+      <ul>${branchesHtml}</ul>
+
+      <p class="section-title">Current key equipment</p>
+      <ul>${equipmentHtml}</ul>
+
+      <div class="procurement-box">
+        <p class="ptitle">Recent procurement</p>
+        ${procurementHtml}
+      </div>
+
+      <p class="section-title">NATO troops deployed</p>
+      <p class="nato-value">${data.nato_presence.troops_estimate}</p>
+      <p class="nato-note"><strong>${data.nato_presence.battlegroup_name}</strong> &mdash; framework nation: ${data.nato_presence.framework_nation}<br>${data.nato_presence.notes}</p>
+    </div>
+  `;
+}
+
+async function loadDashboard() {
+  const dashboard = document.getElementById("dashboard");
+  try {
+    const results = await Promise.all(
+      countries.map(c => fetch(`data/${c}.json`).then(r => {
+        if (!r.ok) throw new Error(`Failed to load ${c}.json`);
+        return r.json();
+      }))
+    );
+    dashboard.innerHTML = results.map(renderCard).join("");
+  } catch (err) {
+    dashboard.innerHTML = `<div class="card"><p class="error">Error loading data: ${err.message}. Make sure you are running this via a local server or GitHub Pages, not opening the file directly (file:// URLs block fetch).</p></div>`;
+  }
+}
+
+loadDashboard();
+</script>
+
+</body>
+</html>
