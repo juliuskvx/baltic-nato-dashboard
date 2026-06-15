@@ -1,39 +1,67 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-15",
   "personnel": {
     "active": 8200,
-    "conscripts": 4000,
-    "reserve": 230000,
-    "deployed_abroad": 141,
-    "source": "Wikipedia / Estonian MoD, figures vary by source - verify against IISS Military Balance"
+    "reserve": 30000
   },
   "branches": [
     "Land Forces - approx. 6,000 (largest branch)",
-    "Navy",
-    "Air Force"
+    "Estonian Air Force - approx. 400 (2024)",
+    "Estonian Navy - figure not currently published in a Wikipedia infobox",
+    "Estonian Defence League (paramilitary) - funding rising from EUR 240m (2025-2028) to over EUR 314m (2026-2029)"
   ],
   "equipment": [
-    "CV90 infantry fighting vehicles",
-    "K9 Thunder self-propelled howitzers",
-    "Javelin, Spike anti-tank guided missiles",
-    "Mistral, Piorun air defence systems",
-    "Patrol vessels (Navy)"
+    "K9 Thunder self-propelled howitzers (fleet being increased to 36)",
+    "CV90 infantry fighting vehicles (Scouts Battalion, due for replacement)",
+    "M142 HIMARS (3 additional units on order)",
+    "Blue Spear anti-ship missiles",
+    "Piorun short-range air defence launchers"
   ],
   "procurement": [
     {
-      "item": "K9 Thunder self-propelled howitzers (additional units)",
-      "value": "not specified",
-      "supplier": "South Korea",
-      "delivery": "ongoing",
-      "source_url": "",
-      "date_reported": ""
+      "item": "3x additional HIMARS multiple rocket launchers",
+      "value": "Approx. USD 11 million in local industry investment",
+      "supplier": "Lockheed Martin (USA)",
+      "delivery": "Contract signed 2026; timeline not specified",
+      "source_url": "https://www.janes.com/osint-insights/defence-news/industry/estonia-procures-more-himars",
+      "date_reported": "2026-04-11"
+    },
+    {
+      "item": "3x additional K239 Chunmoo multiple rocket launchers",
+      "value": "Not disclosed",
+      "supplier": "Hanwha Aerospace (South Korea)",
+      "delivery": "Follow-on agreement, 2026",
+      "source_url": "https://www.thedefensenews.com/news-details/Estonia-Signs-Follow-On-Contract-for-Three-Additional-K239-Chunmoo-MLRS-Launchers-from-South-Korea/",
+      "date_reported": "2026-05-11"
+    },
+    {
+      "item": "IRIS-T medium-range air defence system (jointly procured with Latvia)",
+      "value": "Part of EUR 1.27 billion 2026 procurement total",
+      "supplier": "Diehl Defence (Germany)",
+      "delivery": "2026",
+      "source_url": "https://estonianworld.com/security/estonia-to-install-a-medium-range-air-defence-system/",
+      "date_reported": "2026-02-12"
     }
   ],
+  "news": [
+    "Estonia's 2026 defence budget rises 42% to EUR 2.4 billion (5.4% of GDP), with EUR 1.27 billion (over half the budget) allocated to procurement (2026-04-28).",
+    "The Estonian Centre for Defence Investments signed a contract with Lockheed Martin for three additional HIMARS launchers, including roughly USD 11 million in domestic industry investment (2026-04-11).",
+    "Estonia signed a follow-on agreement with Hanwha Aerospace (South Korea) for three additional K239 Chunmoo multiple rocket launchers, building on cooperation that also covers ammunition production and maintenance infrastructure in Estonia (2026-05-11).",
+    "In 2026 Estonia will receive its first IRIS-T medium-range air defence systems, jointly procured with Latvia from Diehl Defence, adding a new air defence layer with a range of roughly 40km and altitude coverage up to 20km (2026-02-12).",
+    "Estonia's K9 self-propelled howitzer fleet is being expanded to 36 units, alongside continued Caesar and HIMARS deployments and ongoing ammunition procurement (2026-02-13)."
+  ],
+  "upcoming_major_purchase": {
+    "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
+    "quantity": "3 additional Chunmoo launchers (follow-on order); IRIS-T system quantity not disclosed, jointly procured with Latvia",
+    "value": "Part of EUR 1.27 billion 2026 procurement allocation",
+    "expected_delivery": "2026",
+    "notes": "2026-2029 defence plan allocates 37% of the budget to procurement and 25% to ammunition, with major investments also planned in drones, an artillery regiment, and naval modernisation."
+  },
   "nato_presence": {
-    "battlegroup_name": "NATO Multinational Battlegroup Estonia",
+    "battlegroup_name": "NATO Multinational Battlegroup Estonia (eFP)",
     "framework_nation": "United Kingdom",
-    "troops_estimate": "approx. 1,000+",
-    "notes": "German-Netherlands Corps newly assigned to defend Estonia and Latvia (announced May 2026)"
+    "troops_estimate": "1,000 - 5,000",
+    "notes": "Battlegroup hosted at Tapa; troop numbers fluctuate with rotations."
   }
 }

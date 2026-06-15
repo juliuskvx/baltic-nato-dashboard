@@ -1,47 +1,75 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-15",
   "personnel": {
     "active": 17870,
-    "reserve": 38000,
-    "national_guard": 10000,
-    "source": "Wikipedia / Latvian MoD, figures vary by source - verify against IISS Military Balance"
+    "reserve": 8000,
+    "national_guard": 10000
   },
   "branches": [
-    "Land Forces - approx. 7,870 professional soldiers",
-    "Naval Forces",
-    "Air Force",
-    "National Guard - approx. 10,000"
+    "Land Forces - largest branch",
+    "Latvian Naval Forces - figure predates growth to ~17,870 active total, likely outdated (552)",
+    "Latvian Air Force - figure predates growth to ~17,870 active total, likely outdated (251)",
+    "National Guard (Zemessardze) - approx. 10,000"
   ],
   "equipment": [
-    "M1095 self-propelled howitzers",
-    "CVR(T) armoured vehicles",
-    "Patria 6x6 armoured personnel carriers",
-    "ASCOD 2 infantry fighting vehicles (incoming, Spain)",
-    "ARCHER self-propelled howitzers (incoming, Sweden)"
+    "CVR(T) light armoured vehicles",
+    "ASCOD (Hunter) IFVs - first units arriving 2026",
+    "M109 self-propelled howitzers",
+    "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
     {
-      "item": "ASCOD 2 tracked infantry fighting vehicles",
-      "value": "not specified",
-      "supplier": "Spain",
-      "delivery": "future delivery",
-      "source_url": "",
-      "date_reported": ""
+      "item": "IRIS-T medium-range air defence system (jointly procured with Estonia)",
+      "value": "EUR 600 million",
+      "supplier": "Diehl Defence (Germany)",
+      "delivery": "2026",
+      "source_url": "https://militarnyi.com/en/news/latvia-signs-e600-million-contract-to-get-iris-t-air-defense-systems/",
+      "date_reported": "2026-02-12"
     },
     {
-      "item": "ARCHER self-propelled howitzers",
-      "value": "not specified",
-      "supplier": "Sweden",
-      "delivery": "future delivery",
-      "source_url": "",
-      "date_reported": ""
+      "item": "ASCOD (Hunter) infantry fighting vehicles - first batch of 84 ordered",
+      "value": "Not disclosed",
+      "supplier": "Santa Barbara Sistemas / General Dynamics European Land Systems",
+      "delivery": "First vehicles spring 2026, entering service by autumn 2026",
+      "source_url": "https://militarnyi.com/en/news/latvia-to-receive-first-ascod-vehicles/",
+      "date_reported": "2026-02-01"
+    },
+    {
+      "item": "Domestically-built unmanned ground systems",
+      "value": "Not disclosed",
+      "supplier": "Brasa Defence Systems, Natrix, LV-Teh (Latvia)",
+      "delivery": "Gradual integration into regular Armed Forces units",
+      "source_url": "https://defence-blog.com/latvia-confirms-ground-drone-procurement-from-three-local-firms/",
+      "date_reported": "2026-04-10"
+    },
+    {
+      "item": "BLAZE autonomous interceptor drones (multi-year framework)",
+      "value": "Not disclosed; financed via EU Security Action Fund",
+      "supplier": "Origin Robotics (Latvia)",
+      "delivery": "Multi-year framework, deliveries began January 2026",
+      "source_url": "https://defence-blog.com/latvia-signs-multi-year-deal-for-autonomous-drone-killers/",
+      "date_reported": "2026-04-21"
     }
   ],
+  "news": [
+    "Latvia signed a EUR 600 million contract with Diehl Defence (Germany) for IRIS-T medium-range air defence systems, jointly procured with Estonia, with delivery in 2026 - the largest military procurement since Latvia regained independence (2026-02-12).",
+    "Latvia is set to receive the first of 84 ordered ASCOD (Hunter) infantry fighting vehicles in spring 2026, with assembly at the Patria/GDELS plant in Trubia, Spain (2026-02-01).",
+    "Latvia's Ministry of Defence signed contracts with three Latvian firms (Brasa Defence Systems, Natrix, LV-Teh) for domestically-built unmanned ground systems, the first such procurement of locally developed ground drones (2026-04-10).",
+    "Latvia's Cabinet approved the first contract under a multi-year BLAZE interceptor drone framework with Riga-based Origin Robotics, financed through the EU Security Action Fund (2026-04-21).",
+    "Latvia's 2026 defence budget reached EUR 2.16 billion (4.91% of GDP), with continued work on centralising and streamlining procurement (2025-12-04)."
+  ],
+  "upcoming_major_purchase": {
+    "item": "IRIS-T medium-range air defence system",
+    "quantity": "System quantity not publicly disclosed; jointly procured with Estonia",
+    "value": "EUR 600 million",
+    "expected_delivery": "2026",
+    "notes": "Described as the largest Latvian military procurement since independence; part of a wider 'echeloned air defence' build-up alongside Estonia."
+  },
   "nato_presence": {
     "battlegroup_name": "NATO Multinational Brigade Latvia",
     "framework_nation": "Canada",
-    "troops_estimate": "up to 2,200 by 2026",
-    "notes": "First eFP battlegroup scaled to brigade level (July 2024), forward elements of Multinational Division North HQ located in Adazi"
+    "troops_estimate": "1,000 - 5,000",
+    "notes": "Canada leads the brigade under Operation REASSURANCE, its largest overseas military deployment; troop numbers fluctuate with rotations."
   }
 }

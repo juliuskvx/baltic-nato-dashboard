@@ -1,57 +1,79 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-15",
   "personnel": {
-    "active": 20000,
-    "reserve": 28000,
+    "active": 23000,
+    "reserve": 14600,
     "paramilitary": 14000,
-    "source": "Wikipedia / Lithuanian MoD, figures vary by source - verify against IISS Military Balance"
+    "conscripts": 3500,
+    "deployed_abroad": 250
   },
   "branches": [
     "Land Force - approx. 16,000",
-    "Air Force",
-    "Navy (mine countermeasures, patrol vessels)",
-    "Special Operations Force (Aitvaras)",
-    "Paramilitary - approx. 14,000"
+    "Lithuanian Air Force - approx. 1,000",
+    "Lithuanian Naval Force - approx. 700",
+    "Special Operations Forces (Aitvaras) - size not publicly disclosed",
+    "Lithuanian Riflemen's Union (paramilitary) - approx. 14,000"
   ],
   "equipment": [
-    "Boxer / Vilkas infantry fighting vehicles",
+    "Boxer / Vilkas IFVs",
     "PzH 2000 self-propelled howitzers",
-    "M113 armoured personnel carriers, HMMWVs",
-    "Leopard 2A8 main battle tanks (incoming)",
-    "11 aircraft incl. transport and helicopters",
-    "Hunt-class minehunters"
+    "M142 HIMARS (8 systems, additional battery on order)",
+    "JLTV light tactical vehicles",
+    "NASAMS air defence systems"
   ],
   "procurement": [
     {
-      "item": "Mercedes G-Class, Unimog, Zetros, Arocs trucks and SUVs",
+      "item": "Mercedes-Benz G-Class, Unimog, Zetros and Arocs vehicles",
       "value": "EUR 1 billion",
-      "supplier": "Germany (Daimler Truck / Veho Lietuva)",
+      "supplier": "Veho Lietuva (Mercedes-Benz Group / Daimler AG)",
       "delivery": "2026-2032",
-      "source_url": "",
+      "source_url": "https://ua.news/en/world/litva-zapuskaie-viiskovu-zakupivliu-na-miliard-ievro",
       "date_reported": "2026-06-10"
     },
     {
-      "item": "HIMARS launchers, guided missiles, C3 equipment",
+      "item": "Additional HIMARS battery (launchers, munitions, C2 and logistics package)",
       "value": "USD 280 million",
-      "supplier": "United States",
-      "delivery": "follow-on to 2022 deal, 8 HIMARS, full capability by 2027",
-      "source_url": "",
+      "supplier": "United States (US Government FMS)",
+      "delivery": "Following 2022 order; full operational capability expected 2027",
+      "source_url": "https://thedefensepost.com/2026/05/05/lithuania-himars-battery/",
       "date_reported": "2026-05-05"
     },
     {
-      "item": "Javelin, JLTV, Black Hawk, NASAMS/AMRAAM",
-      "value": "USD 2 billion (cumulative, 3 years)",
-      "supplier": "United States",
-      "delivery": "ongoing",
-      "source_url": "",
-      "date_reported": "2026-05-05"
+      "item": "PATRIA 6x6 wheeled armoured personnel carriers",
+      "value": "Not disclosed",
+      "supplier": "Patria",
+      "delivery": "By 2030 (supports National Division build-up)",
+      "source_url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260527-lithuania-mnd01.htm",
+      "date_reported": "2026-05-27"
+    },
+    {
+      "item": "48x Merops AS-3 interceptor drones",
+      "value": "Not disclosed",
+      "supplier": "Perennial Autonomy",
+      "delivery": "Direct award, citing essential security interests",
+      "source_url": "https://balticdefenseinitiative.com/initiatives/defense-procurement-reform/",
+      "date_reported": "2026-04-22"
     }
   ],
+  "news": [
+    "Lithuania signed a EUR 1 billion contract with Veho Lietuva (Mercedes-Benz/Daimler) for G-Class, Unimog, Zetros and Arocs vehicles, with deliveries running 2026-2032 - one of the largest logistics investments in the army's history (2026-06-10).",
+    "Lithuania signed a USD 280 million supplemental agreement with the US for an additional HIMARS battery, including launchers, guided munitions, C2 equipment and a maintenance package (2026-05-05).",
+    "The State Defence Council approved procurement of PATRIA 6x6 wheeled armoured personnel carriers to support the new National Division, targeted for 2030 (2026-05-27).",
+    "Lithuania's Cabinet authorised a direct-award purchase of 48 Merops AS-3 interceptor drones from Perennial Autonomy, citing essential security interests (2026-04-22).",
+    "The Lithuanian Cabinet approved a Defence Ministry proposal to simplify and speed up military procurement, applying streamlined industrial-cooperation mechanisms to strategically important contracts (2026-06-03)."
+  ],
+  "upcoming_major_purchase": {
+    "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
+    "quantity": "Multiple vehicle types across several thousand units (exact unit breakdown not yet published)",
+    "value": "EUR 1 billion",
+    "expected_delivery": "2026-2032",
+    "notes": "Described by officials as one of the largest investments in Lithuanian military logistics history; contract already signed, deliveries beginning 2026."
+  },
   "nato_presence": {
     "battlegroup_name": "NATO Multinational Battlegroup Lithuania",
     "framework_nation": "Germany",
-    "troops_estimate": "1,000 - 5,000 (German brigade to reach 5,000 by 2027)",
-    "notes": "eFP battlegroup under Multinational Corps Northeast, Szczecin"
+    "troops_estimate": "1,000 - 5,000",
+    "notes": "Brigade-level presence being built up; troop numbers fluctuate with rotations."
   }
 }
