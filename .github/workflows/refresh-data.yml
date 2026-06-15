@@ -1,0 +1,32 @@
+name: Refresh Dashboard Data
+
+# Manual trigger: shows a "Run workflow" button on the Actions tab,
+# plus optional daily/weekly schedule (commented out for now).
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 6 * * *"   # daily at 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Placeholder - data refresh step
+        run: |
+          echo "This is where the data-refresh script will run."
+          echo "E.g. pull Wikidata personnel stats, RSS news/procurement,"
+          echo "then write updated JSON into data/*.json."
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git diff --staged --quiet || git commit -m "Automated data refresh"
+          git push
