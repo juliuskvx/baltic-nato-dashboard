@@ -143,6 +143,39 @@
     margin: 4px 0 0;
     line-height: 1.5;
   }
+  .news-list {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin: 0 0 14px;
+    padding-left: 18px;
+    line-height: 1.6;
+  }
+  .news-list li {
+    margin-bottom: 6px;
+  }
+  .upcoming-box {
+    background: #fbf3e3;
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin-bottom: 14px;
+  }
+  .upcoming-box .utitle {
+    font-size: 12px;
+    font-weight: 500;
+    color: #8a5a00;
+    margin: 0 0 6px;
+  }
+  .upcoming-box .uitem {
+    font-size: 13px;
+    font-weight: 500;
+    margin: 0 0 4px;
+  }
+  .upcoming-box .udetail {
+    font-size: 12px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin: 0;
+  }
   .error {
     color: #a32d2d;
     font-size: 13px;
@@ -192,6 +225,22 @@ function renderCard(data) {
     </div>
   `).join("");
 
+  const newsHtml = (data.news || []).map(n => `<li>${n}</li>`).join("");
+
+  const up = data.upcoming_major_purchase;
+  const upcomingHtml = up ? `
+    <div class="upcoming-box">
+      <p class="utitle">Upcoming major purchase</p>
+      <p class="uitem">${up.item}</p>
+      <p class="udetail">
+        Quantity: ${up.quantity}<br>
+        Value: ${up.value}<br>
+        Expected delivery: ${up.expected_delivery}
+        ${up.notes ? `<br>${up.notes}` : ""}
+      </p>
+    </div>
+  ` : "";
+
   return `
     <div class="card">
       <div class="card-title"><h2>${data.country}</h2></div>
@@ -217,6 +266,11 @@ function renderCard(data) {
       <p class="section-title">NATO troops deployed</p>
       <p class="nato-value">${data.nato_presence.troops_estimate}</p>
       <p class="nato-note"><strong>${data.nato_presence.battlegroup_name}</strong> &mdash; framework nation: ${data.nato_presence.framework_nation}<br>${data.nato_presence.notes}</p>
+
+      ${upcomingHtml}
+
+      <p class="section-title">Latest news</p>
+      <ul class="news-list">${newsHtml}</ul>
     </div>
   `;
 }
