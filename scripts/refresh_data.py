@@ -16,26 +16,45 @@ WIKIDATA_ENTITIES = {
     "estonia":   {"entity": "Q216193", "label": "Estonia"},
 }
 
-# Only feeds confirmed working in last run + fixed alternatives
 RSS_FEEDS = [
     "https://defence-blog.com/feed/",
     "https://www.defensenews.com/arc/outboundfeeds/rss/?rss=all",
-    "https://eng.lsm.lv/rss",                        # Latvia broadcaster ✅
-    "https://www.err.ee/rss",                         # Estonia broadcaster ✅
-    "https://www.lrt.lt/?rss",                        # Lithuania broadcaster (fixed URL)
-    "https://defenseone.com/rss/all",                 # replacement for broken feeds
-    "https://bulgarianmilitary.com/feed/",            # covers Baltic well
-    "https://www.defencetalk.com/news/feed/",         # additional source
+    "https://eng.lsm.lv/rss",           # Latvia broadcaster ✅
+    "https://www.err.ee/rss",            # Estonia broadcaster ✅
+    "https://www.lrt.lt/?rss",           # Lithuania broadcaster
+    "https://defenseone.com/rss/all",    # ✅
+    "https://www.defencetalk.com/news/feed/",  # ✅
+    "https://globalsecurityreview.com/feed/",  # Baltic coverage
+    "https://www.nato.int/cps/en/natolive/news.htm?selectedLocale=en&topicsID=117&isFeatured=true&feed=rss",  # NATO news
 ]
 
 MAX_RSS_ITEMS = 30
-WIKIDATA_DELAY = 5  # seconds between Wikidata requests
+WIKIDATA_DELAY = 70  # seconds — Wikidata rate limit is 1 req/min during outage
 
 COUNTRY_KEYWORDS = {
-    "lithuania": ["lithuania", "lithuanian", "lietuva", "lietuvos", "kariuomene", "vilnius", "kaunas"],
-    "latvia":    ["latvia", "latvian", "latvija", "latvijas", "riga", "zemessardze"],
-    "estonia":   ["estonia", "estonian", "eesti", "tallinn", "tartu", "kaitseliit"],
+    "lithuania": [
+        "lithuania", "lithuanian", "lietuva", "lietuvos", "kariuomene",
+        "vilnius", "kaunas", "lithuanian armed forces", "lithuanian army",
+        "lithuanian air", "lithuanian navy", "german brigade lithuania",
+        "nato lithuania", "efp lithuania",
+    ],
+    "latvia": [
+        "latvia", "latvian", "latvija", "latvijas", "riga",
+        "zemessardze", "latvian armed", "latvian army", "nato latvia",
+        "efp latvia", "canadian brigade latvia",
+    ],
+    "estonia": [
+        "estonia", "estonian", "eesti", "tallinn", "tartu",
+        "kaitseliit", "estonian defence", "estonian army", "nato estonia",
+        "efp estonia", "uk brigade estonia", "british brigade estonia",
+    ],
 }
+
+# All three countries share these — match if any country keyword also present
+BALTIC_KEYWORDS = [
+    "baltic", "baltic states", "baltic countries", "baltic defence",
+    "baltic defense", "efp", "enhanced forward presence",
+]
 
 DEFENCE_KEYWORDS = [
     "military", "defence", "defense", "armed forces", "army", "navy", "air force",
@@ -43,7 +62,7 @@ DEFENCE_KEYWORDS = [
     "procurement", "contract", "purchase", "order", "delivery", "signed",
     "missile", "artillery", "howitzer", "tank", "ifv", "apc", "drone", "uav",
     "himars", "iris-t", "ascod", "boxer", "nasams", "k9", "chunmoo", "patriot",
-    "f-35", "leopard", "ammunition", "munition", "radar", "air defence", "air defense",
+    "leopard", "ammunition", "munition", "radar", "air defence", "air defense",
     "ministry of defence", "ministry of defense",
 ]
 
@@ -56,12 +75,16 @@ PROCUREMENT_KEYWORDS = [
 # ── Wikidata ──────────────────────────────────────────────────────────────────
 
 def fetch_wikidata_personnel(entity_id: str) -> dict:
-    sparql = f"SELECT ?active ?reserve WHERE {{ OPTIONAL {{ wd:{entity_id} wdt:P1148 ?active. }} OPTIONAL {{ wd:{entity_id} wdt:P2031 ?reserve. }} }}"
+    sparql = (
+        f"SELECT ?active ?reserve WHERE {{"
+        f" OPTIONAL {{ wd:{entity_id} wdt:P1148 ?active. }}"
+        f" OPTIONAL {{ wd:{entity_id} wdt:P2031 ?reserve. }} }}"
+    )
     url = "https://query.wikidata.org/sparql?query=" + urllib.parse.quote(sparql) + "&format=json"
     try:
         req = urllib.request.Request(url, headers={
             "User-Agent": "baltic-nato-dashboard/1.0 (https://github.com/juliuskvx/baltic-nato-dashboard)",
-            "Accept": "application/json"
+            "Accept": "application/json",
         })
         with urllib.request.urlopen(req, timeout=20) as resp:
             data = json.loads(resp.read().decode())
@@ -97,8 +120,8 @@ def strip_html(t: str) -> str:
 def fetch_rss(feed_url: str) -> list:
     try:
         req = urllib.request.Request(feed_url, headers={
-            "User-Agent": "baltic-nato-dashboard/1.0",
-            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
+            "User-Agent": "Mozilla/5.0 (compatible; baltic-nato-dashboard/1.0)",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
         })
         with urllib.request.urlopen(req, timeout=15) as resp:
             raw = resp.read()
@@ -107,10 +130,9 @@ def fetch_rss(feed_url: str) -> list:
         return []
 
     raw = raw.lstrip(b"\xef\xbb\xbf")
-
-    # thedefensepost has invalid XML — strip bad chars
+    # Strip invalid XML characters (handles thedefensepost broken feed)
     try:
-        raw_clean = re.sub(rb'[^\x09\x0A\x0D\x20-\uD7FF\uE000-\uFFFD]', b'', raw)
+        raw_clean = re.sub(rb'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', b'', raw)
     except Exception:
         raw_clean = raw
 
@@ -121,13 +143,11 @@ def fetch_rss(feed_url: str) -> list:
             break
         except ET.ParseError:
             continue
-
     if root is None:
         print(f"  [RSS] Parse error {feed_url}", file=sys.stderr)
         return []
 
     items = []
-
     # RSS 2.0
     for item in root.findall(".//item"):
         title   = strip_html(item.findtext("title") or "")
@@ -157,36 +177,42 @@ def fetch_rss(feed_url: str) -> list:
 
 # ── Keyword matching ──────────────────────────────────────────────────────────
 
-def matches_country(item, country):
-    text = (item["title"] + " " + item["summary"]).lower()
-    return any(kw in text for kw in COUNTRY_KEYWORDS[country])
-
-def matches_defence(item):
+def matches_defence(item) -> bool:
     text = (item["title"] + " " + item["summary"]).lower()
     return any(kw in text for kw in DEFENCE_KEYWORDS)
 
-def is_procurement(item):
+def matches_country(item, country: str) -> bool:
+    text = (item["title"] + " " + item["summary"]).lower()
+    # Direct country keyword match
+    if any(kw in text for kw in COUNTRY_KEYWORDS[country]):
+        return True
+    # Baltic keyword + defence = include for all three
+    if any(kw in text for kw in BALTIC_KEYWORDS) and matches_defence(item):
+        return True
+    return False
+
+def is_procurement(item) -> bool:
     text = (item["title"] + " " + item["summary"]).lower()
     return any(kw in text for kw in PROCUREMENT_KEYWORDS)
 
-def extract_value(text):
+def extract_value(text: str) -> str:
     for pat in [
         r"(EUR\s+[\d.,]+\s*(?:billion|million|bn|m)\b)",
         r"(USD\s+[\d.,]+\s*(?:billion|million|bn|m)\b)",
         r"(€\s*[\d.,]+\s*(?:billion|million|bn|m)\b)",
-        r"(\$\s*[\d.,]+\s*(?:billion|million|bn|m)\b)",
+        r"(\$[\d.,]+\s*(?:billion|million|bn|m)\b)",
         r"([\d.,]+\s*(?:billion|million)\s*(?:euro|dollar)s?)",
     ]:
         m = re.search(pat, text, re.IGNORECASE)
         if m: return m.group(1).strip()
     return "Not disclosed"
 
-def make_news_bullet(item):
+def make_news_bullet(item) -> str:
     title = item["title"].strip().rstrip(".")
     date  = f" ({item['date']})" if item.get("date") else ""
     return f"{title}{date}."
 
-def make_procurement_entry(item):
+def make_procurement_entry(item) -> dict:
     text = item["title"] + " " + item["summary"]
     return {
         "item":          item["title"][:120],
@@ -199,7 +225,7 @@ def make_procurement_entry(item):
 
 # ── Merge helpers ─────────────────────────────────────────────────────────────
 
-def dedup_news(existing, new_items):
+def dedup_news(existing: list, new_items: list) -> list:
     seen = {n.lower()[:70] for n in existing}
     result = list(existing)
     for item in new_items:
@@ -209,7 +235,7 @@ def dedup_news(existing, new_items):
             seen.add(key)
     return result[-8:]
 
-def dedup_procurement(existing, new_items):
+def dedup_procurement(existing: list, new_items: list) -> list:
     seen = {p["item"].lower()[:50] for p in existing}
     result = list(existing)
     for item in new_items:
@@ -219,10 +245,10 @@ def dedup_procurement(existing, new_items):
             seen.add(key)
     return result[-10:]
 
-def load_json(path):
+def load_json(path: str) -> dict:
     with open(path, "r", encoding="utf-8") as f: return json.load(f)
 
-def save_json(path, data):
+def save_json(path: str, data: dict):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"  [JSON] Saved {path}")
@@ -233,17 +259,17 @@ def main():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     print(f"=== Baltic Dashboard Refresh — {today} ===\n")
 
-    # Step 1: Wikidata (with delay to avoid rate limiting)
+    # Step 1: Wikidata (long delay due to rate limiting)
     print("Step 1: Fetching Wikidata personnel figures...")
     wikidata = {}
     for i, (country, cfg) in enumerate(WIKIDATA_ENTITIES.items()):
         if i > 0:
-            print(f"  Waiting {WIKIDATA_DELAY}s to avoid rate limit...")
+            print(f"  Waiting {WIKIDATA_DELAY}s between Wikidata requests...")
             time.sleep(WIKIDATA_DELAY)
         print(f"  {cfg['label']} ({cfg['entity']})...")
         result = fetch_wikidata_personnel(cfg["entity"])
         wikidata[country] = result
-        print(f"    → {result}")
+        print(f"    → {result if result else 'no data (will keep existing)'}")
 
     # Step 2: RSS feeds
     print("\nStep 2: Fetching RSS feeds...")
@@ -267,8 +293,8 @@ def main():
 
     # Step 3: Classify per country
     print("\nStep 3: Classifying items per country...")
-    per_news = {c: [] for c in WIKIDATA_ENTITIES}
-    per_proc = {c: [] for c in WIKIDATA_ENTITIES}
+    per_news:  dict = {c: [] for c in WIKIDATA_ENTITIES}
+    per_proc:  dict = {c: [] for c in WIKIDATA_ENTITIES}
 
     for item in unique:
         for country in WIKIDATA_ENTITIES:
