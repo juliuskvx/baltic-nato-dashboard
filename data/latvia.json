@@ -50,14 +50,49 @@
       "delivery": "Multi-year framework, deliveries began January 2026",
       "source_url": "https://defence-blog.com/latvia-signs-multi-year-deal-for-autonomous-drone-killers/",
       "date_reported": "2026-04-21"
+    },
+    {
+      "item": "Broadening Latvia's 'eastern border area' concept a possibility",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/17.06.2026-broadening-latvias-eastern-border-area-concept-a-possibility.a651786/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-17"
+    },
+    {
+      "item": "Cheap orders from outside EU won't be as cheap anymore in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/16.06.2026-cheap-orders-from-outside-eu-wont-be-as-cheap-anymore-in-latvia.a651612/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-16"
+    },
+    {
+      "item": "Two migrant carriers stopped after police chase in eastern Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/15.06.2026-two-migrant-carriers-stopped-after-police-chase-in-eastern-latvia.a651525/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-15"
+    },
+    {
+      "item": "Kulbergs puts temporary stop to ICT procurements in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/politics/15.06.2026-kulbergs-puts-temporary-stop-to-ict-procurements-in-latvia.a651515/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-15"
     }
   ],
   "news": [
-    "Latvia signed a EUR 600 million contract with Diehl Defence (Germany) for IRIS-T medium-range air defence systems, jointly procured with Estonia, with delivery in 2026 - the largest military procurement since Latvia regained independence (2026-02-12).",
-    "Latvia is set to receive the first of 84 ordered ASCOD (Hunter) infantry fighting vehicles in spring 2026, with assembly at the Patria/GDELS plant in Trubia, Spain (2026-02-01).",
-    "Latvia's Ministry of Defence signed contracts with three Latvian firms (Brasa Defence Systems, Natrix, LV-Teh) for domestically-built unmanned ground systems, the first such procurement of locally developed ground drones (2026-04-10).",
-    "Latvia's Cabinet approved the first contract under a multi-year BLAZE interceptor drone framework with Riga-based Origin Robotics, financed through the EU Security Action Fund (2026-04-21).",
-    "Latvia's 2026 defence budget reached EUR 2.16 billion (4.91% of GDP), with continued work on centralising and streamlining procurement (2025-12-04)."
+    "Broadening Latvia's 'eastern border area' concept a possibility (2026-06-17).",
+    "National Guard drone training upcoming in Mārupe and Ķekava (2026-06-16).",
+    "Latvia and USA sign drone development document in Paris (2026-06-16).",
+    "Latvian Defence Minister on drones: \"We'll shoot them down\" (2026-06-16).",
+    "Cheap orders from outside EU won't be as cheap anymore in Latvia (2026-06-16).",
+    "Shards found in Latvia, possibly related to drone incident (2026-06-15).",
+    "Two migrant carriers stopped after police chase in eastern Latvia (2026-06-15).",
+    "Kulbergs puts temporary stop to ICT procurements in Latvia (2026-06-15)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
