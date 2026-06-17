@@ -4,7 +4,7 @@ Baltic States NATO Dashboard - Data Refresh Script
 No API key required. Uses RSS feeds + keyword matching.
 """
 
-import json, os, sys, re, time, urllib.request, urllib.error, urllib.parse
+import json, os, sys, re, urllib.request, urllib.error, urllib.parse
 from datetime import datetime, timezone
 import xml.etree.ElementTree as ET
 
@@ -12,53 +12,44 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 
 WIKIDATA_ENTITIES = {
     "lithuania": {"entity": "Q809748", "label": "Lithuania"},
-    "latvia":    {"entity": "Q216330", "label": "Latvia"},
-    "estonia":   {"entity": "Q216193", "label": "Estonia"},
+    "latvia":    {"entity": "Q216330",  "label": "Latvia"},
+    "estonia":   {"entity": "Q216193",  "label": "Estonia"},
 }
 
 RSS_FEEDS = [
     "https://defence-blog.com/feed/",
     "https://www.defensenews.com/arc/outboundfeeds/rss/?rss=all",
-    "https://eng.lsm.lv/rss",           # Latvia broadcaster ✅
-    "https://www.err.ee/rss",            # Estonia broadcaster ✅
-    "https://www.lrt.lt/?rss",           # Lithuania broadcaster
-    "https://defenseone.com/rss/all",    # ✅
-    "https://www.defencetalk.com/news/feed/",  # ✅
-    "https://globalsecurityreview.com/feed/",  # Baltic coverage
-    "https://www.nato.int/cps/en/natolive/news.htm?selectedLocale=en&topicsID=117&isFeatured=true&feed=rss",  # NATO news
+    "https://eng.lsm.lv/rss",
+    "https://www.err.ee/rss",
+    "https://www.lrt.lt/?rss",
+    "https://defenseone.com/rss/all",
+    "https://www.defencetalk.com/news/feed/",
+    "https://globalsecurityreview.com/feed/",
 ]
 
 MAX_RSS_ITEMS = 30
-WIKIDATA_DELAY = 70  # seconds — Wikidata rate limit is 1 req/min during outage
 
 COUNTRY_KEYWORDS = {
     "lithuania": [
         "lithuania", "lithuanian", "lietuva", "lietuvos", "kariuomene",
-        "vilnius", "kaunas", "lithuanian armed forces", "lithuanian army",
-        "lithuanian air", "lithuanian navy", "german brigade lithuania",
-        "nato lithuania", "efp lithuania",
+        "vilnius", "kaunas",
     ],
     "latvia": [
-        "latvia", "latvian", "latvija", "latvijas", "riga",
-        "zemessardze", "latvian armed", "latvian army", "nato latvia",
-        "efp latvia", "canadian brigade latvia",
+        "latvia", "latvian", "latvija", "latvijas", "riga", "zemessardze",
     ],
     "estonia": [
-        "estonia", "estonian", "eesti", "tallinn", "tartu",
-        "kaitseliit", "estonian defence", "estonian army", "nato estonia",
-        "efp estonia", "uk brigade estonia", "british brigade estonia",
+        "estonia", "estonian", "eesti", "tallinn", "tartu", "kaitseliit",
     ],
 }
 
-# All three countries share these — match if any country keyword also present
 BALTIC_KEYWORDS = [
-    "baltic", "baltic states", "baltic countries", "baltic defence",
-    "baltic defense", "efp", "enhanced forward presence",
+    "baltic states", "baltic countries", "baltic defence", "baltic defense",
+    "baltic region", "baltic nations", "enhanced forward presence",
 ]
 
 DEFENCE_KEYWORDS = [
     "military", "defence", "defense", "armed forces", "army", "navy", "air force",
-    "nato", "efp", "battlegroup", "brigade", "battalion", "regiment",
+    "nato", "efp", "battlegroup", "brigade", "battalion",
     "procurement", "contract", "purchase", "order", "delivery", "signed",
     "missile", "artillery", "howitzer", "tank", "ifv", "apc", "drone", "uav",
     "himars", "iris-t", "ascod", "boxer", "nasams", "k9", "chunmoo", "patriot",
@@ -75,6 +66,7 @@ PROCUREMENT_KEYWORDS = [
 # ── Wikidata ──────────────────────────────────────────────────────────────────
 
 def fetch_wikidata_personnel(entity_id: str) -> dict:
+    """Fetch personnel via SPARQL. Returns {} on any error (keeps existing data)."""
     sparql = (
         f"SELECT ?active ?reserve WHERE {{"
         f" OPTIONAL {{ wd:{entity_id} wdt:P1148 ?active. }}"
@@ -130,11 +122,7 @@ def fetch_rss(feed_url: str) -> list:
         return []
 
     raw = raw.lstrip(b"\xef\xbb\xbf")
-    # Strip invalid XML characters (handles thedefensepost broken feed)
-    try:
-        raw_clean = re.sub(rb'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', b'', raw)
-    except Exception:
-        raw_clean = raw
+    raw_clean = re.sub(rb'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', b'', raw)
 
     root = None
     for attempt in [raw_clean, raw]:
@@ -148,7 +136,6 @@ def fetch_rss(feed_url: str) -> list:
         return []
 
     items = []
-    # RSS 2.0
     for item in root.findall(".//item"):
         title   = strip_html(item.findtext("title") or "")
         link    = (item.findtext("link") or "").strip()
@@ -158,7 +145,6 @@ def fetch_rss(feed_url: str) -> list:
             items.append({"title": title, "link": link, "date": pub, "summary": summary})
         if len(items) >= MAX_RSS_ITEMS: break
 
-    # Atom
     if not items:
         for entry in root.findall(".//{http://www.w3.org/2005/Atom}entry"):
             title = strip_html(entry.findtext("{http://www.w3.org/2005/Atom}title") or "")
@@ -183,11 +169,10 @@ def matches_defence(item) -> bool:
 
 def matches_country(item, country: str) -> bool:
     text = (item["title"] + " " + item["summary"]).lower()
-    # Direct country keyword match
     if any(kw in text for kw in COUNTRY_KEYWORDS[country]):
         return True
-    # Baltic keyword + defence = include for all three
-    if any(kw in text for kw in BALTIC_KEYWORDS) and matches_defence(item):
+    # "Baltic states/region/defence" articles apply to all three
+    if any(kw in text for kw in BALTIC_KEYWORDS):
         return True
     return False
 
@@ -259,17 +244,14 @@ def main():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     print(f"=== Baltic Dashboard Refresh — {today} ===\n")
 
-    # Step 1: Wikidata (long delay due to rate limiting)
-    print("Step 1: Fetching Wikidata personnel figures...")
+    # Step 1: Wikidata — try once, no delay, skip if rate-limited
+    print("Step 1: Fetching Wikidata personnel figures (skips gracefully if rate-limited)...")
     wikidata = {}
-    for i, (country, cfg) in enumerate(WIKIDATA_ENTITIES.items()):
-        if i > 0:
-            print(f"  Waiting {WIKIDATA_DELAY}s between Wikidata requests...")
-            time.sleep(WIKIDATA_DELAY)
+    for country, cfg in WIKIDATA_ENTITIES.items():
         print(f"  {cfg['label']} ({cfg['entity']})...")
         result = fetch_wikidata_personnel(cfg["entity"])
         wikidata[country] = result
-        print(f"    → {result if result else 'no data (will keep existing)'}")
+        print(f"    → {result if result else 'rate-limited or no data — keeping existing'}")
 
     # Step 2: RSS feeds
     print("\nStep 2: Fetching RSS feeds...")
@@ -290,6 +272,11 @@ def main():
         if url: seen_urls.add(url)
         unique.append(item)
     print(f"  Total unique defence items: {len(unique)}")
+
+    # Debug: print titles so we can see what's being matched
+    print("\n  Item titles found:")
+    for item in unique:
+        print(f"    - {item['title'][:90]}")
 
     # Step 3: Classify per country
     print("\nStep 3: Classifying items per country...")
