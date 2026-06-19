@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-06-18",
+  "last_updated": "2026-06-19",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -82,17 +82,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/politics/politics/15.06.2026-kulbergs-puts-temporary-stop-to-ict-procurements-in-latvia.a651515/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-06-15"
+    },
+    {
+      "item": "Latvian army commander promoted to highest rank",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/19.06.2026-latvian-army-commander-promoted-to-highest-rank.a652169/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-19"
     }
   ],
   "news": [
-    "Latvian Defence Minister on drones: \"We'll shoot them down\" (2026-06-16).",
-    "Cheap orders from outside EU won't be as cheap anymore in Latvia (2026-06-16).",
     "Shards found in Latvia, possibly related to drone incident (2026-06-15).",
     "Two migrant carriers stopped after police chase in eastern Latvia (2026-06-15).",
     "Kulbergs puts temporary stop to ICT procurements in Latvia (2026-06-15).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
     "France to buy Latvian 'Blaze' drone interceptor system (2026-06-17).",
-    "Broadening Latvia's 'eastern border area' concept a possibility (2026-06-17)."
+    "Broadening Latvia's 'eastern border area' concept a possibility (2026-06-17).",
+    "Latvian army commander promoted to highest rank (2026-06-19).",
+    "Drone-related crimes to be punished more strictly in Latvia (2026-06-19)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
