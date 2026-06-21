@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-06-20",
+  "last_updated": "2026-06-21",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -50,6 +50,14 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/u-s-army-launches-95-million-biotech-accelerator/",
       "date_reported": "2026-06-19"
+    },
+    {
+      "item": "UK startup tests new long-range strike missile",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/uk-startup-tests-new-long-range-strike-missile/",
+      "date_reported": "2026-06-20"
     }
   ],
   "news": [
@@ -59,7 +67,8 @@
     "In 2026 Estonia will receive its first IRIS-T medium-range air defence systems, jointly procured with Latvia from Diehl Defence, adding a new air defence layer with a range of roughly 40km and altitude coverage up to 20km (2026-02-12).",
     "Estonia's K9 self-propelled howitzer fleet is being expanded to 36 units, alongside continued Caesar and HIMARS deployments and ongoing ammunition procurement (2026-02-13).",
     "Canadian startup built silent electric motorcycle for soldiers (2026-06-16).",
-    "U.S. Army launches $95 million biotech accelerator (2026-06-19)."
+    "U.S. Army launches $95 million biotech accelerator (2026-06-19).",
+    "UK startup tests new long-range strike missile (2026-06-20)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
