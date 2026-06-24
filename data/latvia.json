@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-06-23",
+  "last_updated": "2026-06-24",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -90,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/19.06.2026-latvian-army-commander-promoted-to-highest-rank.a652169/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-06-19"
+    },
+    {
+      "item": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
+      "date_reported": "2026-06-24"
     }
   ],
   "news": [
-    "Shards found in Latvia, possibly related to drone incident (2026-06-15).",
     "Two migrant carriers stopped after police chase in eastern Latvia (2026-06-15).",
     "Kulbergs puts temporary stop to ICT procurements in Latvia (2026-06-15).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
     "France to buy Latvian 'Blaze' drone interceptor system (2026-06-17).",
     "Broadening Latvia's 'eastern border area' concept a possibility (2026-06-17).",
     "Latvian army commander promoted to highest rank (2026-06-19).",
-    "Drone-related crimes to be punished more strictly in Latvia (2026-06-19)."
+    "Drone-related crimes to be punished more strictly in Latvia (2026-06-19).",
+    "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos (2026-06-24)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
