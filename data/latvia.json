@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "ASCOD (Hunter) infantry fighting vehicles - first batch of 84 ordered",
-      "value": "Not disclosed",
-      "supplier": "Santa Barbara Sistemas / General Dynamics European Land Systems",
-      "delivery": "First vehicles spring 2026, entering service by autumn 2026",
-      "source_url": "https://militarnyi.com/en/news/latvia-to-receive-first-ascod-vehicles/",
-      "date_reported": "2026-02-01"
-    },
-    {
-      "item": "Domestically-built unmanned ground systems",
-      "value": "Not disclosed",
-      "supplier": "Brasa Defence Systems, Natrix, LV-Teh (Latvia)",
-      "delivery": "Gradual integration into regular Armed Forces units",
-      "source_url": "https://defence-blog.com/latvia-confirms-ground-drone-procurement-from-three-local-firms/",
-      "date_reported": "2026-04-10"
-    },
     {
       "item": "BLAZE autonomous interceptor drones (multi-year framework)",
       "value": "Not disclosed; financed via EU Security Action Fund",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/transport/25.06.2026-latvian-vivi-to-sue-skoda-vagonka-for-train-delays.a652641/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-06-25"
+    },
+    {
+      "item": "Latvia to put up more air defence systems",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/26.06.2026-latvia-to-put-up-more-air-defence-systems.a652745/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-26"
+    },
+    {
+      "item": "Nine migrant smugglers caught over the holidays in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/25.06.2026-nine-migrant-smugglers-caught-over-the-holidays-in-latvia.a652691/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-25"
     }
   ],
   "news": [
-    "Kulbergs puts temporary stop to ICT procurements in Latvia (2026-06-15).",
-    "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
-    "France to buy Latvian 'Blaze' drone interceptor system (2026-06-17).",
-    "Broadening Latvia's 'eastern border area' concept a possibility (2026-06-17).",
     "Latvian army commander promoted to highest rank (2026-06-19).",
     "Drone-related crimes to be punished more strictly in Latvia (2026-06-19).",
     "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos (2026-06-24).",
-    "Latvian Vivi to sue Škoda Vagonka for train delays (2026-06-25)."
+    "Latvian Vivi to sue Škoda Vagonka for train delays (2026-06-25).",
+    "Latvia still mulls rules on drone damage compensation (2026-06-26).",
+    "Latvia to put up more air defence systems (2026-06-26).",
+    "Latvian mental hospital's drunk tank spills over after Midsummer (2026-06-26).",
+    "Nine migrant smugglers caught over the holidays in Latvia (2026-06-25)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
