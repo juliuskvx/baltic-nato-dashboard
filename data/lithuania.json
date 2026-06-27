@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -62,17 +62,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/lithuania-develops-new-autonomous-interceptor-to-kill-kamikaze-drones/",
       "date_reported": "2026-06-25"
+    },
+    {
+      "item": "Kariuomenės instruktoriaus namuose rasti neteisėti šoviniai, išduotas orderis dėl smurto",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.lrt.lt/naujienos/lietuvoje/2/2973024/kariuomenes-instruktoriaus-namuose-rasti-neteiseti-soviniai-isduotas-orderis-del-smurto",
+      "date_reported": "2026-06-27"
     }
   ],
   "news": [
-    "The State Defence Council approved procurement of PATRIA 6x6 wheeled armoured personnel carriers to support the new National Division, targeted for 2030 (2026-05-27).",
     "Lithuania's Cabinet authorised a direct-award purchase of 48 Merops AS-3 interceptor drones from Perennial Autonomy, citing essential security interests (2026-04-22).",
     "The Lithuanian Cabinet approved a Defence Ministry proposal to simplify and speed up military procurement, applying streamlined industrial-cooperation mechanisms to strategically important contracts (2026-06-03).",
     "Lithuanian firm builds GPS-free tool for drone strikes (2026-06-18).",
     "Lietuvos futbolo čempionato turo anonsas: sudėtingos išvykos žalgiriečiams (2026-06-20).",
     "Atrankos langą pasitinkantis Kurtinaitis – apie rinktinės talentą ir Buzelio poziciją (2026-06-22).",
     "Lietuvos lengvaatlečiai Italijoje pasiekė du geriausius sezono rezultatus (2026-06-24).",
-    "Lithuania develops new autonomous interceptor to kill kamikaze drones (2026-06-25)."
+    "Lithuania develops new autonomous interceptor to kill kamikaze drones (2026-06-25).",
+    "Kariuomenės instruktoriaus namuose rasti neteisėti šoviniai, išduotas orderis dėl smurto (2026-06-27)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
