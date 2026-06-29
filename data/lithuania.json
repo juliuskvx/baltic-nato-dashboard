@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-06-28",
+  "last_updated": "2026-06-29",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -70,17 +70,25 @@
       "delivery": "See source",
       "source_url": "https://www.lrt.lt/naujienos/lietuvoje/2/2973024/kariuomenes-instruktoriaus-namuose-rasti-neteiseti-soviniai-isduotas-orderis-del-smurto",
       "date_reported": "2026-06-27"
+    },
+    {
+      "item": "„Brolis Defence Group“ už bent 10 mln. Eur tieks naktinio matymo įrangą Čekijai",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.lrt.lt/naujienos/verslas/4/2975190/brolis-defence-group-uz-bent-10-mln-eur-tieks-naktinio-matymo-iranga-cekijai",
+      "date_reported": "2026-06-29"
     }
   ],
   "news": [
-    "Lithuania's Cabinet authorised a direct-award purchase of 48 Merops AS-3 interceptor drones from Perennial Autonomy, citing essential security interests (2026-04-22).",
-    "The Lithuanian Cabinet approved a Defence Ministry proposal to simplify and speed up military procurement, applying streamlined industrial-cooperation mechanisms to strategically important contracts (2026-06-03).",
-    "Lithuanian firm builds GPS-free tool for drone strikes (2026-06-18).",
     "Lietuvos futbolo čempionato turo anonsas: sudėtingos išvykos žalgiriečiams (2026-06-20).",
     "Atrankos langą pasitinkantis Kurtinaitis – apie rinktinės talentą ir Buzelio poziciją (2026-06-22).",
     "Lietuvos lengvaatlečiai Italijoje pasiekė du geriausius sezono rezultatus (2026-06-24).",
     "Lithuania develops new autonomous interceptor to kill kamikaze drones (2026-06-25).",
-    "Kariuomenės instruktoriaus namuose rasti neteisėti šoviniai, išduotas orderis dėl smurto (2026-06-27)."
+    "Kariuomenės instruktoriaus namuose rasti neteisėti šoviniai, išduotas orderis dėl smurto (2026-06-27).",
+    "„Brolis Defence Group“ už bent 10 mln. Eur tieks naktinio matymo įrangą Čekijai (2026-06-29).",
+    "„Ignitis grupė“ skyrė 4 mln. eurų Ukrainos energetikos sektoriui stiprinti (2026-06-29).",
+    "Į Lietuvą pristatytos prieštankinės minos už daugiau kaip 3 mln. eurų (2026-06-29)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
