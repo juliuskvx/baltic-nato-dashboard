@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "BLAZE autonomous interceptor drones (multi-year framework)",
-      "value": "Not disclosed; financed via EU Security Action Fund",
-      "supplier": "Origin Robotics (Latvia)",
-      "delivery": "Multi-year framework, deliveries began January 2026",
-      "source_url": "https://defence-blog.com/latvia-signs-multi-year-deal-for-autonomous-drone-killers/",
-      "date_reported": "2026-04-21"
-    },
     {
       "item": "Broadening Latvia's 'eastern border area' concept a possibility",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/25.06.2026-nine-migrant-smugglers-caught-over-the-holidays-in-latvia.a652691/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-06-25"
+    },
+    {
+      "item": "Rīga's municipal property manager board resigns",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/economy/30.06.2026-rigas-municipal-property-manager-board-resigns.a653200/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-30"
     }
   ],
   "news": [
-    "Latvia to put up more air defence systems (2026-06-26).",
-    "Latvian mental hospital's drunk tank spills over after Midsummer (2026-06-26).",
-    "Nine migrant smugglers caught over the holidays in Latvia (2026-06-25).",
     "101st soldiers use drones to drop grappling hooks, breach razor wire (2026-06-26).",
     "Could the Army’s light squad vehicle power battlefield drones? (2026-06-26).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
     "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos (2026-06-24).",
-    "Drone industry develops in Latvia (2026-06-29)."
+    "Drone industry develops in Latvia (2026-06-29).",
+    "As one Australian Army brigade bulks up with armor, its fuel and ammo needs spike (2026-06-29).",
+    "Latvian citizen handed prison sentence for spying for Russia (2026-06-30).",
+    "Rīga's municipal property manager board resigns (2026-06-30)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
