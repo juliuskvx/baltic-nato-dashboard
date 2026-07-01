@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-06-30",
+  "last_updated": "2026-07-01",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,38 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Broadening Latvia's 'eastern border area' concept a possibility",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/17.06.2026-broadening-latvias-eastern-border-area-concept-a-possibility.a651786/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-17"
-    },
-    {
-      "item": "Cheap orders from outside EU won't be as cheap anymore in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/16.06.2026-cheap-orders-from-outside-eu-wont-be-as-cheap-anymore-in-latvia.a651612/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-16"
-    },
-    {
-      "item": "Two migrant carriers stopped after police chase in eastern Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/15.06.2026-two-migrant-carriers-stopped-after-police-chase-in-eastern-latvia.a651525/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-15"
-    },
-    {
-      "item": "Kulbergs puts temporary stop to ICT procurements in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/politics/15.06.2026-kulbergs-puts-temporary-stop-to-ict-procurements-in-latvia.a651515/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-15"
-    },
     {
       "item": "Latvian army commander promoted to highest rank",
       "value": "Not disclosed",
@@ -98,17 +66,49 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/economy/30.06.2026-rigas-municipal-property-manager-board-resigns.a653200/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-06-30"
+    },
+    {
+      "item": "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/30/latvia-and-ukraine-to-open-drone-factory-right-on-baltic-nations-border-with-russia/",
+      "date_reported": "2026-06-30"
+    },
+    {
+      "item": "What does new 'no Russian' theatre language rule mean?",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/culture/theatre/01.07.2026-what-does-new-no-russian-theatre-language-rule-mean.a653412/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-01"
+    },
+    {
+      "item": "Russia closes rail crossings with Latvia, Estonia, Finland",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/01.07.2026-russia-closes-rail-crossings-with-latvia-estonia-finland.a653406/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-01"
+    },
+    {
+      "item": "Military handover ceremony takes place on Latvia-Estonia border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/30.06.2026-military-handover-ceremony-takes-place-on-latvia-estonia-border.a653341/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-30"
     }
   ],
   "news": [
-    "101st soldiers use drones to drop grappling hooks, breach razor wire (2026-06-26).",
-    "Could the Army’s light squad vehicle power battlefield drones? (2026-06-26).",
-    "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
-    "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos (2026-06-24).",
-    "Drone industry develops in Latvia (2026-06-29).",
-    "As one Australian Army brigade bulks up with armor, its fuel and ammo needs spike (2026-06-29).",
-    "Latvian citizen handed prison sentence for spying for Russia (2026-06-30).",
-    "Rīga's municipal property manager board resigns (2026-06-30)."
+    "Rīga's municipal property manager board resigns (2026-06-30).",
+    "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia (2026-06-30).",
+    "What does new 'no Russian' theatre language rule mean? (2026-07-01).",
+    "Communication about air show could have been better, says minister (2026-07-01).",
+    "Russia closes rail crossings with Latvia, Estonia, Finland (2026-07-01).",
+    "Defence Minister Melnis won't stand in Saeima elections (2026-07-01).",
+    "Military handover ceremony takes place on Latvia-Estonia border (2026-06-30).",
+    "Latvian Defence Ministry to spend 58,000 euros on WWII bunker (2026-06-30)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

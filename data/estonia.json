@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-06-30",
+  "last_updated": "2026-07-01",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,22 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "3x additional HIMARS multiple rocket launchers",
-      "value": "Approx. USD 11 million in local industry investment",
-      "supplier": "Lockheed Martin (USA)",
-      "delivery": "Contract signed 2026; timeline not specified",
-      "source_url": "https://www.janes.com/osint-insights/defence-news/industry/estonia-procures-more-himars",
-      "date_reported": "2026-04-11"
-    },
-    {
-      "item": "3x additional K239 Chunmoo multiple rocket launchers",
-      "value": "Not disclosed",
-      "supplier": "Hanwha Aerospace (South Korea)",
-      "delivery": "Follow-on agreement, 2026",
-      "source_url": "https://www.thedefensenews.com/news-details/Estonia-Signs-Follow-On-Contract-for-Three-Additional-K239-Chunmoo-MLRS-Launchers-from-South-Korea/",
-      "date_reported": "2026-05-11"
-    },
     {
       "item": "IRIS-T medium-range air defence system (jointly procured with Latvia)",
       "value": "Part of EUR 1.27 billion 2026 procurement total",
@@ -82,17 +66,49 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/u-s-army-tests-robot-railcar-to-move-military-cargo/",
       "date_reported": "2026-06-30"
+    },
+    {
+      "item": "Moldova to receive 100+ Canadian-made armored vehicles",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/moldova-to-receive-100-canadian-made-armored-vehicles/",
+      "date_reported": "2026-06-30"
+    },
+    {
+      "item": "Russia closes rail crossings with Latvia, Estonia, Finland",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/01.07.2026-russia-closes-rail-crossings-with-latvia-estonia-finland.a653406/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-01"
+    },
+    {
+      "item": "Military handover ceremony takes place on Latvia-Estonia border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/30.06.2026-military-handover-ceremony-takes-place-on-latvia-estonia-border.a653341/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-06-30"
+    },
+    {
+      "item": "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defenseone.com/business/2026/06/lawmaker-warns-administrations-fetishization-silicon-valley-startups/414524/",
+      "date_reported": "2026-06-30"
     }
   ],
   "news": [
-    "UK startup tests new long-range strike missile (2026-06-20).",
-    "Estonia gets IRIS-T SLM air defense system that proved itself in Ukraine (2026-06-23).",
-    "German AI startup powers military drones without GPS (2026-06-24).",
-    "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory (2026-06-26).",
     "Saksa-Hollandi korpus võtab üle Eesti ja Läti maavägede taktikalise juhtimise (2026-06-28).",
     "Estonia tested a spy drone that hunts enemy electronics (2026-06-29).",
     "Į Lietuvą pristatytos prieštankinės minos už daugiau kaip 3 mln. eurų (2026-06-29).",
-    "U.S. Army tests robot railcar to move military cargo (2026-06-30)."
+    "U.S. Army tests robot railcar to move military cargo (2026-06-30).",
+    "Moldova to receive 100+ Canadian-made armored vehicles (2026-06-30).",
+    "Russia closes rail crossings with Latvia, Estonia, Finland (2026-07-01).",
+    "Military handover ceremony takes place on Latvia-Estonia border (2026-06-30).",
+    "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups (2026-06-30)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
