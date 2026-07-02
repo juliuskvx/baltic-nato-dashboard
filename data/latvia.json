@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-01",
+  "last_updated": "2026-07-02",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian army commander promoted to highest rank",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/19.06.2026-latvian-army-commander-promoted-to-highest-rank.a652169/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-19"
-    },
-    {
-      "item": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
-      "date_reported": "2026-06-24"
-    },
     {
       "item": "Latvian Vivi to sue Škoda Vagonka for train delays",
       "value": "5.7 million euros",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/30.06.2026-military-handover-ceremony-takes-place-on-latvia-estonia-border.a653341/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-06-30"
+    },
+    {
+      "item": "Lockheed Martin gets $104 million for Spanish Navy F-100 frigate upgrade",
+      "value": "$104 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/lockheed-martin-gets-104-million-for-spanish-navy-f-100-frigate-upgrade/",
+      "date_reported": "2026-07-01"
+    },
+    {
+      "item": "Southwestern Latvia boasts many home cafés this year",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/culture/food-drink/02.07.2026-southwestern-latvia-boasts-many-home-cafes-this-year.a653540/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-02"
     }
   ],
   "news": [
-    "Rīga's municipal property manager board resigns (2026-06-30).",
-    "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia (2026-06-30).",
-    "What does new 'no Russian' theatre language rule mean? (2026-07-01).",
-    "Communication about air show could have been better, says minister (2026-07-01).",
-    "Russia closes rail crossings with Latvia, Estonia, Finland (2026-07-01).",
-    "Defence Minister Melnis won't stand in Saeima elections (2026-07-01).",
-    "Military handover ceremony takes place on Latvia-Estonia border (2026-06-30).",
-    "Latvian Defence Ministry to spend 58,000 euros on WWII bunker (2026-06-30)."
+    "Latvian Defence Ministry to spend 58,000 euros on WWII bunker (2026-06-30).",
+    "Lockheed Martin gets $104 million for Spanish Navy F-100 frigate upgrade (2026-07-01).",
+    "As one Australian Army brigade bulks up with armor, its fuel and ammo needs spike (2026-06-29).",
+    "101st soldiers use drones to drop grappling hooks, breach razor wire (2026-06-26).",
+    "Southwestern Latvia boasts many home cafés this year (2026-07-02).",
+    "Woman shot this spring in Latvia was walking near military training (2026-07-01).",
+    "Could the Army’s light squad vehicle power battlefield drones? (2026-06-26).",
+    "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
