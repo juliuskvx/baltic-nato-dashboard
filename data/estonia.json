@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-03",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "IRIS-T medium-range air defence system (jointly procured with Latvia)",
-      "value": "Part of EUR 1.27 billion 2026 procurement total",
-      "supplier": "Diehl Defence (Germany)",
-      "delivery": "2026",
-      "source_url": "https://estonianworld.com/security/estonia-to-install-a-medium-range-air-defence-system/",
-      "date_reported": "2026-02-12"
-    },
     {
       "item": "U.S. Army launches $95 million biotech accelerator",
       "value": "$95 million",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://www.defenseone.com/business/2026/06/lawmaker-warns-administrations-fetishization-silicon-valley-startups/414524/",
       "date_reported": "2026-06-30"
+    },
+    {
+      "item": "Defense startups raid auto and fracking sectors for parts to speed weapons output",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/02/defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-output/",
+      "date_reported": "2026-07-02"
     }
   ],
   "news": [
-    "Estonia tested a spy drone that hunts enemy electronics (2026-06-29).",
     "Į Lietuvą pristatytos prieštankinės minos už daugiau kaip 3 mln. eurų (2026-06-29).",
     "U.S. Army tests robot railcar to move military cargo (2026-06-30).",
     "Moldova to receive 100+ Canadian-made armored vehicles (2026-06-30).",
     "Russia closes rail crossings with Latvia, Estonia, Finland (2026-07-01).",
     "Military handover ceremony takes place on Latvia-Estonia border (2026-06-30).",
     "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups (2026-06-30).",
-    "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory (2026-06-26)."
+    "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory (2026-06-26).",
+    "Defense startups raid auto and fracking sectors for parts to speed weapons output (2026-07-02)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

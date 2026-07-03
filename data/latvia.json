@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-03",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian Vivi to sue Škoda Vagonka for train delays",
-      "value": "5.7 million euros",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/25.06.2026-latvian-vivi-to-sue-skoda-vagonka-for-train-delays.a652641/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-25"
-    },
     {
       "item": "Latvia to put up more air defence systems",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/culture/food-drink/02.07.2026-southwestern-latvia-boasts-many-home-cafes-this-year.a653540/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-02"
+    },
+    {
+      "item": "Enhanced border surveillance extended in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/02.07.2026-enhanced-border-surveillance-extended-in-latvia.a653644/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-02"
     }
   ],
   "news": [
-    "Latvian Defence Ministry to spend 58,000 euros on WWII bunker (2026-06-30).",
-    "Lockheed Martin gets $104 million for Spanish Navy F-100 frigate upgrade (2026-07-01).",
-    "As one Australian Army brigade bulks up with armor, its fuel and ammo needs spike (2026-06-29).",
     "101st soldiers use drones to drop grappling hooks, breach razor wire (2026-06-26).",
     "Southwestern Latvia boasts many home cafés this year (2026-07-02).",
     "Woman shot this spring in Latvia was walking near military training (2026-07-01).",
     "Could the Army’s light squad vehicle power battlefield drones? (2026-06-26).",
-    "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11)."
+    "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
+    "Japan built its 10th Mogami-class frigate in record time (2026-07-03).",
+    "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia (2026-06-30).",
+    "Enhanced border surveillance extended in Latvia (2026-07-02)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
