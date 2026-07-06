@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "U.S. Army tests robot railcar to move military cargo (2026-06-30).",
     "Moldova to receive 100+ Canadian-made armored vehicles (2026-06-30).",
     "Russia closes rail crossings with Latvia, Estonia, Finland (2026-07-01).",
     "Military handover ceremony takes place on Latvia-Estonia border (2026-06-30).",
     "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups (2026-06-30).",
     "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory (2026-06-26).",
     "Defense startups raid auto and fracking sectors for parts to speed weapons output (2026-07-02).",
-    "Eesti golfikoondis saab EM-il toetuda koduraja eelisele (2026-07-04)."
+    "Eesti golfikoondis saab EM-il toetuda koduraja eelisele (2026-07-04).",
+    "Swedish startup shows off its new drone-killing interceptor (2026-07-05)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

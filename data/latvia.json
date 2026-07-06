@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia to put up more air defence systems",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/26.06.2026-latvia-to-put-up-more-air-defence-systems.a652745/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-26"
-    },
     {
       "item": "Nine migrant smugglers caught over the holidays in Latvia",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/02.07.2026-enhanced-border-surveillance-extended-in-latvia.a653644/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-02"
+    },
+    {
+      "item": "Latvian airBaltic seats six-year-old separately from parent",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/06.07.2026-latvian-airbaltic-seats-six-year-old-separately-from-parent.a653950/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-06"
     }
   ],
   "news": [
-    "Southwestern Latvia boasts many home cafés this year (2026-07-02).",
     "Woman shot this spring in Latvia was walking near military training (2026-07-01).",
     "Could the Army’s light squad vehicle power battlefield drones? (2026-06-26).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
     "Japan built its 10th Mogami-class frigate in record time (2026-07-03).",
     "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia (2026-06-30).",
     "Enhanced border surveillance extended in Latvia (2026-07-02).",
-    "Latvian businesses urged to apply for EU defence funding (2026-07-03)."
+    "Latvian businesses urged to apply for EU defence funding (2026-07-03).",
+    "Latvian airBaltic seats six-year-old separately from parent (2026-07-06)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
