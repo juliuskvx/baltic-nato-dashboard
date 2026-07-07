@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Nine migrant smugglers caught over the holidays in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/25.06.2026-nine-migrant-smugglers-caught-over-the-holidays-in-latvia.a652691/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-25"
-    },
-    {
-      "item": "Rīga's municipal property manager board resigns",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/economy/30.06.2026-rigas-municipal-property-manager-board-resigns.a653200/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-30"
-    },
     {
       "item": "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/transport/06.07.2026-latvian-airbaltic-seats-six-year-old-separately-from-parent.a653950/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-06"
+    },
+    {
+      "item": "Ukraine eyes UH-60 Black Hawks to replace aging Mi-8 fleet",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/ukraine-eyes-uh-60-black-hawks-to-replace-aging-mi-8-fleet/",
+      "date_reported": "2026-07-06"
+    },
+    {
+      "item": "Party order announced for Latvia's parliamentary elections",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/election/06.07.2026-party-order-announced-for-latvias-parliamentary-elections.a654028/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-06"
     }
   ],
   "news": [
-    "Woman shot this spring in Latvia was walking near military training (2026-07-01).",
-    "Could the Army’s light squad vehicle power battlefield drones? (2026-06-26).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
     "Japan built its 10th Mogami-class frigate in record time (2026-07-03).",
     "Latvia and Ukraine to open drone factory right on Baltic nation’s border with Russia (2026-06-30).",
     "Enhanced border surveillance extended in Latvia (2026-07-02).",
     "Latvian businesses urged to apply for EU defence funding (2026-07-03).",
-    "Latvian airBaltic seats six-year-old separately from parent (2026-07-06)."
+    "Latvian airBaltic seats six-year-old separately from parent (2026-07-06).",
+    "Ukraine eyes UH-60 Black Hawks to replace aging Mi-8 fleet (2026-07-06).",
+    "Party order announced for Latvia's parliamentary elections (2026-07-06)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
