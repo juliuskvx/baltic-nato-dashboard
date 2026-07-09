@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-09",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "U.S. Army launches $95 million biotech accelerator",
-      "value": "$95 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/u-s-army-launches-95-million-biotech-accelerator/",
-      "date_reported": "2026-06-19"
-    },
     {
       "item": "UK startup tests new long-range strike missile",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/02/defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-output/",
       "date_reported": "2026-07-02"
+    },
+    {
+      "item": "Defense Business Brief: Rocket engine startup eyes production; NATO Summit Day 1; Anduril’s first NATO contract",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defenseone.com/business/2026/07/defense-business-brief-rocket-engine-startup-eyes-production-nato-summit-day-1-andurils-first-nato-contract/414668/",
+      "date_reported": "2026-07-08"
     }
   ],
   "news": [
-    "Russia closes rail crossings with Latvia, Estonia, Finland (2026-07-01).",
     "Military handover ceremony takes place on Latvia-Estonia border (2026-06-30).",
     "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups (2026-06-30).",
     "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory (2026-06-26).",
     "Defense startups raid auto and fracking sectors for parts to speed weapons output (2026-07-02).",
     "Eesti golfikoondis saab EM-il toetuda koduraja eelisele (2026-07-04).",
     "Swedish startup shows off its new drone-killing interceptor (2026-07-05).",
-    "Eestimaa südamesse kerkib uus tankla, riik ehitab maantee sellest eemale (2026-07-08)."
+    "Eestimaa südamesse kerkib uus tankla, riik ehitab maantee sellest eemale (2026-07-08).",
+    "Defense Business Brief: Rocket engine startup eyes production; NATO Summit Day 1; Anduril’s first NATO contract (2026-07-08)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

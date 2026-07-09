@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-09",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,38 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Russia closes rail crossings with Latvia, Estonia, Finland",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/01.07.2026-russia-closes-rail-crossings-with-latvia-estonia-finland.a653406/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-01"
-    },
-    {
-      "item": "Military handover ceremony takes place on Latvia-Estonia border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/30.06.2026-military-handover-ceremony-takes-place-on-latvia-estonia-border.a653341/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-30"
-    },
-    {
-      "item": "Lockheed Martin gets $104 million for Spanish Navy F-100 frigate upgrade",
-      "value": "$104 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/lockheed-martin-gets-104-million-for-spanish-navy-f-100-frigate-upgrade/",
-      "date_reported": "2026-07-01"
-    },
-    {
-      "item": "Southwestern Latvia boasts many home cafés this year",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/culture/food-drink/02.07.2026-southwestern-latvia-boasts-many-home-cafes-this-year.a653540/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-02"
-    },
     {
       "item": "Enhanced border surveillance extended in Latvia",
       "value": "Not disclosed",
@@ -98,17 +66,49 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/environment/07.07.2026-what-do-boars-do-in-the-woods-new-study-will-find-out.a654191/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-07"
+    },
+    {
+      "item": "Baltic air policing mission switches to air defence mission",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/09.07.2026-baltic-air-policing-mission-switches-to-air-defence-mission.a654448/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-09"
+    },
+    {
+      "item": "Latvian Border Guard chief: Migrant smugglers are getting aggressive",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/09.07.2026-latvian-border-guard-chief-migrant-smugglers-are-getting-aggressive.a654428/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-09"
+    },
+    {
+      "item": "Latvian SUBmerge to work with industry giant Naval Group",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/business/09.07.2026-latvian-submerge-to-work-with-industry-giant-naval-group.a654425/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-09"
+    },
+    {
+      "item": "Latvia's main cancer clinic to be reconstructed over two years",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/health/08.07.2026-latvias-main-cancer-clinic-to-be-reconstructed-over-two-years.a654354/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-08"
     }
   ],
   "news": [
-    "Latvian airBaltic seats six-year-old separately from parent (2026-07-06).",
-    "Ukraine eyes UH-60 Black Hawks to replace aging Mi-8 fleet (2026-07-06).",
-    "Party order announced for Latvia's parliamentary elections (2026-07-06).",
-    "Could the Army’s light squad vehicle power battlefield drones? (2026-06-26).",
-    "Three NATO nations team up on a new all-terrain tracked vehicle (2026-07-07).",
-    "Edward Lucas: 'There are Europeans who are willing to fight, and Europeans who are not willing to fight' (2026-07-08).",
     "What do boars do in the woods? New study will find out (2026-07-07).",
-    "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11)."
+    "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
+    "Baltic air policing mission switches to air defence mission (2026-07-09).",
+    "Latvian Border Guard chief: Migrant smugglers are getting aggressive (2026-07-09).",
+    "Latvian SUBmerge to work with industry giant Naval Group (2026-07-09).",
+    "Drones help check power lines in Latvia (2026-07-09).",
+    "Canada to increase troop numbers in Latvia (2026-07-08).",
+    "Latvia's main cancer clinic to be reconstructed over two years (2026-07-08)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
