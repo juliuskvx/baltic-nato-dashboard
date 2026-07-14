@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-13",
+  "last_updated": "2026-07-14",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Ukraine eyes UH-60 Black Hawks to replace aging Mi-8 fleet",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/ukraine-eyes-uh-60-black-hawks-to-replace-aging-mi-8-fleet/",
-      "date_reported": "2026-07-06"
-    },
-    {
-      "item": "Party order announced for Latvia's parliamentary elections",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/election/06.07.2026-party-order-announced-for-latvias-parliamentary-elections.a654028/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-06"
-    },
     {
       "item": "Three NATO nations team up on a new all-terrain tracked vehicle",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/business/13.07.2026-latvia-buys-back-forest-from-swedish-owners-for-26-million-euros.a654854/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-13"
+    },
+    {
+      "item": "Latvia's way with surnames can cause problems in other countries",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/latvians-abroad/14.07.2026-latvias-way-with-surnames-can-cause-problems-in-other-countries.a654964/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-14"
+    },
+    {
+      "item": "Latvian Culture Minister suspends co-operation project with women's NGO network",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/culture/culture/13.07.2026-latvian-culture-minister-suspends-co-operation-project-with-womens-ngo-network.a654922/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-13"
     }
   ],
   "news": [
-    "Latvian SUBmerge to work with industry giant Naval Group (2026-07-09).",
-    "Drones help check power lines in Latvia (2026-07-09).",
-    "Canada to increase troop numbers in Latvia (2026-07-08).",
     "Latvia's main cancer clinic to be reconstructed over two years (2026-07-08).",
     "'Lion's Leap' military exercises taking place this weekend (2026-07-10).",
     "Latvia is Belarus' first target for hybrid war: Border Guard chief (2026-07-10).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
-    "Latvia buys back forest from Swedish owners for 26 million euros (2026-07-13)."
+    "Latvia buys back forest from Swedish owners for 26 million euros (2026-07-13).",
+    "Latvia's way with surnames can cause problems in other countries (2026-07-14).",
+    "Latvia's honorary consuls in Ukraine given awards (2026-07-14).",
+    "Latvian Culture Minister suspends co-operation project with women's NGO network (2026-07-13)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
