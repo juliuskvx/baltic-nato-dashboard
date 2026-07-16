@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Three NATO nations team up on a new all-terrain tracked vehicle",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/three-nato-nations-team-up-on-a-new-all-terrain-tracked-vehicle/",
-      "date_reported": "2026-07-07"
-    },
     {
       "item": "What do boars do in the woods? New study will find out",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/culture/culture/13.07.2026-latvian-culture-minister-suspends-co-operation-project-with-womens-ngo-network.a654922/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-13"
+    },
+    {
+      "item": "LRT: Lithuania considering reintroducing checks on Latvian border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/15.07.2026-lrt-lithuania-considering-reintroducing-checks-on-latvian-border.a655168/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-15"
     }
   ],
   "news": [
-    "Latvia's main cancer clinic to be reconstructed over two years (2026-07-08).",
-    "'Lion's Leap' military exercises taking place this weekend (2026-07-10).",
-    "Latvia is Belarus' first target for hybrid war: Border Guard chief (2026-07-10).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
     "Latvia buys back forest from Swedish owners for 26 million euros (2026-07-13).",
     "Latvia's way with surnames can cause problems in other countries (2026-07-14).",
     "Latvia's honorary consuls in Ukraine given awards (2026-07-14).",
-    "Latvian Culture Minister suspends co-operation project with women's NGO network (2026-07-13)."
+    "Latvian Culture Minister suspends co-operation project with women's NGO network (2026-07-13).",
+    "U.S. Army partners with Auriga Space to test electromagnetic weapon (2026-07-15).",
+    "Latvia tweaks its military national service rules (2026-07-15).",
+    "LRT: Lithuania considering reintroducing checks on Latvian border (2026-07-15)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

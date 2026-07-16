@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -86,17 +86,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/10.07.2026-lithuanian-arrested-in-big-cigarette-seizure-in-riga.a654615/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-10"
+    },
+    {
+      "item": "LRT: Lithuania considering reintroducing checks on Latvian border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/15.07.2026-lrt-lithuania-considering-reintroducing-checks-on-latvian-border.a655168/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-15"
     }
   ],
   "news": [
-    "Lithuanian arrested in big cigarette seizure in Rīga (2026-07-10).",
     "'Lion's Leap' military exercises taking place this weekend (2026-07-10).",
     "Nesustabdomi prancūzai žengia tolyn: eksperto žvilgsnis į futbolo čempionato ketvirtfinalį (2026-07-10).",
     "Žiniasklaida: Lietuvos rinktinėje svarstoma Kurtinaičio ateitis, minimi galimi įpėdiniai (2026-07-10).",
     "Miunchene – dar vienas Juškos bilietas į Europos jaunimo plaukimo čempionato finalą (2026-07-12).",
     "Nenustebkite: pirmadienį dalyje Lietuvos vyks NATO oro policijos naikintuvų treniruotės (2026-07-13).",
     "Lietuvoje vykusiame U20 Europos merginų čempionate triumfavo Prancūzijos rinktinė (2026-07-13).",
-    "Nausėda įvertino Lietuvos krepšinio situaciją: vyrų rinktinė buvo per stipri pralaimėti (2026-07-15)."
+    "Nausėda įvertino Lietuvos krepšinio situaciją: vyrų rinktinė buvo per stipri pralaimėti (2026-07-15).",
+    "LRT: Lithuania considering reintroducing checks on Latvian border (2026-07-15)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
