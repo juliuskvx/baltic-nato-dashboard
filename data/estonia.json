@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Eesti golfikoondis saab EM-il toetuda koduraja eelisele (2026-07-04).",
     "Swedish startup shows off its new drone-killing interceptor (2026-07-05).",
     "Eestimaa südamesse kerkib uus tankla, riik ehitab maantee sellest eemale (2026-07-08).",
     "Defense Business Brief: Rocket engine startup eyes production; NATO Summit Day 1; Anduril’s first NATO contract (2026-07-08).",
     "Space Force adds two startups to military’s growing list of national security launch providers (2026-07-09).",
     "Laupäeval on südasuviselt soe (2026-07-10).",
     "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups (2026-06-30).",
-    "Helsing raises $1.8 billion in Europe’s biggest defense-startup round (2026-07-13)."
+    "Helsing raises $1.8 billion in Europe’s biggest defense-startup round (2026-07-13).",
+    "Jüri Luik: Ukrainas otsustakse Euroopa julgeoleku tulevik (2026-07-18)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
