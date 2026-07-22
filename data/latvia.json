@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia is Belarus' first target for hybrid war: Border Guard chief",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/10.07.2026-latvia-is-belarus-first-target-for-hybrid-war-border-guard-chief.a654588/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-10"
-    },
     {
       "item": "Latvia buys back forest from Swedish owners for 26 million euros",
       "value": "26 million euros",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/culture/food-drink/21.07.2026-latvias-border-berry-pickers-contend-with-deforestation-and-emigration.a655735/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-21"
+    },
+    {
+      "item": "Latvia's eastern border drone defences ready by end of September",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/21.07.2026-latvias-eastern-border-drone-defences-ready-by-end-of-september.a655777/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-21"
     }
   ],
   "news": [
-    "LRT: Lithuania considering reintroducing checks on Latvian border (2026-07-15).",
     "Stores set fuel pellet purchase limits – producers say there's plenty to go around (2026-07-17).",
     "Ghostly goings-on at Latvian Radio (2026-07-17).",
     "Hollow Ranks & Ghost Soldiers: Nigeria’s Corruption-Fueled Security Collapse (2026-05-11).",
     "Expert: Don't eat second-class mushrooms (2026-07-18).",
     "New builds in Latvia still come without bomb-shelter basements (2026-07-20).",
     "Latvian Transport Minister promises Rail Baltica management re-jig (2026-07-21).",
-    "Latvia's border berry pickers contend with deforestation and emigration (2026-07-21)."
+    "Latvia's border berry pickers contend with deforestation and emigration (2026-07-21).",
+    "Latvia's eastern border drone defences ready by end of September (2026-07-21)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

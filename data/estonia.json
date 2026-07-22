@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Estonia gets IRIS-T SLM air defense system that proved itself in Ukraine",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/estonia-gets-iris-t-slm-air-defense-system-that-proved-itself-in-ukraine/",
-      "date_reported": "2026-06-23"
-    },
     {
       "item": "German AI startup powers military drones without GPS",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://www.defensenews.com/global/europe/2026/07/13/helsing-raises-18-billion-in-europes-biggest-defense-startup-round/",
       "date_reported": "2026-07-13"
+    },
+    {
+      "item": "How startups are reshaping the Pentagon’s drone industry",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
+      "date_reported": "2026-07-21"
     }
   ],
   "news": [
-    "Defense Business Brief: Rocket engine startup eyes production; NATO Summit Day 1; Anduril’s first NATO contract (2026-07-08).",
     "Space Force adds two startups to military’s growing list of national security launch providers (2026-07-09).",
     "Laupäeval on südasuviselt soe (2026-07-10).",
     "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups (2026-06-30).",
     "Helsing raises $1.8 billion in Europe’s biggest defense-startup round (2026-07-13).",
     "Jüri Luik: Ukrainas otsustakse Euroopa julgeoleku tulevik (2026-07-18).",
     "Sikorsky and BETA team up on unmanned supply aircraft (2026-07-21).",
-    "Baciuška vienam startui Ispanijoje persės į pajėgiausios kategorijos automobilį (2026-07-21)."
+    "Baciuška vienam startui Ispanijoje persės į pajėgiausios kategorijos automobilį (2026-07-21).",
+    "How startups are reshaping the Pentagon’s drone industry (2026-07-21)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
