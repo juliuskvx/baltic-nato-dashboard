@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-24",
+  "last_updated": "2026-07-25",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "German AI startup powers military drones without GPS",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/german-ai-startup-powers-military-drones-without-gps/",
-      "date_reported": "2026-06-24"
-    },
     {
       "item": "U.S. Army tests robot railcar to move military cargo",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://www.defensenews.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
       "date_reported": "2026-07-21"
+    },
+    {
+      "item": "ERR: Illegal migrants arrested in Estonia believed to have travelled via Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/24.07.2026-err-illegal-migrants-arrested-in-estonia-believed-to-have-travelled-via-latvia.a656273/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-24"
     }
   ],
   "news": [
-    "Space Force adds two startups to military’s growing list of national security launch providers (2026-07-09).",
     "Laupäeval on südasuviselt soe (2026-07-10).",
     "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups (2026-06-30).",
     "Helsing raises $1.8 billion in Europe’s biggest defense-startup round (2026-07-13).",
     "Jüri Luik: Ukrainas otsustakse Euroopa julgeoleku tulevik (2026-07-18).",
     "Sikorsky and BETA team up on unmanned supply aircraft (2026-07-21).",
     "Baciuška vienam startui Ispanijoje persės į pajėgiausios kategorijos automobilį (2026-07-21).",
-    "How startups are reshaping the Pentagon’s drone industry (2026-07-21)."
+    "How startups are reshaping the Pentagon’s drone industry (2026-07-21).",
+    "ERR: Illegal migrants arrested in Estonia believed to have travelled via Latvia (2026-07-24)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
