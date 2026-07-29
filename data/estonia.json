@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-07-29",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Moldova to receive 100+ Canadian-made armored vehicles",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/moldova-to-receive-100-canadian-made-armored-vehicles/",
-      "date_reported": "2026-06-30"
-    },
     {
       "item": "Russia closes rail crossings with Latvia, Estonia, Finland",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/business/28.07.2026-german-dhl-to-buy-venipak-in-baltics.a656552/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-28"
+    },
+    {
+      "item": "Canadian startup builds tiny missile to counter drone problem",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/canadian-startup-builds-tiny-missile-to-counter-drone-problem/",
+      "date_reported": "2026-07-28"
     }
   ],
   "news": [
-    "Helsing raises $1.8 billion in Europe’s biggest defense-startup round (2026-07-13).",
     "Jüri Luik: Ukrainas otsustakse Euroopa julgeoleku tulevik (2026-07-18).",
     "Sikorsky and BETA team up on unmanned supply aircraft (2026-07-21).",
     "Baciuška vienam startui Ispanijoje persės į pajėgiausios kategorijos automobilį (2026-07-21).",
     "How startups are reshaping the Pentagon’s drone industry (2026-07-21).",
     "ERR: Illegal migrants arrested in Estonia believed to have travelled via Latvia (2026-07-24).",
     "France tests a reusable hypersonic drone engine in Gironde (2026-07-26).",
-    "German DHL to buy Venipak in Baltics (2026-07-28)."
+    "German DHL to buy Venipak in Baltics (2026-07-28).",
+    "Canadian startup builds tiny missile to counter drone problem (2026-07-28)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
