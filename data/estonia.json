@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-07-30",
+  "last_updated": "2026-07-31",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Sikorsky and BETA team up on unmanned supply aircraft (2026-07-21).",
     "Baciuška vienam startui Ispanijoje persės į pajėgiausios kategorijos automobilį (2026-07-21).",
     "How startups are reshaping the Pentagon’s drone industry (2026-07-21).",
     "ERR: Illegal migrants arrested in Estonia believed to have travelled via Latvia (2026-07-24).",
     "France tests a reusable hypersonic drone engine in Gironde (2026-07-26).",
     "German DHL to buy Venipak in Baltics (2026-07-28).",
     "Canadian startup builds tiny missile to counter drone problem (2026-07-28).",
-    "Estonia sending more border guards to help Latvia (2026-07-29)."
+    "Estonia sending more border guards to help Latvia (2026-07-29).",
+    "Small Atlanta firm’s drone interceptor advances in U.S. Army contest (2026-07-30)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
