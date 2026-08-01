@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-01",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian Transport Minister promises Rail Baltica management re-jig",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/21.07.2026-latvian-transport-minister-promises-rail-baltica-management-re-jig.a655740/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-21"
-    },
     {
       "item": "Latvia's border berry pickers contend with deforestation and emigration",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/29.07.2026-estonia-sending-more-border-guards-to-help-latvia.a656766/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-29"
+    },
+    {
+      "item": "Latvia-Belarus border closed due to 'technical reasons'",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/31.07.2026-latvia-belarus-border-closed-due-to-technical-reasons.a657109/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-07-31"
     }
   ],
   "news": [
-    "NATO drone training taking place in Ķekava district (2026-07-27).",
-    "Universities see rising number of conscripts taking state-funded seats (2026-07-27).",
-    "German DHL to buy Venipak in Baltics (2026-07-28).",
     "Booze sales restrictions have not changed consumption much in Latvia (2026-07-29).",
     "Any Russian 'little green men' will be neutralised, says Latvian Defence Minister (2026-07-29).",
     "Latvia's eastern border to be reinforced until end of 2027 (2026-07-29).",
     "Estonia sending more border guards to help Latvia (2026-07-29).",
-    "Sārts sounds warning on potential election disruption efforts (2026-07-31)."
+    "Sārts sounds warning on potential election disruption efforts (2026-07-31).",
+    "Latvia-Belarus border closed due to 'technical reasons' (2026-07-31).",
+    "International drone defence exercise to take place in Latvia (2026-07-31).",
+    "Latvia's Baltic coastline battles Soviet and modern trash (2026-07-31)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
