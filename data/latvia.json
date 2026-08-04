@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,30 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvians are not necessarily out to lunch",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/culture/food-drink/23.07.2026-latvians-are-not-necessarily-out-to-lunch.a656013/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-23"
-    },
-    {
-      "item": "ERR: Illegal migrants arrested in Estonia believed to have travelled via Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/24.07.2026-err-illegal-migrants-arrested-in-estonia-believed-to-have-travelled-via-latvia.a656273/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-24"
-    },
-    {
-      "item": "Latvia and American company plan artillery factory within 2 years",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/24.07.2026-latvia-and-american-company-plan-artillery-factory-within-2-years.a656200/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-24"
-    },
     {
       "item": "German DHL to buy Venipak in Baltics",
       "value": "Not disclosed",
@@ -98,17 +74,41 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/society/03.08.2026-rezeknes-police-keep-an-eye-on-illegal-fishing.a657213/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-03"
+    },
+    {
+      "item": "Estonian border guards head south to help Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/04.08.2026-estonian-border-guards-head-south-to-help-latvia.a657396/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-04"
+    },
+    {
+      "item": "Closure of Latvia-Belarus border point proposed",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/04.08.2026-closure-of-latvia-belarus-border-point-proposed.a657376/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-04"
+    },
+    {
+      "item": "Trucks stuck at Latvia-Belarus border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/03.08.2026-trucks-stuck-at-latvia-belarus-border.a657297/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-03"
     }
   ],
   "news": [
-    "Sārts sounds warning on potential election disruption efforts (2026-07-31).",
-    "Latvia-Belarus border closed due to 'technical reasons' (2026-07-31).",
-    "International drone defence exercise to take place in Latvia (2026-07-31).",
     "Latvia's Baltic coastline battles Soviet and modern trash (2026-07-31).",
     "Latvia-Belarus border remains closed (2026-08-01).",
     "Rheinmetall unveils new frigate packed with destroyer firepower (2026-08-03).",
     "Ukraine shows off Hellfire armed air defense system (2026-08-03).",
-    "Rēzekne's police keep an eye on illegal fishing (2026-08-03)."
+    "Rēzekne's police keep an eye on illegal fishing (2026-08-03).",
+    "Estonian border guards head south to help Latvia (2026-08-04).",
+    "Closure of Latvia-Belarus border point proposed (2026-08-04).",
+    "Trucks stuck at Latvia-Belarus border (2026-08-03)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

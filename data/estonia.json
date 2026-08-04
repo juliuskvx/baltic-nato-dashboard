@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Military handover ceremony takes place on Latvia-Estonia border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/30.06.2026-military-handover-ceremony-takes-place-on-latvia-estonia-border.a653341/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-06-30"
-    },
     {
       "item": "Lawmaker warns of administration’s ‘fetishization’ of Silicon Valley startups",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/29.07.2026-estonia-sending-more-border-guards-to-help-latvia.a656766/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-29"
+    },
+    {
+      "item": "Estonian border guards head south to help Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/04.08.2026-estonian-border-guards-head-south-to-help-latvia.a657396/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-04"
     }
   ],
   "news": [
-    "Baciuška vienam startui Ispanijoje persės į pajėgiausios kategorijos automobilį (2026-07-21).",
     "How startups are reshaping the Pentagon’s drone industry (2026-07-21).",
     "ERR: Illegal migrants arrested in Estonia believed to have travelled via Latvia (2026-07-24).",
     "France tests a reusable hypersonic drone engine in Gironde (2026-07-26).",
     "German DHL to buy Venipak in Baltics (2026-07-28).",
     "Canadian startup builds tiny missile to counter drone problem (2026-07-28).",
     "Estonia sending more border guards to help Latvia (2026-07-29).",
-    "Small Atlanta firm’s drone interceptor advances in U.S. Army contest (2026-07-30)."
+    "Small Atlanta firm’s drone interceptor advances in U.S. Army contest (2026-07-30).",
+    "Estonian border guards head south to help Latvia (2026-08-04)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
