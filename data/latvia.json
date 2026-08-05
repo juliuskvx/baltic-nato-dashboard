@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "German DHL to buy Venipak in Baltics",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/business/28.07.2026-german-dhl-to-buy-venipak-in-baltics.a656552/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-28"
-    },
-    {
-      "item": "Booze sales restrictions have not changed consumption much in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/economy/29.07.2026-booze-sales-restrictions-have-not-changed-consumption-much-in-latvia.a656712/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-29"
-    },
     {
       "item": "Latvia's eastern border to be reinforced until end of 2027",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/transport/03.08.2026-trucks-stuck-at-latvia-belarus-border.a657297/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-03"
+    },
+    {
+      "item": "Latvian State Security Service looks at violent AI video",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/05.08.2026-latvian-state-security-service-looks-at-violent-ai-video.a657532/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-05"
+    },
+    {
+      "item": "Latvia-Belarus border will not be closed completely",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/04.08.2026-latvia-belarus-border-will-not-be-closed-completely.a657498/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-04"
     }
   ],
   "news": [
-    "Latvia's Baltic coastline battles Soviet and modern trash (2026-07-31).",
-    "Latvia-Belarus border remains closed (2026-08-01).",
-    "Rheinmetall unveils new frigate packed with destroyer firepower (2026-08-03).",
     "Ukraine shows off Hellfire armed air defense system (2026-08-03).",
     "Rēzekne's police keep an eye on illegal fishing (2026-08-03).",
     "Estonian border guards head south to help Latvia (2026-08-04).",
     "Closure of Latvia-Belarus border point proposed (2026-08-04).",
-    "Trucks stuck at Latvia-Belarus border (2026-08-03)."
+    "Trucks stuck at Latvia-Belarus border (2026-08-03).",
+    "Latvian Minister in the soup after lecturing Spain on immigration (2026-08-05).",
+    "Latvian State Security Service looks at violent AI video (2026-08-05).",
+    "Latvia-Belarus border will not be closed completely (2026-08-04)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
