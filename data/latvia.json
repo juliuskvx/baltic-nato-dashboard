@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,30 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia's eastern border to be reinforced until end of 2027",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/29.07.2026-latvias-eastern-border-to-be-reinforced-until-end-of-2027.a656693/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-29"
-    },
-    {
-      "item": "Estonia sending more border guards to help Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/29.07.2026-estonia-sending-more-border-guards-to-help-latvia.a656766/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-29"
-    },
-    {
-      "item": "Latvia-Belarus border closed due to 'technical reasons'",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/31.07.2026-latvia-belarus-border-closed-due-to-technical-reasons.a657109/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-31"
-    },
     {
       "item": "Latvia-Belarus border remains closed",
       "value": "Not disclosed",
@@ -98,17 +74,41 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/transport/04.08.2026-latvia-belarus-border-will-not-be-closed-completely.a657498/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-04"
+    },
+    {
+      "item": "'missionLatvia' grinds to a halt; another image in the works",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/business/06.08.2026-missionlatvia-grinds-to-a-halt-another-image-in-the-works.a657688/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-06"
+    },
+    {
+      "item": "Now Rīga Airport border control experiences 'technical issues'",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/05.08.2026-now-riga-airport-border-control-experiences-technical-issues.a657675/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-05"
+    },
+    {
+      "item": "Conscripts might be sent to patrol Latvia's eastern border in future",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/05.08.2026-conscripts-might-be-sent-to-patrol-latvias-eastern-border-in-future.a657618/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-05"
     }
   ],
   "news": [
-    "Ukraine shows off Hellfire armed air defense system (2026-08-03).",
-    "Rēzekne's police keep an eye on illegal fishing (2026-08-03).",
-    "Estonian border guards head south to help Latvia (2026-08-04).",
-    "Closure of Latvia-Belarus border point proposed (2026-08-04).",
     "Trucks stuck at Latvia-Belarus border (2026-08-03).",
     "Latvian Minister in the soup after lecturing Spain on immigration (2026-08-05).",
     "Latvian State Security Service looks at violent AI video (2026-08-05).",
-    "Latvia-Belarus border will not be closed completely (2026-08-04)."
+    "Latvia-Belarus border will not be closed completely (2026-08-04).",
+    "Latvia to practice military mobilization this weekend (2026-08-06).",
+    "'missionLatvia' grinds to a halt; another image in the works (2026-08-06).",
+    "Now Rīga Airport border control experiences 'technical issues' (2026-08-05).",
+    "Conscripts might be sent to patrol Latvia's eastern border in future (2026-08-05)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
