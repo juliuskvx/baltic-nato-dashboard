@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-07",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "France tests a reusable hypersonic drone engine in Gironde (2026-07-26).",
     "German DHL to buy Venipak in Baltics (2026-07-28).",
     "Canadian startup builds tiny missile to counter drone problem (2026-07-28).",
     "Estonia sending more border guards to help Latvia (2026-07-29).",
     "Small Atlanta firm’s drone interceptor advances in U.S. Army contest (2026-07-30).",
     "Estonian border guards head south to help Latvia (2026-08-04).",
     "Jetoptera quits DARPA’s heavy-lift drone contest before finals (2026-08-05).",
-    "Pevkur: USA relvatarned jõuavad Eestisse mitte kuude, vaid nädalatega (2026-08-05)."
+    "Pevkur: USA relvatarned jõuavad Eestisse mitte kuude, vaid nädalatega (2026-08-05).",
+    "Israeli startup tests secretive capsule weapon (2026-08-06)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
