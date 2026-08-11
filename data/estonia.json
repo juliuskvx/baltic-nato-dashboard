@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Defense startups raid auto and fracking sectors for parts to speed weapons output",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.defensenews.com/industry/techwatch/2026/07/02/defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-output/",
-      "date_reported": "2026-07-02"
-    },
     {
       "item": "Defense Business Brief: Rocket engine startup eyes production; NATO Summit Day 1; Anduril’s first NATO contract",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/jetoptera-quits-darpas-heavy-lift-drone-contest-before-finals/",
       "date_reported": "2026-08-05"
+    },
+    {
+      "item": "British drone-killer startup hits $3.4bn value in under 2 years",
+      "value": "$3.4bn",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/british-drone-killer-startup-hits-3-4bn-value-in-under-2-years/",
+      "date_reported": "2026-08-10"
     }
   ],
   "news": [
-    "Estonia sending more border guards to help Latvia (2026-07-29).",
     "Small Atlanta firm’s drone interceptor advances in U.S. Army contest (2026-07-30).",
     "Estonian border guards head south to help Latvia (2026-08-04).",
     "Jetoptera quits DARPA’s heavy-lift drone contest before finals (2026-08-05).",
     "Pevkur: USA relvatarned jõuavad Eestisse mitte kuude, vaid nädalatega (2026-08-05).",
     "Israeli startup tests secretive capsule weapon (2026-08-06).",
     "Stoicescu WSJ artiklist: ei maksa kogu aeg korrutada, et Venemaa on ohtlik (2026-08-07).",
-    "Indian startup develops compact specialized drone interceptor (2026-08-09)."
+    "Indian startup develops compact specialized drone interceptor (2026-08-09).",
+    "British drone-killer startup hits $3.4bn value in under 2 years (2026-08-10)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
