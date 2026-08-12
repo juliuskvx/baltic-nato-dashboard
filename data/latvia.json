@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian State Security Service looks at violent AI video",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/05.08.2026-latvian-state-security-service-looks-at-violent-ai-video.a657532/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-05"
-    },
     {
       "item": "Latvia-Belarus border will not be closed completely",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/culture/food-drink/10.08.2026-what-will-be-on-the-menu-at-latvian-schools-this-year.a658149/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-10"
+    },
+    {
+      "item": "First illegal border tunnel found at Silene, Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/11.08.2026-first-illegal-border-tunnel-found-at-silene-latvia.a658310/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-11"
     }
   ],
   "news": [
-    "Latvians order fewer cheap goods since new tax introduction (2026-08-07).",
-    "Russian frigate’s gunnery drill puts UK Navy on alert (2026-08-08).",
-    "For sale: a modern Latvian architectural icon (2026-08-08).",
     "Teams invited to enter upcoming EUDIS defence hackathon in Latvia (2026-08-10).",
     "Unmanned platform developed for Latvian army needs (2026-08-11).",
     "One month until 'Latvian Dual-Use Export Forum' on NATO's eastern border (2026-08-10).",
     "Latvian Security Service detains Russian war supporter (2026-08-10).",
-    "What will be on the menu at Latvian schools this year? (2026-08-10)."
+    "What will be on the menu at Latvian schools this year? (2026-08-10).",
+    "Rheinmetall scales down 2026 sales outlook on scrapped frigate program (2026-08-06).",
+    "Latvia joins diplomatic ballistic missile pledge (2026-08-12).",
+    "First illegal border tunnel found at Silene, Latvia (2026-08-11)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

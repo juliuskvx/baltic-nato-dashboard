@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-12",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Defense Business Brief: Rocket engine startup eyes production; NATO Summit Day 1; Anduril’s first NATO contract",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.defenseone.com/business/2026/07/defense-business-brief-rocket-engine-startup-eyes-production-nato-summit-day-1-andurils-first-nato-contract/414668/",
-      "date_reported": "2026-07-08"
-    },
     {
       "item": "Helsing raises $1.8 billion in Europe’s biggest defense-startup round",
       "value": "$1.8 billion",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/british-drone-killer-startup-hits-3-4bn-value-in-under-2-years/",
       "date_reported": "2026-08-10"
+    },
+    {
+      "item": "Air taxi company buys Boeing’s drone unit",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/air-taxi-company-buys-boeings-drone-unit/",
+      "date_reported": "2026-08-11"
     }
   ],
   "news": [
-    "Small Atlanta firm’s drone interceptor advances in U.S. Army contest (2026-07-30).",
-    "Estonian border guards head south to help Latvia (2026-08-04).",
     "Jetoptera quits DARPA’s heavy-lift drone contest before finals (2026-08-05).",
     "Pevkur: USA relvatarned jõuavad Eestisse mitte kuude, vaid nädalatega (2026-08-05).",
     "Israeli startup tests secretive capsule weapon (2026-08-06).",
     "Stoicescu WSJ artiklist: ei maksa kogu aeg korrutada, et Venemaa on ohtlik (2026-08-07).",
     "Indian startup develops compact specialized drone interceptor (2026-08-09).",
-    "British drone-killer startup hits $3.4bn value in under 2 years (2026-08-10)."
+    "British drone-killer startup hits $3.4bn value in under 2 years (2026-08-10).",
+    "Air taxi company buys Boeing’s drone unit (2026-08-11).",
+    "Inside the defense investing boom fueled by drones, AI and Ukraine (2026-08-11)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
