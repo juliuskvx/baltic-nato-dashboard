@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "'missionLatvia' grinds to a halt; another image in the works",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/business/06.08.2026-missionlatvia-grinds-to-a-halt-another-image-in-the-works.a657688/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-06"
-    },
     {
       "item": "Now Rīga Airport border control experiences 'technical issues'",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/14.08.2026-operation-werewolf-causes-minor-inconvenience-to-locals-near-belarus-border.a658772/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-14"
+    },
+    {
+      "item": "Latvian government ready to buy more airBaltic bonds",
+      "value": "30 million euros",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/14.08.2026-latvian-government-ready-to-buy-more-airbaltic-bonds.a658900/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-14"
     }
   ],
   "news": [
-    "Latvia joins diplomatic ballistic missile pledge (2026-08-12).",
-    "First illegal border tunnel found at Silene, Latvia (2026-08-11).",
     "Ukraine says it hit four Russian warships in Novorossiysk (2026-08-12).",
     "Ukrainian crew reveals rare look inside HIMARS operations (2026-08-12).",
     "Satellite images confirm damage to two Russian missile frigates (2026-08-13).",
     "Pilgrims in Aglona took shelter in basement during drone threat (2026-08-14).",
     "'Operation Werewolf' causes minor inconvenience to locals near Belarus border (2026-08-14).",
-    "NATO fighters shoot down drone in north-east Latvia (2026-08-14)."
+    "NATO fighters shoot down drone in north-east Latvia (2026-08-14).",
+    "Latvian government ready to buy more airBaltic bonds (2026-08-14).",
+    "Drone was downed by Italian jet, search for debris continues (2026-08-14)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

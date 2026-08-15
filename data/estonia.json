@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Helsing raises $1.8 billion in Europe’s biggest defense-startup round",
-      "value": "$1.8 billion",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.defensenews.com/global/europe/2026/07/13/helsing-raises-18-billion-in-europes-biggest-defense-startup-round/",
-      "date_reported": "2026-07-13"
-    },
     {
       "item": "How startups are reshaping the Pentagon’s drone industry",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/air-taxi-company-buys-boeings-drone-unit/",
       "date_reported": "2026-08-11"
+    },
+    {
+      "item": "Skyhammer interceptor recovered after beach crash in UK",
+      "value": "$300 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/skyhammer-interceptor-recovered-after-beach-crash-in-uk/",
+      "date_reported": "2026-08-14"
     }
   ],
   "news": [
-    "Jetoptera quits DARPA’s heavy-lift drone contest before finals (2026-08-05).",
     "Pevkur: USA relvatarned jõuavad Eestisse mitte kuude, vaid nädalatega (2026-08-05).",
     "Israeli startup tests secretive capsule weapon (2026-08-06).",
     "Stoicescu WSJ artiklist: ei maksa kogu aeg korrutada, et Venemaa on ohtlik (2026-08-07).",
     "Indian startup develops compact specialized drone interceptor (2026-08-09).",
     "British drone-killer startup hits $3.4bn value in under 2 years (2026-08-10).",
     "Air taxi company buys Boeing’s drone unit (2026-08-11).",
-    "Inside the defense investing boom fueled by drones, AI and Ukraine (2026-08-11)."
+    "Inside the defense investing boom fueled by drones, AI and Ukraine (2026-08-11).",
+    "Skyhammer interceptor recovered after beach crash in UK (2026-08-14)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
