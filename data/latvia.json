@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-15",
+  "last_updated": "2026-08-16",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Ukraine says it hit four Russian warships in Novorossiysk (2026-08-12).",
     "Ukrainian crew reveals rare look inside HIMARS operations (2026-08-12).",
     "Satellite images confirm damage to two Russian missile frigates (2026-08-13).",
     "Pilgrims in Aglona took shelter in basement during drone threat (2026-08-14).",
     "'Operation Werewolf' causes minor inconvenience to locals near Belarus border (2026-08-14).",
     "NATO fighters shoot down drone in north-east Latvia (2026-08-14).",
     "Latvian government ready to buy more airBaltic bonds (2026-08-14).",
-    "Drone was downed by Italian jet, search for debris continues (2026-08-14)."
+    "Drone was downed by Italian jet, search for debris continues (2026-08-14).",
+    "Controlled explosions destroy downed drone in northern Latvia (2026-08-15)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
