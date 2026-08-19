@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -23,14 +23,6 @@
     "NASAMS air defence systems"
   ],
   "procurement": [
-    {
-      "item": "Mercedes-Benz G-Class, Unimog, Zetros and Arocs vehicles",
-      "value": "EUR 1 billion",
-      "supplier": "Veho Lietuva (Mercedes-Benz Group / Daimler AG)",
-      "delivery": "2026-2032",
-      "source_url": "https://ua.news/en/world/litva-zapuskaie-viiskovu-zakupivliu-na-miliard-ievro",
-      "date_reported": "2026-06-10"
-    },
     {
       "item": "Additional HIMARS battery (launchers, munitions, C2 and logistics package)",
       "value": "USD 280 million",
@@ -102,17 +94,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/business/28.07.2026-german-dhl-to-buy-venipak-in-baltics.a656552/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-07-28"
+    },
+    {
+      "item": "Lithuania to receive U.S.-made night vision gear",
+      "value": "$12.8 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/lithuania-to-receive-u-s-made-night-vision-gear/",
+      "date_reported": "2026-08-18"
     }
   ],
   "news": [
-    "Europos čempionato septynkovės nuotykyje vėl švytinti Juškevičiūtė: čia yra palaiminimas (2026-08-15).",
     "Titenis apie Meilutytės varžoves dėl Europos čempionės karūnos: Rūtą jos stebi su nerimu (2026-08-15).",
     "Lietuviai įplaukė į neeilinę situaciją: gerino rekordą, bet sužinojo, kad jį pavogė kitas (2026-08-14).",
     "Įspūdingas Galvydytės bėgimas – Europos čempionato finale finišavo ketvirta (2026-08-14).",
     "Lietuvos 16-mečius į priekį vedęs Jasikevičius – simboliniame Europos čempionato penkete (2026-08-16).",
     "Tamsą akyse matę plaukikai kreipėsi į jiems teisėjavusį lietuvį: galėjo laiką pagreitinti (2026-08-16).",
     "Europos lengvosios atletikos čempionato finiše – vienintelės lietuvės startas maratone (2026-08-16).",
-    "Teismas: 15 mln. eurų ERPB paskolą gavusi „Ecso“ restruktūrizuojama pagrįstai (2026-08-17)."
+    "Teismas: 15 mln. eurų ERPB paskolą gavusi „Ecso“ restruktūrizuojama pagrįstai (2026-08-17).",
+    "Lithuania to receive U.S.-made night vision gear (2026-08-18)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
