@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -23,14 +23,6 @@
     "NASAMS air defence systems"
   ],
   "procurement": [
-    {
-      "item": "Additional HIMARS battery (launchers, munitions, C2 and logistics package)",
-      "value": "USD 280 million",
-      "supplier": "United States (US Government FMS)",
-      "delivery": "Following 2022 order; full operational capability expected 2027",
-      "source_url": "https://thedefensepost.com/2026/05/05/lithuania-himars-battery/",
-      "date_reported": "2026-05-05"
-    },
     {
       "item": "PATRIA 6x6 wheeled armoured personnel carriers",
       "value": "Not disclosed",
@@ -102,17 +94,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/lithuania-to-receive-u-s-made-night-vision-gear/",
       "date_reported": "2026-08-18"
+    },
+    {
+      "item": "Latvian and Lithuanian national militias stand shoulder to shoulder",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/19.08.2026-latvian-and-lithuanian-national-militias-stand-shoulder-to-shoulder.a659419/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-19"
     }
   ],
   "news": [
-    "Titenis apie Meilutytės varžoves dėl Europos čempionės karūnos: Rūtą jos stebi su nerimu (2026-08-15).",
     "Lietuviai įplaukė į neeilinę situaciją: gerino rekordą, bet sužinojo, kad jį pavogė kitas (2026-08-14).",
     "Įspūdingas Galvydytės bėgimas – Europos čempionato finale finišavo ketvirta (2026-08-14).",
     "Lietuvos 16-mečius į priekį vedęs Jasikevičius – simboliniame Europos čempionato penkete (2026-08-16).",
     "Tamsą akyse matę plaukikai kreipėsi į jiems teisėjavusį lietuvį: galėjo laiką pagreitinti (2026-08-16).",
     "Europos lengvosios atletikos čempionato finiše – vienintelės lietuvės startas maratone (2026-08-16).",
     "Teismas: 15 mln. eurų ERPB paskolą gavusi „Ecso“ restruktūrizuojama pagrįstai (2026-08-17).",
-    "Lithuania to receive U.S.-made night vision gear (2026-08-18)."
+    "Lithuania to receive U.S.-made night vision gear (2026-08-18).",
+    "Latvian and Lithuanian national militias stand shoulder to shoulder (2026-08-19)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
