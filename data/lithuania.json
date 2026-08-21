@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -23,22 +23,6 @@
     "NASAMS air defence systems"
   ],
   "procurement": [
-    {
-      "item": "PATRIA 6x6 wheeled armoured personnel carriers",
-      "value": "Not disclosed",
-      "supplier": "Patria",
-      "delivery": "By 2030 (supports National Division build-up)",
-      "source_url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260527-lithuania-mnd01.htm",
-      "date_reported": "2026-05-27"
-    },
-    {
-      "item": "48x Merops AS-3 interceptor drones",
-      "value": "Not disclosed",
-      "supplier": "Perennial Autonomy",
-      "delivery": "Direct award, citing essential security interests",
-      "source_url": "https://balticdefenseinitiative.com/initiatives/defense-procurement-reform/",
-      "date_reported": "2026-04-22"
-    },
     {
       "item": "Lithuania develops new autonomous interceptor to kill kamikaze drones",
       "value": "Not disclosed",
@@ -102,17 +86,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/19.08.2026-latvian-and-lithuanian-national-militias-stand-shoulder-to-shoulder.a659419/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-19"
+    },
+    {
+      "item": "Latvian and Lithuanian PMs stress eastern border security",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/politics/20.08.2026-latvian-and-lithuanian-pms-stress-eastern-border-security.a659188/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-20"
+    },
+    {
+      "item": "Baltic states reaffirm support for Ukraine on historic day in Tallinn",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/diplomacy/20.08.2026-baltic-states-reaffirm-support-for-ukraine-on-historic-day-in-tallinn.a659626/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-20"
     }
   ],
   "news": [
-    "Lietuviai įplaukė į neeilinę situaciją: gerino rekordą, bet sužinojo, kad jį pavogė kitas (2026-08-14).",
-    "Įspūdingas Galvydytės bėgimas – Europos čempionato finale finišavo ketvirta (2026-08-14).",
     "Lietuvos 16-mečius į priekį vedęs Jasikevičius – simboliniame Europos čempionato penkete (2026-08-16).",
     "Tamsą akyse matę plaukikai kreipėsi į jiems teisėjavusį lietuvį: galėjo laiką pagreitinti (2026-08-16).",
     "Europos lengvosios atletikos čempionato finiše – vienintelės lietuvės startas maratone (2026-08-16).",
     "Teismas: 15 mln. eurų ERPB paskolą gavusi „Ecso“ restruktūrizuojama pagrįstai (2026-08-17).",
     "Lithuania to receive U.S.-made night vision gear (2026-08-18).",
-    "Latvian and Lithuanian national militias stand shoulder to shoulder (2026-08-19)."
+    "Latvian and Lithuanian national militias stand shoulder to shoulder (2026-08-19).",
+    "Latvian and Lithuanian PMs stress eastern border security (2026-08-20).",
+    "Baltic states reaffirm support for Ukraine on historic day in Tallinn (2026-08-20)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
