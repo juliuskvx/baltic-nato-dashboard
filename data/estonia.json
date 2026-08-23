@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Inside the defense investing boom fueled by drones, AI and Ukraine (2026-08-11).",
     "Skyhammer interceptor recovered after beach crash in UK (2026-08-14).",
     "Startup led by young Ukrainian engineer demos interceptor for U.S. Air Force (2026-08-15).",
     "Europos plaukimo čempionato finiše – Meilutytės kova finale ir Teterevkovos perplaukimas (2026-08-16).",
     "Europos lengvosios atletikos čempionato finiše – vienintelės lietuvės startas maratone (2026-08-16).",
     "Three suspects detained in Latvia for Tallinn military factory arson (2026-08-20).",
     "Estonian company to buy Latvia's biggest dairy processing business (2026-08-19).",
-    "Baltic states reaffirm support for Ukraine on historic day in Tallinn (2026-08-20)."
+    "Baltic states reaffirm support for Ukraine on historic day in Tallinn (2026-08-20).",
+    "Lietuvos futbolo lygos turo anonsas: startuoja paskutinis čempionato ratas (2026-08-22)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
