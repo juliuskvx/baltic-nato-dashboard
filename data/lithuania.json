@@ -24,14 +24,6 @@
   ],
   "procurement": [
     {
-      "item": "Lithuania develops new autonomous interceptor to kill kamikaze drones",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/lithuania-develops-new-autonomous-interceptor-to-kill-kamikaze-drones/",
-      "date_reported": "2026-06-25"
-    },
-    {
       "item": "Kariuomenės instruktoriaus namuose rasti neteisėti šoviniai, išduotas orderis dėl smurto",
       "value": "Not disclosed",
       "supplier": "See source",
@@ -102,17 +94,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/politics/diplomacy/20.08.2026-baltic-states-reaffirm-support-for-ukraine-on-historic-day-in-tallinn.a659626/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-20"
+    },
+    {
+      "item": "European allies team up to buy Polish portable anti-aircraft systems",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
+      "date_reported": "2026-08-25"
     }
   ],
   "news": [
-    "Europos lengvosios atletikos čempionato finiše – vienintelės lietuvės startas maratone (2026-08-16).",
     "Teismas: 15 mln. eurų ERPB paskolą gavusi „Ecso“ restruktūrizuojama pagrįstai (2026-08-17).",
     "Lithuania to receive U.S.-made night vision gear (2026-08-18).",
     "Latvian and Lithuanian national militias stand shoulder to shoulder (2026-08-19).",
     "Latvian and Lithuanian PMs stress eastern border security (2026-08-20).",
     "Baltic states reaffirm support for Ukraine on historic day in Tallinn (2026-08-20).",
     "Europos čempionate šešiolikmetės skaudžiu rezultatu nusileido Čekijos krepšininkėms (2026-08-21).",
-    "Lietuvos futbolo lygos turo anonsas: startuoja paskutinis čempionato ratas (2026-08-22)."
+    "Lietuvos futbolo lygos turo anonsas: startuoja paskutinis čempionato ratas (2026-08-22).",
+    "European allies team up to buy Polish portable anti-aircraft systems (2026-08-25)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
