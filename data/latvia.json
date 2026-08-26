@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Four migrants caught in Ķekava municipality, Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/18.08.2026-four-migrants-caught-in-kekava-municipality-latvia.a659272/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-18"
-    },
     {
       "item": "Estonian company to buy Latvia's biggest dairy processing business",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/health/25.08.2026-latvian-government-allocates-more-funds-to-home-hospice-care.a660256/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-25"
+    },
+    {
+      "item": "Latvian border infrastructure also suffered in big storm",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/26.08.2026-latvian-border-infrastructure-also-suffered-in-big-storm.a660368/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-26"
     }
   ],
   "news": [
-    "Turkish jets land at Latvia's Lielvārde airbase (2026-08-21).",
     "Australia marks keel-laying for new anti-sub frigate (2026-08-24).",
     "'Namejs' military exercises coming in September (2026-08-24).",
     "CIA chief visited Moscow for meetings, sources say (2026-08-25).",
     "European allies team up to buy Polish portable anti-aircraft systems (2026-08-25).",
     "Latvian delegation will attend European Defence Week in Paris (2026-08-25).",
     "Latvia will use VAT rebate to buy 12 more diesel generators for Ukraine (2026-08-25).",
-    "Latvian government allocates more funds to home hospice care (2026-08-25)."
+    "Latvian government allocates more funds to home hospice care (2026-08-25).",
+    "Latvian border infrastructure also suffered in big storm (2026-08-26)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
