@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,30 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Estonian company to buy Latvia's biggest dairy processing business",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/business/19.08.2026-estonian-company-to-buy-latvias-biggest-dairy-processing-business.a659504/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-19"
-    },
-    {
-      "item": "Latvian and Lithuanian national militias stand shoulder to shoulder",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/19.08.2026-latvian-and-lithuanian-national-militias-stand-shoulder-to-shoulder.a659419/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-19"
-    },
-    {
-      "item": "New migrant tunnel discovered on Latvia-Belarus border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/21.08.2026-new-migrant-tunnel-discovered-on-latvia-belarus-border.a659744/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-21"
-    },
     {
       "item": "Latvian and Lithuanian PMs stress eastern border security",
       "value": "Not disclosed",
@@ -98,17 +74,41 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/26.08.2026-latvian-border-infrastructure-also-suffered-in-big-storm.a660368/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-26"
+    },
+    {
+      "item": "Border Guard chief: Belarus knew about tunnels on Latvian border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/27.08.2026-border-guard-chief-belarus-knew-about-tunnels-on-latvian-border.a660654/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-27"
+    },
+    {
+      "item": "Latvian Prime Minister plays down 'brink of war' fears",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/27.08.2026-latvian-prime-minister-plays-down-brink-of-war-fears.a660610/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-27"
+    },
+    {
+      "item": "Proposal to declare state of emergency in Latvia's border area",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/27.08.2026-proposal-to-declare-state-of-emergency-in-latvias-border-area.a660542/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-08-27"
     }
   ],
   "news": [
-    "Australia marks keel-laying for new anti-sub frigate (2026-08-24).",
-    "'Namejs' military exercises coming in September (2026-08-24).",
-    "CIA chief visited Moscow for meetings, sources say (2026-08-25).",
-    "European allies team up to buy Polish portable anti-aircraft systems (2026-08-25).",
     "Latvian delegation will attend European Defence Week in Paris (2026-08-25).",
     "Latvia will use VAT rebate to buy 12 more diesel generators for Ukraine (2026-08-25).",
     "Latvian government allocates more funds to home hospice care (2026-08-25).",
-    "Latvian border infrastructure also suffered in big storm (2026-08-26)."
+    "Latvian border infrastructure also suffered in big storm (2026-08-26).",
+    "Latvia arms its new combat vehicle against drone threats (2026-08-27).",
+    "Border Guard chief: Belarus knew about tunnels on Latvian border (2026-08-27).",
+    "Latvian Prime Minister plays down 'brink of war' fears (2026-08-27).",
+    "Proposal to declare state of emergency in Latvia's border area (2026-08-27)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
