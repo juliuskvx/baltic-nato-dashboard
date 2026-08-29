@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-28",
+  "last_updated": "2026-08-29",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Baltic states reaffirm support for Ukraine on historic day in Tallinn",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/diplomacy/20.08.2026-baltic-states-reaffirm-support-for-ukraine-on-historic-day-in-tallinn.a659626/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-20"
-    },
     {
       "item": "Saeima okays new airBaltic investment decision",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/transport/28.08.2026-tornakalns-railway-bridge-to-be-dismantled-at-end-of-year.a660722/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-08-28"
+    },
+    {
+      "item": "GDLS delivers first XM30 Wolf vehicle to U.S. Army",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/gdls-delivers-first-xm30-wolf-vehicle-to-u-s-army/",
+      "date_reported": "2026-08-29"
     }
   ],
   "news": [
-    "Latvian border infrastructure also suffered in big storm (2026-08-26).",
     "Latvia arms its new combat vehicle against drone threats (2026-08-27).",
     "Border Guard chief: Belarus knew about tunnels on Latvian border (2026-08-27).",
     "Latvian Prime Minister plays down 'brink of war' fears (2026-08-27).",
     "Proposal to declare state of emergency in Latvia's border area (2026-08-27).",
     "European allies team up to buy Polish portable anti-aircraft systems (2026-08-25).",
     "Baltic and American military divers training off Tallinn (2026-08-28).",
-    "Torņakalns railway bridge to be dismantled at end of year (2026-08-28)."
+    "Torņakalns railway bridge to be dismantled at end of year (2026-08-28).",
+    "GDLS delivers first XM30 Wolf vehicle to U.S. Army (2026-08-29)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
