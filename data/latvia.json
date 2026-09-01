@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,38 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Saeima okays new airBaltic investment decision",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/20.08.2026-saeima-okays-new-airbaltic-investment-decision.a659608/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-20"
-    },
-    {
-      "item": "European allies team up to buy Polish portable anti-aircraft systems",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
-      "date_reported": "2026-08-25"
-    },
-    {
-      "item": "Latvia will use VAT rebate to buy 12 more diesel generators for Ukraine",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/society/25.08.2026-latvia-will-use-vat-rebate-to-buy-12-more-diesel-generators-for-ukraine.a660257/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-25"
-    },
-    {
-      "item": "Latvian government allocates more funds to home hospice care",
-      "value": "5.85 million euros",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/health/25.08.2026-latvian-government-allocates-more-funds-to-home-hospice-care.a660256/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-25"
-    },
     {
       "item": "Latvian border infrastructure also suffered in big storm",
       "value": "Not disclosed",
@@ -98,17 +66,49 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/gdls-delivers-first-xm30-wolf-vehicle-to-u-s-army/",
       "date_reported": "2026-08-29"
+    },
+    {
+      "item": "Sweden signs contract for four French-built frigates",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/sweden-signs-contract-for-four-french-built-frigates/",
+      "date_reported": "2026-08-31"
+    },
+    {
+      "item": "Sweden signs French warship order to boost defense",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/global/europe/2026/08/31/sweden-signs-french-warship-order-to-boost-defense/",
+      "date_reported": "2026-08-31"
+    },
+    {
+      "item": "More Estonian reinforcements arrive to help along Latvia's eastern border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/01.09.2026-more-estonian-reinforcements-arrive-to-help-along-latvias-eastern-border.a661209/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-01"
+    },
+    {
+      "item": "Latvian border guards find cigarette-smuggling drone",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/01.09.2026-latvian-border-guards-find-cigarette-smuggling-drone.a661159/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-01"
     }
   ],
   "news": [
-    "Latvia arms its new combat vehicle against drone threats (2026-08-27).",
-    "Border Guard chief: Belarus knew about tunnels on Latvian border (2026-08-27).",
-    "Latvian Prime Minister plays down 'brink of war' fears (2026-08-27).",
-    "Proposal to declare state of emergency in Latvia's border area (2026-08-27).",
-    "European allies team up to buy Polish portable anti-aircraft systems (2026-08-25).",
     "Baltic and American military divers training off Tallinn (2026-08-28).",
     "Torņakalns railway bridge to be dismantled at end of year (2026-08-28).",
-    "GDLS delivers first XM30 Wolf vehicle to U.S. Army (2026-08-29)."
+    "GDLS delivers first XM30 Wolf vehicle to U.S. Army (2026-08-29).",
+    "Sweden signs contract for four French-built frigates (2026-08-31).",
+    "Sweden signs French warship order to boost defense (2026-08-31).",
+    "More Estonian reinforcements arrive to help along Latvia's eastern border (2026-09-01).",
+    "Latvian border guards find cigarette-smuggling drone (2026-09-01).",
+    "Airspace alert over in Latvia's Alūksne district (2026-09-01)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
