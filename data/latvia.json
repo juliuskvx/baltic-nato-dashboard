@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian border infrastructure also suffered in big storm",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/26.08.2026-latvian-border-infrastructure-also-suffered-in-big-storm.a660368/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-26"
-    },
     {
       "item": "Border Guard chief: Belarus knew about tunnels on Latvian border",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/01.09.2026-latvian-border-guards-find-cigarette-smuggling-drone.a661159/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-01"
+    },
+    {
+      "item": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
+      "date_reported": "2026-09-02"
     }
   ],
   "news": [
-    "Baltic and American military divers training off Tallinn (2026-08-28).",
-    "Torņakalns railway bridge to be dismantled at end of year (2026-08-28).",
-    "GDLS delivers first XM30 Wolf vehicle to U.S. Army (2026-08-29).",
-    "Sweden signs contract for four French-built frigates (2026-08-31).",
     "Sweden signs French warship order to boost defense (2026-08-31).",
     "More Estonian reinforcements arrive to help along Latvia's eastern border (2026-09-01).",
     "Latvian border guards find cigarette-smuggling drone (2026-09-01).",
-    "Airspace alert over in Latvia's Alūksne district (2026-09-01)."
+    "Airspace alert over in Latvia's Alūksne district (2026-09-01).",
+    "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US (2026-09-02).",
+    "Namejs 2026 military drills take place throughout Latvia (2026-09-02).",
+    "Young Latvians invited to step forward for military service (2026-09-01).",
+    "Employee suspended amid fresh investigation at Latvian military school (2026-09-01)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

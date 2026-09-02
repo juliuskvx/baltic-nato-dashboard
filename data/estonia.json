@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-09-01",
+  "last_updated": "2026-09-02",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Canadian startup builds tiny missile to counter drone problem",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/canadian-startup-builds-tiny-missile-to-counter-drone-problem/",
-      "date_reported": "2026-07-28"
-    },
     {
       "item": "Estonia sending more border guards to help Latvia",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/01.09.2026-more-estonian-reinforcements-arrive-to-help-along-latvias-eastern-border.a661209/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-01"
+    },
+    {
+      "item": "Defense startup raises $61 million to put AI into a wrist-worn display",
+      "value": "$61 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/",
+      "date_reported": "2026-09-01"
     }
   ],
   "news": [
-    "Baltic states reaffirm support for Ukraine on historic day in Tallinn (2026-08-20).",
     "Lietuvos futbolo lygos turo anonsas: startuoja paskutinis čempionato ratas (2026-08-22).",
     "Raivo Ruusalepp: kaitsetööstuse kasv ei sõltu ainult heast tehnoloogiast (2026-08-24).",
     "The Times: Venemaa külvab kasu droonide sattumisest NATO õhuruumi (2026-08-24).",
     "Prikk Ukraina skandaalidest: kiired muutused näitavad riigi läbipaistvust (2026-08-24).",
     "Baltic and American military divers training off Tallinn (2026-08-28).",
     "Otse kell 12.45: Siim Kallase ärasaatmine (2026-08-29).",
-    "More Estonian reinforcements arrive to help along Latvia's eastern border (2026-09-01)."
+    "More Estonian reinforcements arrive to help along Latvia's eastern border (2026-09-01).",
+    "Defense startup raises $61 million to put AI into a wrist-worn display (2026-09-01)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
