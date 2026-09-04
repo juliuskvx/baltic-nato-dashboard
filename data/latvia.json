@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Border Guard chief: Belarus knew about tunnels on Latvian border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/27.08.2026-border-guard-chief-belarus-knew-about-tunnels-on-latvian-border.a660654/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-27"
-    },
     {
       "item": "Latvian Prime Minister plays down 'brink of war' fears",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
       "date_reported": "2026-09-02"
+    },
+    {
+      "item": "Latvia to spend EUR 28 million on land mines",
+      "value": "EUR 28 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/04.09.2026-latvia-to-spend-eur-28-million-on-land-mines.a661726/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-04"
     }
   ],
   "news": [
-    "Airspace alert over in Latvia's Alūksne district (2026-09-01).",
-    "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US (2026-09-02).",
-    "Namejs 2026 military drills take place throughout Latvia (2026-09-02).",
     "Young Latvians invited to step forward for military service (2026-09-01).",
     "Employee suspended amid fresh investigation at Latvian military school (2026-09-01).",
     "Ukraine fits Abrams tank with Russian-style hedgehog armor (2026-09-03).",
     "NATO will be projecting oak in Latvia over next two weeks (2026-09-03).",
-    "No honour guards at Freedom Monument this week in Latvia (2026-09-02)."
+    "No honour guards at Freedom Monument this week in Latvia (2026-09-02).",
+    "NATO tests British counter-drone system in Baltic exercise (2026-09-04).",
+    "Sweden signs French warship order to boost defense (2026-08-31).",
+    "Latvia to spend EUR 28 million on land mines (2026-09-04)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
