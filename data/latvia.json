@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-06",
+  "last_updated": "2026-09-07",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Torņakalns railway bridge to be dismantled at end of year",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/28.08.2026-tornakalns-railway-bridge-to-be-dismantled-at-end-of-year.a660722/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-28"
-    },
     {
       "item": "GDLS delivers first XM30 Wolf vehicle to U.S. Army",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/unnamed-customer-receives-xtends-newest-ground-robot/",
       "date_reported": "2026-09-05"
+    },
+    {
+      "item": "Suspected people smuggler caught in central Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/07.09.2026-suspected-people-smuggler-caught-in-central-latvia.a662101/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-07"
     }
   ],
   "news": [
-    "NATO will be projecting oak in Latvia over next two weeks (2026-09-03).",
     "No honour guards at Freedom Monument this week in Latvia (2026-09-02).",
     "NATO tests British counter-drone system in Baltic exercise (2026-09-04).",
     "Sweden signs French warship order to boost defense (2026-08-31).",
     "Latvia to spend EUR 28 million on land mines (2026-09-04).",
     "New Stryker brigade at Fort Carson receives first vehicles (2026-09-04).",
     "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US (2026-09-02).",
-    "Unnamed customer receives XTEND’s newest ground robot (2026-09-05)."
+    "Unnamed customer receives XTEND’s newest ground robot (2026-09-05).",
+    "Suspected people smuggler caught in central Latvia (2026-09-07)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
