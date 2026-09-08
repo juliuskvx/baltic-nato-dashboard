@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-08",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "GDLS delivers first XM30 Wolf vehicle to U.S. Army",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/gdls-delivers-first-xm30-wolf-vehicle-to-u-s-army/",
-      "date_reported": "2026-08-29"
-    },
     {
       "item": "Sweden signs contract for four French-built frigates",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/07.09.2026-suspected-people-smuggler-caught-in-central-latvia.a662101/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-07"
+    },
+    {
+      "item": "Latvia and Armenia sign immigration protocol",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/diplomacy/08.09.2026-latvia-and-armenia-sign-immigration-protocol.a662194/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-08"
     }
   ],
   "news": [
-    "No honour guards at Freedom Monument this week in Latvia (2026-09-02).",
-    "NATO tests British counter-drone system in Baltic exercise (2026-09-04).",
     "Sweden signs French warship order to boost defense (2026-08-31).",
     "Latvia to spend EUR 28 million on land mines (2026-09-04).",
     "New Stryker brigade at Fort Carson receives first vehicles (2026-09-04).",
     "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US (2026-09-02).",
     "Unnamed customer receives XTEND’s newest ground robot (2026-09-05).",
-    "Suspected people smuggler caught in central Latvia (2026-09-07)."
+    "Suspected people smuggler caught in central Latvia (2026-09-07).",
+    "Latvia and Armenia sign immigration protocol (2026-09-08).",
+    "Latvian National Guard chief believes he can massively increase its numbers (2026-09-07)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
