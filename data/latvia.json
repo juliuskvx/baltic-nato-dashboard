@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,38 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia to spend EUR 28 million on land mines",
-      "value": "EUR 28 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/04.09.2026-latvia-to-spend-eur-28-million-on-land-mines.a661726/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-04"
-    },
-    {
-      "item": "New Stryker brigade at Fort Carson receives first vehicles",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/new-stryker-brigade-at-fort-carson-receives-first-vehicles/",
-      "date_reported": "2026-09-04"
-    },
-    {
-      "item": "Unnamed customer receives XTEND’s newest ground robot",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/unnamed-customer-receives-xtends-newest-ground-robot/",
-      "date_reported": "2026-09-05"
-    },
-    {
-      "item": "Suspected people smuggler caught in central Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/07.09.2026-suspected-people-smuggler-caught-in-central-latvia.a662101/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-07"
-    },
     {
       "item": "Latvia and Armenia sign immigration protocol",
       "value": "Not disclosed",
@@ -98,17 +66,49 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/09.09.2026-kulbergs-latvia-needs-7-billion-euros-from-eu-for-eastern-border.a662464/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-09"
+    },
+    {
+      "item": "Latvian-Estonian border area public transport in murky waters",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/11.09.2026-latvian-estonian-border-area-public-transport-in-murky-waters.a662771/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-11"
+    },
+    {
+      "item": "Latvia's TV tower to undergo major renovation",
+      "value": "38 million euros",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/features/media/11.09.2026-latvias-tv-tower-to-undergo-major-renovation.a662768/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-11"
+    },
+    {
+      "item": "Nearly 100 illegal border crossers stopped in 24 hours",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/10.09.2026-nearly-100-illegal-border-crossers-stopped-in-24-hours.a662645/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-10"
+    },
+    {
+      "item": "Offline card payments introduced by some retailers in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/economy/10.09.2026-offline-card-payments-introduced-by-some-retailers-in-latvia.a662642/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-10"
     }
   ],
   "news": [
-    "Latvia and Armenia sign immigration protocol (2026-09-08).",
-    "Latvian National Guard chief believes he can massively increase its numbers (2026-09-07).",
-    "Dutch Foreign Minister gets a bird's eye view of Latvia's eastern border (2026-09-09).",
-    "Missing Latvians believed to have been in China, not Nepal (2026-09-09).",
     "Suspected people-smuggler from Poland caught in Latvia (2026-09-09).",
     "Latvia will send de-mining force to Straits of Hormuz (2026-09-09).",
     "Unlawful employment of foreign athletes found this summer in Latvia (2026-09-10).",
-    "Kulbergs: Latvia needs 7 billion euros from EU for eastern border (2026-09-09)."
+    "Kulbergs: Latvia needs 7 billion euros from EU for eastern border (2026-09-09).",
+    "Latvian-Estonian border area public transport in murky waters (2026-09-11).",
+    "Latvia's TV tower to undergo major renovation (2026-09-11).",
+    "Nearly 100 illegal border crossers stopped in 24 hours (2026-09-10).",
+    "Offline card payments introduced by some retailers in Latvia (2026-09-10)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
