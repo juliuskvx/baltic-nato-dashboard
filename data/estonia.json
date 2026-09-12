@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-09-11",
+  "last_updated": "2026-09-12",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Jetoptera quits DARPA’s heavy-lift drone contest before finals",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/jetoptera-quits-darpas-heavy-lift-drone-contest-before-finals/",
-      "date_reported": "2026-08-05"
-    },
     {
       "item": "British drone-killer startup hits $3.4bn value in under 2 years",
       "value": "$3.4bn",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/transport/11.09.2026-latvian-estonian-border-area-public-transport-in-murky-waters.a662771/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-11"
+    },
+    {
+      "item": "Northrop Grumman expands ties across Eastern Europe",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/northrop-grumman-expands-ties-across-eastern-europe/",
+      "date_reported": "2026-09-12"
     }
   ],
   "news": [
-    "More Estonian reinforcements arrive to help along Latvia's eastern border (2026-09-01).",
     "Defense startup raises $61 million to put AI into a wrist-worn display (2026-09-01).",
     "Hanwha unveils drone-guided K9 howitzer concept in Estonia (2026-09-03).",
     "German startup TYTAN debuts new rocket-boosted interceptor (2026-09-03).",
     "Pildid: Paksus Margareetas avati näitus \"Võidetud sõda, kaotatud kodumaa\" (2026-09-07).",
     "Startup building unmanned cargo planes raises $60 million (2026-09-09).",
     "Defense startup’s AI aims to make every munition count (2026-09-09).",
-    "Latvian-Estonian border area public transport in murky waters (2026-09-11)."
+    "Latvian-Estonian border area public transport in murky waters (2026-09-11).",
+    "Northrop Grumman expands ties across Eastern Europe (2026-09-12)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
