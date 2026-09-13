@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-09-12",
+  "last_updated": "2026-09-13",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "British drone-killer startup hits $3.4bn value in under 2 years",
-      "value": "$3.4bn",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/british-drone-killer-startup-hits-3-4bn-value-in-under-2-years/",
-      "date_reported": "2026-08-10"
-    },
     {
       "item": "Air taxi company buys Boeing’s drone unit",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/northrop-grumman-expands-ties-across-eastern-europe/",
       "date_reported": "2026-09-12"
+    },
+    {
+      "item": "U.S. Space Force taps California startup for orbital nuclear reactor",
+      "value": "$161 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/u-s-space-force-taps-california-startup-for-orbital-nuclear-reactor/",
+      "date_reported": "2026-09-12"
     }
   ],
   "news": [
-    "Defense startup raises $61 million to put AI into a wrist-worn display (2026-09-01).",
-    "Hanwha unveils drone-guided K9 howitzer concept in Estonia (2026-09-03).",
     "German startup TYTAN debuts new rocket-boosted interceptor (2026-09-03).",
     "Pildid: Paksus Margareetas avati näitus \"Võidetud sõda, kaotatud kodumaa\" (2026-09-07).",
     "Startup building unmanned cargo planes raises $60 million (2026-09-09).",
     "Defense startup’s AI aims to make every munition count (2026-09-09).",
     "Latvian-Estonian border area public transport in murky waters (2026-09-11).",
-    "Northrop Grumman expands ties across Eastern Europe (2026-09-12)."
+    "Northrop Grumman expands ties across Eastern Europe (2026-09-12).",
+    "U.S. Space Force taps California startup for orbital nuclear reactor (2026-09-12).",
+    "Läti peab riigiasutustele tehtud massilisi päringuid hübriidrünnakuks (2026-09-13)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
