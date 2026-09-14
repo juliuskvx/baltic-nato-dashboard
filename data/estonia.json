@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-09-14",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "German startup TYTAN debuts new rocket-boosted interceptor (2026-09-03).",
     "Pildid: Paksus Margareetas avati näitus \"Võidetud sõda, kaotatud kodumaa\" (2026-09-07).",
     "Startup building unmanned cargo planes raises $60 million (2026-09-09).",
     "Defense startup’s AI aims to make every munition count (2026-09-09).",
     "Latvian-Estonian border area public transport in murky waters (2026-09-11).",
     "Northrop Grumman expands ties across Eastern Europe (2026-09-12).",
     "U.S. Space Force taps California startup for orbital nuclear reactor (2026-09-12).",
-    "Läti peab riigiasutustele tehtud massilisi päringuid hübriidrünnakuks (2026-09-13)."
+    "Läti peab riigiasutustele tehtud massilisi päringuid hübriidrünnakuks (2026-09-13).",
+    "Tartu teadlased lõid uudse RNA-vaktsiini tehnoloogia (2026-09-14)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

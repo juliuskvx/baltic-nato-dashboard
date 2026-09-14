@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-09-14",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia and Armenia sign immigration protocol",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/diplomacy/08.09.2026-latvia-and-armenia-sign-immigration-protocol.a662194/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-08"
-    },
-    {
-      "item": "Dutch Foreign Minister gets a bird's eye view of Latvia's eastern border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/diplomacy/09.09.2026-dutch-foreign-minister-gets-a-birds-eye-view-of-latvias-eastern-border.a662448/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-09"
-    },
     {
       "item": "Missing Latvians believed to have been in China, not Nepal",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/economy/10.09.2026-offline-card-payments-introduced-by-some-retailers-in-latvia.a662642/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-10"
+    },
+    {
+      "item": "Migrant smuggler gets five years in prison in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/14.09.2026-migrant-smuggler-gets-five-years-in-prison-in-latvia.a663115/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-14"
+    },
+    {
+      "item": "Operation 'Werewolf' overall a good thing, say Latvian interior services",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/14.09.2026-operation-werewolf-overall-a-good-thing-say-latvian-interior-services.a663035/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-14"
     }
   ],
   "news": [
-    "Suspected people-smuggler from Poland caught in Latvia (2026-09-09).",
-    "Latvia will send de-mining force to Straits of Hormuz (2026-09-09).",
     "Unlawful employment of foreign athletes found this summer in Latvia (2026-09-10).",
     "Kulbergs: Latvia needs 7 billion euros from EU for eastern border (2026-09-09).",
     "Latvian-Estonian border area public transport in murky waters (2026-09-11).",
     "Latvia's TV tower to undergo major renovation (2026-09-11).",
     "Nearly 100 illegal border crossers stopped in 24 hours (2026-09-10).",
-    "Offline card payments introduced by some retailers in Latvia (2026-09-10)."
+    "Offline card payments introduced by some retailers in Latvia (2026-09-10).",
+    "Migrant smuggler gets five years in prison in Latvia (2026-09-14).",
+    "Operation 'Werewolf' overall a good thing, say Latvian interior services (2026-09-14)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
