@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Air taxi company buys Boeing’s drone unit",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/air-taxi-company-buys-boeings-drone-unit/",
-      "date_reported": "2026-08-11"
-    },
     {
       "item": "Skyhammer interceptor recovered after beach crash in UK",
       "value": "$300 million",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/u-s-space-force-taps-california-startup-for-orbital-nuclear-reactor/",
       "date_reported": "2026-09-12"
+    },
+    {
+      "item": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
+      "value": "$200 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
+      "date_reported": "2026-09-17"
     }
   ],
   "news": [
-    "Startup building unmanned cargo planes raises $60 million (2026-09-09).",
-    "Defense startup’s AI aims to make every munition count (2026-09-09).",
     "Latvian-Estonian border area public transport in murky waters (2026-09-11).",
     "Northrop Grumman expands ties across Eastern Europe (2026-09-12).",
     "U.S. Space Force taps California startup for orbital nuclear reactor (2026-09-12).",
     "Läti peab riigiasutustele tehtud massilisi päringuid hübriidrünnakuks (2026-09-13).",
     "Tartu teadlased lõid uudse RNA-vaktsiini tehnoloogia (2026-09-14).",
-    "U.S. expert: Baltic states have no need to panic, but need to prepare (2026-09-17)."
+    "U.S. expert: Baltic states have no need to panic, but need to prepare (2026-09-17).",
+    "U.S. Army tests a cheap missile made to intercept drones (2026-09-18).",
+    "US Navy awards defense startup $200 million for Blackbeard hypersonic missile (2026-09-17)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
