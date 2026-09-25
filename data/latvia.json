@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-24",
+  "last_updated": "2026-09-25",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,30 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Offline card payments introduced by some retailers in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/economy/10.09.2026-offline-card-payments-introduced-by-some-retailers-in-latvia.a662642/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-10"
-    },
-    {
-      "item": "Migrant smuggler gets five years in prison in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/14.09.2026-migrant-smuggler-gets-five-years-in-prison-in-latvia.a663115/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-14"
-    },
-    {
-      "item": "Operation 'Werewolf' overall a good thing, say Latvian interior services",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/14.09.2026-operation-werewolf-overall-a-good-thing-say-latvian-interior-services.a663035/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-14"
-    },
     {
       "item": "The biggest challenge in the IT market: competing for talent",
       "value": "Not disclosed",
@@ -98,17 +74,41 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/18.09.2026-latvian-border-guards-stop-more-illegal-crossers.a663786/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-18"
+    },
+    {
+      "item": "Latvia moves to buy Anduril’s Barracuda cruise missiles",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/latvia-moves-to-buy-andurils-barracuda-cruise-missiles/",
+      "date_reported": "2026-09-25"
+    },
+    {
+      "item": "Some polling station staff in eastern Latvia replaced over security concerns",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/election/25.09.2026-some-polling-station-staff-in-eastern-latvia-replaced-over-security-concerns.a664733/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-25"
+    },
+    {
+      "item": "Border controls on grain shipments to be introduced in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/saeima/24.09.2026-border-controls-on-grain-shipments-to-be-introduced-in-latvia.a664663/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-24"
     }
   ],
   "news": [
-    "Ambassadors visit Latvia's eastern border region (2026-09-17).",
-    "Latvia buys Morana howitzers, passing on Sweden’s Archer (2026-09-17).",
-    "Germany sending fighter jets to Latvia to protect election from drone incidents (2026-09-17).",
-    "Extra NATO jets coming to Latvia during election period (2026-09-18).",
-    "Latvia to buy Czech artillery system instead of original Swedish option (2026-09-18).",
     "Latvia chooses Czech howitzers over Swedish Archer offer (2026-09-18).",
     "Latvian border guards stop more illegal crossers (2026-09-18).",
-    "Possible air threat warning in Krāslava municipality of Latvia is over (2026-09-21)."
+    "Possible air threat warning in Krāslava municipality of Latvia is over (2026-09-21).",
+    "Latvia moves to buy Anduril’s Barracuda cruise missiles (2026-09-25).",
+    "German Eurofighter jets arrive at Lielvārde air base (2026-09-25).",
+    "Some polling station staff in eastern Latvia replaced over security concerns (2026-09-25).",
+    "Border controls on grain shipments to be introduced in Latvia (2026-09-24).",
+    "Latvia will send up to 20 soldiers to clear Hormuz (2026-09-24)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
