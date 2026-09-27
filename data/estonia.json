@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Skyhammer interceptor recovered after beach crash in UK",
-      "value": "$300 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/skyhammer-interceptor-recovered-after-beach-crash-in-uk/",
-      "date_reported": "2026-08-14"
-    },
     {
       "item": "Estonian company to buy Latvia's biggest dairy processing business",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
       "date_reported": "2026-09-17"
+    },
+    {
+      "item": "British drone-killer startup heads to Japan with cheap interceptors",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/british-drone-killer-startup-heads-to-japan-with-cheap-interceptors/",
+      "date_reported": "2026-09-27"
     }
   ],
   "news": [
-    "Latvian-Estonian border area public transport in murky waters (2026-09-11).",
-    "Northrop Grumman expands ties across Eastern Europe (2026-09-12).",
     "U.S. Space Force taps California startup for orbital nuclear reactor (2026-09-12).",
     "Läti peab riigiasutustele tehtud massilisi päringuid hübriidrünnakuks (2026-09-13).",
     "Tartu teadlased lõid uudse RNA-vaktsiini tehnoloogia (2026-09-14).",
     "U.S. expert: Baltic states have no need to panic, but need to prepare (2026-09-17).",
     "U.S. Army tests a cheap missile made to intercept drones (2026-09-18).",
-    "US Navy awards defense startup $200 million for Blackbeard hypersonic missile (2026-09-17)."
+    "US Navy awards defense startup $200 million for Blackbeard hypersonic missile (2026-09-17).",
+    "British drone-killer startup heads to Japan with cheap interceptors (2026-09-27).",
+    "Cheaper Patriot partners: U.S. Army names 30 finalists (2026-09-26)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
