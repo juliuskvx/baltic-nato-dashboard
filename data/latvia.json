@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-09-30",
+  "last_updated": "2026-10-01",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "U.S. Army spends $18M turning cavalry regiment into tank brigade",
-      "value": "$18M",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/u-s-army-spends-18m-turning-cavalry-regiment-into-tank-brigade/",
-      "date_reported": "2026-09-16"
-    },
-    {
-      "item": "Ambassadors visit Latvia's eastern border region",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/diplomacy/16.09.2026-ambassadors-visit-latvias-eastern-border-region.a663463/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-17"
-    },
     {
       "item": "Latvia buys Morana howitzers, passing on Sweden’s Archer",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/28.09.2026-store-bought-shelters-a-consideration-for-latvia.a664998/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-28"
+    },
+    {
+      "item": "Latvia orders new howitzers and rocket launchers",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/latvia-orders-new-howitzers-and-rocket-launchers/",
+      "date_reported": "2026-10-01"
+    },
+    {
+      "item": "Latvia signs to buy 'Morana' artillery system in trilateral agreement",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/30.09.2026-latvia-signs-to-buy-morana-artillery-system-in-trilateral-agreement.a665504/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-09-30"
     }
   ],
   "news": [
-    "Four Italian soldiers injured at Ādaži military base, Latvia (2026-09-26).",
-    "Europos kalbų dienoje Londone Lietuva atstovavo Baltijos valstybėms (2026-09-26).",
-    "U.S. Army tests battlefield data network in Hawaii jungle (2026-09-27).",
-    "Security service says it is keeping a close eye on Latvian election campaign (2026-09-28).",
     "Store-bought shelters a consideration for Latvia (2026-09-28).",
     "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX (2026-09-29).",
     "Non-cash payments at an all-time high in Latvia (2026-09-30).",
-    "Britain pledges nuclear deterrent to defence of Baltic (2026-09-30)."
+    "Britain pledges nuclear deterrent to defence of Baltic (2026-09-30).",
+    "Latvia orders new howitzers and rocket launchers (2026-10-01).",
+    "Couple in Latvia suspected of spying for Russia (2026-10-01).",
+    "Latvia ends a decade of involvement in operation 'Inherent Resolve' (2026-09-30).",
+    "Latvia signs to buy 'Morana' artillery system in trilateral agreement (2026-09-30)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
