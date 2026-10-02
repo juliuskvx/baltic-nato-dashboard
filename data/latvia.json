@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia buys Morana howitzers, passing on Sweden’s Archer",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/latvia-buys-morana-howitzers-passing-on-swedens-archer/",
-      "date_reported": "2026-09-17"
-    },
-    {
-      "item": "Latvia to buy Czech artillery system instead of original Swedish option",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/18.09.2026-latvia-to-buy-czech-artillery-system-instead-of-original-swedish-option.a663716/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-18"
-    },
     {
       "item": "Latvian border guards stop more illegal crossers",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/30.09.2026-latvia-signs-to-buy-morana-artillery-system-in-trilateral-agreement.a665504/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-09-30"
+    },
+    {
+      "item": "France starts building Sweden’s first new frigate",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/france-starts-building-swedens-first-new-frigate/",
+      "date_reported": "2026-10-02"
+    },
+    {
+      "item": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
+      "date_reported": "2026-10-01"
     }
   ],
   "news": [
-    "Store-bought shelters a consideration for Latvia (2026-09-28).",
-    "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX (2026-09-29).",
     "Non-cash payments at an all-time high in Latvia (2026-09-30).",
     "Britain pledges nuclear deterrent to defence of Baltic (2026-09-30).",
     "Latvia orders new howitzers and rocket launchers (2026-10-01).",
     "Couple in Latvia suspected of spying for Russia (2026-10-01).",
     "Latvia ends a decade of involvement in operation 'Inherent Resolve' (2026-09-30).",
-    "Latvia signs to buy 'Morana' artillery system in trilateral agreement (2026-09-30)."
+    "Latvia signs to buy 'Morana' artillery system in trilateral agreement (2026-09-30).",
+    "France starts building Sweden’s first new frigate (2026-10-02).",
+    "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project (2026-10-01)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
