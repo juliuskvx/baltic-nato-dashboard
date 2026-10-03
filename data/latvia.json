@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-02",
+  "last_updated": "2026-10-03",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Non-cash payments at an all-time high in Latvia (2026-09-30).",
     "Britain pledges nuclear deterrent to defence of Baltic (2026-09-30).",
     "Latvia orders new howitzers and rocket launchers (2026-10-01).",
     "Couple in Latvia suspected of spying for Russia (2026-10-01).",
     "Latvia ends a decade of involvement in operation 'Inherent Resolve' (2026-09-30).",
     "Latvia signs to buy 'Morana' artillery system in trilateral agreement (2026-09-30).",
     "France starts building Sweden’s first new frigate (2026-10-02).",
-    "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project (2026-10-01)."
+    "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project (2026-10-01).",
+    "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX (2026-09-29)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
