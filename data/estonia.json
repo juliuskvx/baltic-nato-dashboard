@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-10-03",
+  "last_updated": "2026-10-04",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "British drone-killer startup heads to Japan with cheap interceptors (2026-09-27).",
     "Cheaper Patriot partners: U.S. Army names 30 finalists (2026-09-26).",
     "Rutte: Vene hübriidkampaania ei suuda õõnestada NATO toetust Ukrainale (2026-09-29).",
     "Estonia blames Russia in arson attack on military robotics firm Milrem (2026-09-29).",
     "Britain pledges nuclear deterrent to defence of Baltic (2026-09-30).",
     "Kai kino toob ekraanile Peeter Simmi ja Arvo Kruusemendi olulisemad filmid (2026-09-30).",
     "Eesti ei saanud kutset mitteametlikule NATO liitlaste kohtumisele (2026-10-01).",
-    "U.S. Air Force buys weather data from smart balloons (2026-10-02)."
+    "U.S. Air Force buys weather data from smart balloons (2026-10-02).",
+    "Euroopa Liidu 17 riiki kutsusid üles EL-i eelarvet mitte kärpima (2026-10-04)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
