@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian border guards stop more illegal crossers",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/18.09.2026-latvian-border-guards-stop-more-illegal-crossers.a663786/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-18"
-    },
     {
       "item": "Latvia moves to buy Anduril’s Barracuda cruise missiles",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://www.defensenews.com/global/europe/2026/10/01/dutch-say-asw-frigate-talks-ongoing-amid-reports-belgium-may-quit-project/",
       "date_reported": "2026-10-01"
+    },
+    {
+      "item": "People smuggler, five illegal border crossers caught in eastern Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/05.10.2026-people-smuggler-five-illegal-border-crossers-caught-in-eastern-latvia.a666195/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-05"
     }
   ],
   "news": [
-    "Latvia orders new howitzers and rocket launchers (2026-10-01).",
     "Couple in Latvia suspected of spying for Russia (2026-10-01).",
     "Latvia ends a decade of involvement in operation 'Inherent Resolve' (2026-09-30).",
     "Latvia signs to buy 'Morana' artillery system in trilateral agreement (2026-09-30).",
     "France starts building Sweden’s first new frigate (2026-10-02).",
     "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project (2026-10-01).",
     "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX (2026-09-29).",
-    "„Hockey Punks“ namuose turėjo pripažinti OHL lyderių pranašumą (2026-10-04)."
+    "„Hockey Punks“ namuose turėjo pripažinti OHL lyderių pranašumą (2026-10-04).",
+    "People smuggler, five illegal border crossers caught in eastern Latvia (2026-10-05)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
