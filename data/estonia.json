@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-06",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Baltic states reaffirm support for Ukraine on historic day in Tallinn",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/diplomacy/20.08.2026-baltic-states-reaffirm-support-for-ukraine-on-historic-day-in-tallinn.a659626/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-08-20"
-    },
     {
       "item": "More Estonian reinforcements arrive to help along Latvia's eastern border",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/u-s-air-force-buys-weather-data-from-smart-balloons/",
       "date_reported": "2026-10-02"
+    },
+    {
+      "item": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
+      "value": "$10.5 billion",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
+      "date_reported": "2026-10-05"
     }
   ],
   "news": [
-    "Cheaper Patriot partners: U.S. Army names 30 finalists (2026-09-26).",
     "Rutte: Vene hübriidkampaania ei suuda õõnestada NATO toetust Ukrainale (2026-09-29).",
     "Estonia blames Russia in arson attack on military robotics firm Milrem (2026-09-29).",
     "Britain pledges nuclear deterrent to defence of Baltic (2026-09-30).",
     "Kai kino toob ekraanile Peeter Simmi ja Arvo Kruusemendi olulisemad filmid (2026-09-30).",
     "Eesti ei saanud kutset mitteametlikule NATO liitlaste kohtumisele (2026-10-01).",
     "U.S. Air Force buys weather data from smart balloons (2026-10-02).",
-    "Euroopa Liidu 17 riiki kutsusid üles EL-i eelarvet mitte kärpima (2026-10-04)."
+    "Euroopa Liidu 17 riiki kutsusid üles EL-i eelarvet mitte kärpima (2026-10-04).",
+    "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts (2026-10-05)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
