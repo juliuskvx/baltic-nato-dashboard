@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -23,14 +23,6 @@
     "NASAMS air defence systems"
   ],
   "procurement": [
-    {
-      "item": "Kariuomenės instruktoriaus namuose rasti neteisėti šoviniai, išduotas orderis dėl smurto",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.lrt.lt/naujienos/lietuvoje/2/2973024/kariuomenes-instruktoriaus-namuose-rasti-neteiseti-soviniai-isduotas-orderis-del-smurto",
-      "date_reported": "2026-06-27"
-    },
     {
       "item": "„Brolis Defence Group“ už bent 10 mln. Eur tieks naktinio matymo įrangą Čekijai",
       "value": "Not disclosed",
@@ -102,17 +94,25 @@
       "delivery": "See source",
       "source_url": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
       "date_reported": "2026-08-25"
+    },
+    {
+      "item": "Lithuania gets its first Switchblade 600 attack drones",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/lithuania-gets-its-first-switchblade-600-attack-drones/",
+      "date_reported": "2026-10-07"
     }
   ],
   "news": [
-    "Kaunas: ES atsako į hibridines atakas mechanizmas negali dubliuoti NATO, diskusijos tęsis (2026-09-28).",
     "Britain pledges nuclear deterrent to defence of Baltic (2026-09-30).",
     "Premeneckas: oro gynybos misija nėra tik naujas pavadinimas, tai reakcija į grėsmes (2026-09-30).",
     "Nausėda: Rusijos grasinimai dėl Kaliningrado – desperatiškų pareiškimų dalis (2026-10-01).",
     "Po LRT publikacijos apie moterų futbolo rinktinės premijas – išaugę skaičiai ir pažadai (2026-10-01).",
     "Leedu sulges drooniohu tõttu Vilniuse lennujaama (2026-10-03).",
     "Politologas: Lietuvos ir Lenkijos premjerų kontaktuose – per ilga pauzė (2026-10-04).",
-    "Lithuania says it would pay the cost if US establishes military base (2026-10-06)."
+    "Lithuania says it would pay the cost if US establishes military base (2026-10-06).",
+    "Lithuania gets its first Switchblade 600 attack drones (2026-10-07)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
