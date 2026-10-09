@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia orders new howitzers and rocket launchers",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/latvia-orders-new-howitzers-and-rocket-launchers/",
-      "date_reported": "2026-10-01"
-    },
     {
       "item": "Latvia signs to buy 'Morana' artillery system in trilateral agreement",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/politics/politics/08.10.2026-theatre-director-hermanis-quits-as-leader-of-party-he-founded.a666678/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-10-08"
+    },
+    {
+      "item": "Latvian army takes delivery of first Hunter fighting vehicle",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/latvian-army-takes-delivery-of-first-hunter-fighting-vehicle/",
+      "date_reported": "2026-10-09"
     }
   ],
   "news": [
-    "France fires its newest nuclear missile from a submarine (2026-10-06).",
-    "First 'Hunter' military vehicle delivered to Latvian armed forces (2026-10-07).",
     "App for drone detection being developed in Latvia (2026-10-07).",
     "NBS: Migrant group pushed aggressively across Latvian border this week (2026-10-07).",
     "Operation Werewolf to run until end of year in Latvia (2026-10-06).",
     "German lawmakers approve funds for eight-ship fleet of sub-hunting frigates (2026-10-08).",
     "Theatre director Hermanis quits as leader of party he founded (2026-10-08).",
-    "Army activates sustainment brigade as part of Pacific restructuring (2026-10-07)."
+    "Army activates sustainment brigade as part of Pacific restructuring (2026-10-07).",
+    "Latvian army takes delivery of first Hunter fighting vehicle (2026-10-09).",
+    "Two 'Latvian nationals' arrested for entering airbase in England (2026-10-08)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
