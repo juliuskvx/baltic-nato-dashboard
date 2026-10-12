@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia signs to buy 'Morana' artillery system in trilateral agreement",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/30.09.2026-latvia-signs-to-buy-morana-artillery-system-in-trilateral-agreement.a665504/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-30"
-    },
-    {
-      "item": "France starts building Sweden’s first new frigate",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/france-starts-building-swedens-first-new-frigate/",
-      "date_reported": "2026-10-02"
-    },
     {
       "item": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/latvian-army-takes-delivery-of-first-hunter-fighting-vehicle/",
       "date_reported": "2026-10-09"
+    },
+    {
+      "item": "Latest naughty Saeima members named, if not shamed",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/politics/saeima/12.10.2026-latest-naughty-saeima-members-named-if-not-shamed.a667175/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-12"
+    },
+    {
+      "item": "Latvian Border Guard: Migration control going better but risks still there",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/12.10.2026-latvian-border-guard-migration-control-going-better-but-risks-still-there.a667103/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-12"
     }
   ],
   "news": [
-    "German lawmakers approve funds for eight-ship fleet of sub-hunting frigates (2026-10-08).",
-    "Theatre director Hermanis quits as leader of party he founded (2026-10-08).",
-    "Army activates sustainment brigade as part of Pacific restructuring (2026-10-07).",
-    "Latvian army takes delivery of first Hunter fighting vehicle (2026-10-09).",
     "Two 'Latvian nationals' arrested for entering airbase in England (2026-10-08).",
     "First 'Hunter' military vehicle delivered to Latvian armed forces (2026-10-07).",
     "Australia gets second batch of HIMARS two years early (2026-10-11).",
-    "Turkish F-16s help guard Latvia’s skies during election (2026-10-10)."
+    "Turkish F-16s help guard Latvia’s skies during election (2026-10-10).",
+    "US Army helicopter pilots test new in-flight ‘relief’ system (2026-10-12).",
+    "Defence hackathon happening this week in Latvia (2026-10-12).",
+    "Latest naughty Saeima members named, if not shamed (2026-10-12).",
+    "Latvian Border Guard: Migration control going better but risks still there (2026-10-12)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
