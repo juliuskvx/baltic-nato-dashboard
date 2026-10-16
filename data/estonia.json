@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-16",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Defense startup raises $61 million to put AI into a wrist-worn display",
-      "value": "$61 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.defensenews.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/",
-      "date_reported": "2026-09-01"
-    },
     {
       "item": "Startup building unmanned cargo planes raises $60 million",
       "value": "$60 million",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/french-firm-develops-autonomous-2000-km-strike-drone/",
       "date_reported": "2026-10-07"
+    },
+    {
+      "item": "Lockheed adds 6,000 jobs to speed up missile production",
+      "value": "$300 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/lockheed-adds-6000-jobs-to-speed-up-missile-production/",
+      "date_reported": "2026-10-15"
     }
   ],
   "news": [
-    "Estonia’s KrattWorks crafting Shahed-like dummy drone for target practice (2026-10-09).",
-    "Rahvusooper Estonia solistid nõuavad peadirektor Ott Maateni ametist lahkumist (2026-10-08).",
-    "British startup develops 100-mile strike missile (2026-10-11).",
     "Defence hackathon happening this week in Latvia (2026-10-12).",
     "Startup wants US soldiers to command AI agents through its smart glasses (2026-10-13).",
     "Otse kell 12.25: Michali ja Rutte pressikonverents (2026-10-14).",
     "Startup’s laser turns Rheinmetall autonomous cargo vehicle into drone killer (2026-10-15).",
-    "Estonia weighs buying light jet aircraft to shoot down Russian jet-powered drones (2026-10-14)."
+    "Estonia weighs buying light jet aircraft to shoot down Russian jet-powered drones (2026-10-14).",
+    "Lockheed adds 6,000 jobs to speed up missile production (2026-10-15).",
+    "New human-machine interface will help Boxer punch above its weight (2026-10-16).",
+    "Lähisuhtevägivalla toimepanijad jõuavad harva iseseisvalt abiprogrammidesse (2026-10-16)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
