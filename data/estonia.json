@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-10-17",
+  "last_updated": "2026-10-18",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Startup building unmanned cargo planes raises $60 million",
-      "value": "$60 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/startup-building-unmanned-cargo-planes-raises-60-million/",
-      "date_reported": "2026-09-09"
-    },
     {
       "item": "Latvian-Estonian border area public transport in murky waters",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/lockheed-adds-6000-jobs-to-speed-up-missile-production/",
       "date_reported": "2026-10-15"
+    },
+    {
+      "item": "British startup develos modular ground drone for front line",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/british-startup-develos-modular-ground-drone-for-front-line/",
+      "date_reported": "2026-10-18"
     }
   ],
   "news": [
-    "Otse kell 12.25: Michali ja Rutte pressikonverents (2026-10-14).",
     "Startup’s laser turns Rheinmetall autonomous cargo vehicle into drone killer (2026-10-15).",
     "Estonia weighs buying light jet aircraft to shoot down Russian jet-powered drones (2026-10-14).",
     "Lockheed adds 6,000 jobs to speed up missile production (2026-10-15).",
     "New human-machine interface will help Boxer punch above its weight (2026-10-16).",
     "Lähisuhtevägivalla toimepanijad jõuavad harva iseseisvalt abiprogrammidesse (2026-10-16).",
     "Year-old startup wins spot in U.S. Army interceptor fly-off (2026-10-17).",
-    "Baltic Assembly to meet in Tallinn (2026-10-16)."
+    "Baltic Assembly to meet in Tallinn (2026-10-16).",
+    "British startup develos modular ground drone for front line (2026-10-18)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
