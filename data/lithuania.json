@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-20",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -23,14 +23,6 @@
     "NASAMS air defence systems"
   ],
   "procurement": [
-    {
-      "item": "„Brolis Defence Group“ už bent 10 mln. Eur tieks naktinio matymo įrangą Čekijai",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://www.lrt.lt/naujienos/verslas/4/2975190/brolis-defence-group-uz-bent-10-mln-eur-tieks-naktinio-matymo-iranga-cekijai",
-      "date_reported": "2026-06-29"
-    },
     {
       "item": "Lithuanian arrested in big cigarette seizure in Rīga",
       "value": "Not disclosed",
@@ -102,17 +94,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/lithuania-gets-its-first-switchblade-600-attack-drones/",
       "date_reported": "2026-10-07"
+    },
+    {
+      "item": "Lithuania puts mobile U.S.-made radars on NATO’s eastern edge",
+      "value": "$52.6 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/lithuania-puts-mobile-u-s-made-radars-on-natos-eastern-edge/",
+      "date_reported": "2026-10-20"
     }
   ],
   "news": [
-    "Demining coalition hands Ukraine new Inguar armored vehicles (2026-10-15).",
-    "Lietuvoje pirmą kartą iš „Leopard“ tankų šaudė lietuvių įgulos (2026-10-16).",
-    "Baltic Assembly to meet in Tallinn (2026-10-16).",
     "Suspected drone destroyed in Lithuania as it approached Latvia (2026-10-18).",
     "Lietuvoje – spragos aptinkant žemai skrendančius dronus: naujų radarų lauks kelerius metus (2026-10-18).",
     "U19 rinktinės išbandymus aptaręs Čepas: stovyklą vertiname ne tik per rezultatų prizmę (2026-10-18).",
     "Lietuvos asteroidų medžiotojas Kazimieras Černis apdovanotas Lenkijos Senato medaliu (2026-10-19).",
-    "Europos kurčiųjų orientavimosi sporto čempionate Lietuva iškovojo visų spalvų medalius (2026-10-19)."
+    "Europos kurčiųjų orientavimosi sporto čempionate Lietuva iškovojo visų spalvų medalius (2026-10-19).",
+    "Lithuania puts mobile U.S.-made radars on NATO’s eastern edge (2026-10-20).",
+    "Lietuvos vyrų tinklinio čempionato starte – „Sūduvos“ pergale pasibaigęs trileris Alytuje (2026-10-20).",
+    "Per kampaniją „Dronatonas“ Ukrainos ir Lietuvos oro gynybai surinkta 1,3 mln. eurų (2026-10-20)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",
