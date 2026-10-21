@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-20",
+  "last_updated": "2026-10-21",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,38 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian army takes delivery of first Hunter fighting vehicle",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/latvian-army-takes-delivery-of-first-hunter-fighting-vehicle/",
-      "date_reported": "2026-10-09"
-    },
-    {
-      "item": "Latest naughty Saeima members named, if not shamed",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/politics/saeima/12.10.2026-latest-naughty-saeima-members-named-if-not-shamed.a667175/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-12"
-    },
-    {
-      "item": "Latvian Border Guard: Migration control going better but risks still there",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/12.10.2026-latvian-border-guard-migration-control-going-better-but-risks-still-there.a667103/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-12"
-    },
-    {
-      "item": "Latvia and Poland look to deepen cybersecurity cooperation",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/13.10.2026-latvia-and-poland-look-to-deepen-cybersecurity-cooperation.a667350/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-13"
-    },
     {
       "item": "Record number of illegal border crossing attempts forecast in Latvia",
       "value": "Not disclosed",
@@ -98,17 +66,49 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/19.10.2026-polish-border-guards-to-come-to-latvian-aid.a668203/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-10-19"
+    },
+    {
+      "item": "More illegal immigrants caught in Madona district",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/21.10.2026-more-illegal-immigrants-caught-in-madona-district.a668479/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-21"
+    },
+    {
+      "item": "Border reinforcement continues in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/21.10.2026-border-reinforcement-continues-in-latvia.a668463/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-21"
+    },
+    {
+      "item": "Conscription to be expanded to include Latvian State Border Guard",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/21.10.2026-conscription-to-be-expanded-to-include-latvian-state-border-guard.a668438/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-21"
+    },
+    {
+      "item": "Mobile networks a problem in Latvian border area",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/society/21.10.2026-mobile-networks-a-problem-in-latvian-border-area.a668435/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-21"
     }
   ],
   "news": [
-    "Latvia’s combat-tested ground drone shows off in Finland (2026-10-18).",
-    "U.S. Army’s Arctic division gets its own supply brigade (2026-10-17).",
-    "Suspected drone destroyed in Lithuania as it approached Latvia (2026-10-18).",
-    "Army activates sustainment brigade as part of Pacific restructuring (2026-10-07).",
-    "Ukraine uses heavy drone to fly wounded soldier off front (2026-10-19).",
     "NATO 'experiments and trials' under way in Latvia (2026-10-20).",
     "Polish border guards to come to Latvian aid (2026-10-19).",
-    "Popovienė: Vokietijos brigados buvimas Lietuvoje atvėrė galimybių plėsti mokslo ryšius (2026-10-20)."
+    "Popovienė: Vokietijos brigados buvimas Lietuvoje atvėrė galimybių plėsti mokslo ryšius (2026-10-20).",
+    "Rail Baltica digs up wartime munitions in Latvia (2026-10-21).",
+    "More illegal immigrants caught in Madona district (2026-10-21).",
+    "Border reinforcement continues in Latvia (2026-10-21).",
+    "Conscription to be expanded to include Latvian State Border Guard (2026-10-21).",
+    "Mobile networks a problem in Latvian border area (2026-10-21)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
