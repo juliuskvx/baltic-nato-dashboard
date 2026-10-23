@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-10-22",
+  "last_updated": "2026-10-23",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Latvian-Estonian border area public transport in murky waters",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/11.09.2026-latvian-estonian-border-area-public-transport-in-murky-waters.a662771/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-09-11"
-    },
     {
       "item": "Northrop Grumman expands ties across Eastern Europe",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/british-startup-develos-modular-ground-drone-for-front-line/",
       "date_reported": "2026-10-18"
+    },
+    {
+      "item": "Texas startup aims to field gene-edited military dogs by 2028",
+      "value": "$200 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/texas-startup-aims-to-field-gene-edited-military-dogs-by-2028/",
+      "date_reported": "2026-10-23"
     }
   ],
   "news": [
-    "Estonia weighs buying light jet aircraft to shoot down Russian jet-powered drones (2026-10-14).",
     "Lockheed adds 6,000 jobs to speed up missile production (2026-10-15).",
     "New human-machine interface will help Boxer punch above its weight (2026-10-16).",
     "Lähisuhtevägivalla toimepanijad jõuavad harva iseseisvalt abiprogrammidesse (2026-10-16).",
     "Year-old startup wins spot in U.S. Army interceptor fly-off (2026-10-17).",
     "Baltic Assembly to meet in Tallinn (2026-10-16).",
     "British startup develos modular ground drone for front line (2026-10-18).",
-    "Indian startup shows first look at new jet-powered drone (2026-10-21)."
+    "Indian startup shows first look at new jet-powered drone (2026-10-21).",
+    "Texas startup aims to field gene-edited military dogs by 2028 (2026-10-23)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
