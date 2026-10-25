@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-24",
+  "last_updated": "2026-10-25",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Rail Baltica digs up wartime munitions in Latvia (2026-10-21).",
-    "More illegal immigrants caught in Madona district (2026-10-21).",
-    "Border reinforcement continues in Latvia (2026-10-21).",
     "Conscription to be expanded to include Latvian State Border Guard (2026-10-21).",
     "Mobile networks a problem in Latvian border area (2026-10-21).",
     "Airspace alert in Rēzekne and Krāslava districts of Latvia is now over (2026-10-22).",
     "Latvian bottle deposit donations pay for Ukrainian medical ground drones (2026-10-22).",
-    "'Nationwide roaming' will be available across Latvia in a crisis (2026-10-22)."
+    "'Nationwide roaming' will be available across Latvia in a crisis (2026-10-22).",
+    "Estonia passes the presidency of the Baltic Assembly to Lithuania (2026-10-24).",
+    "Crashed drone found in Alūksne district (2026-10-24).",
+    "Baltijos ledo ritulio čempionate – abiejų Lietuvos klubų nesėkmės (2026-10-25)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
