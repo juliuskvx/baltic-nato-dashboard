@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-10-26",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Year-old startup wins spot in U.S. Army interceptor fly-off (2026-10-17).",
     "Baltic Assembly to meet in Tallinn (2026-10-16).",
     "British startup develos modular ground drone for front line (2026-10-18).",
     "Indian startup shows first look at new jet-powered drone (2026-10-21).",
     "Texas startup aims to field gene-edited military dogs by 2028 (2026-10-23).",
     "Philadelphia startup’s unmanned vehicle makes U.S. Army shortlist (2026-10-25).",
     "Estonia passes the presidency of the Baltic Assembly to Lithuania (2026-10-24).",
-    "„Formulės-1“ etape JAV iš pirmos pozicijos startuos Antonelli (2026-10-25)."
+    "„Formulės-1“ etape JAV iš pirmos pozicijos startuos Antonelli (2026-10-25).",
+    "Veepinnale jääv jälg reedab radareilt kadunud laeva (2026-10-26)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

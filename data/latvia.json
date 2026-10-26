@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-10-26",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Man to be prosecuted for murder attempt against Latvian border guard",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/14.10.2026-man-to-be-prosecuted-for-murder-attempt-against-latvian-border-guard.a667529/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-14"
-    },
-    {
-      "item": "Kulbergs claims Latvia will have more power to deal with border threats",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/14.10.2026-kulbergs-claims-latvia-will-have-more-power-to-deal-with-border-threats.a667470/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-14"
-    },
     {
       "item": "264 million euro contract signed for Rīga Airport rail link",
       "value": "264 million euro",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/society/22.10.2026-nationwide-roaming-will-be-available-across-latvia-in-a-crisis.a668698/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-10-22"
+    },
+    {
+      "item": "More ideas floated for new Latvian national football stadium",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/culture/sport/26.10.2026-more-ideas-floated-for-new-latvian-national-football-stadium.a669074/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-26"
+    },
+    {
+      "item": "De Facto reveals brutality of Belarusian border guard people smugglers",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/26.10.2026-de-facto-reveals-brutality-of-belarusian-border-guard-people-smugglers.a669043/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-26"
     }
   ],
   "news": [
-    "Conscription to be expanded to include Latvian State Border Guard (2026-10-21).",
-    "Mobile networks a problem in Latvian border area (2026-10-21).",
-    "Airspace alert in Rēzekne and Krāslava districts of Latvia is now over (2026-10-22).",
     "Latvian bottle deposit donations pay for Ukrainian medical ground drones (2026-10-22).",
     "'Nationwide roaming' will be available across Latvia in a crisis (2026-10-22).",
     "Estonia passes the presidency of the Baltic Assembly to Lithuania (2026-10-24).",
     "Crashed drone found in Alūksne district (2026-10-24).",
-    "Baltijos ledo ritulio čempionate – abiejų Lietuvos klubų nesėkmės (2026-10-25)."
+    "Baltijos ledo ritulio čempionate – abiejų Lietuvos klubų nesėkmės (2026-10-25).",
+    "Royal Navy frigate crisis deepens as old warships wear out (2026-10-26).",
+    "More ideas floated for new Latvian national football stadium (2026-10-26).",
+    "De Facto reveals brutality of Belarusian border guard people smugglers (2026-10-26)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
