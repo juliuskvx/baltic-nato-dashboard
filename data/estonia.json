@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Northrop Grumman expands ties across Eastern Europe",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/northrop-grumman-expands-ties-across-eastern-europe/",
-      "date_reported": "2026-09-12"
-    },
     {
       "item": "U.S. Space Force taps California startup for orbital nuclear reactor",
       "value": "$161 million",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/texas-startup-aims-to-field-gene-edited-military-dogs-by-2028/",
       "date_reported": "2026-10-23"
+    },
+    {
+      "item": "Defense startup wants to make genetically enhanced military dogs",
+      "value": "$200 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs/",
+      "date_reported": "2026-10-26"
     }
   ],
   "news": [
-    "Baltic Assembly to meet in Tallinn (2026-10-16).",
     "British startup develos modular ground drone for front line (2026-10-18).",
     "Indian startup shows first look at new jet-powered drone (2026-10-21).",
     "Texas startup aims to field gene-edited military dogs by 2028 (2026-10-23).",
     "Philadelphia startup’s unmanned vehicle makes U.S. Army shortlist (2026-10-25).",
     "Estonia passes the presidency of the Baltic Assembly to Lithuania (2026-10-24).",
     "„Formulės-1“ etape JAV iš pirmos pozicijos startuos Antonelli (2026-10-25).",
-    "Veepinnale jääv jälg reedab radareilt kadunud laeva (2026-10-26)."
+    "Veepinnale jääv jälg reedab radareilt kadunud laeva (2026-10-26).",
+    "Defense startup wants to make genetically enhanced military dogs (2026-10-26)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -23,14 +23,6 @@
     "NASAMS air defence systems"
   ],
   "procurement": [
-    {
-      "item": "Lithuanian arrested in big cigarette seizure in Rīga",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/10.07.2026-lithuanian-arrested-in-big-cigarette-seizure-in-riga.a654615/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-10"
-    },
     {
       "item": "LRT: Lithuania considering reintroducing checks on Latvian border",
       "value": "Not disclosed",
@@ -102,17 +94,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/lithuania-puts-mobile-u-s-made-radars-on-natos-eastern-edge/",
       "date_reported": "2026-10-20"
+    },
+    {
+      "item": "Tree friends hope to make more tree friends in western Latvia campaign",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/environment/27.10.2026-tree-friends-hope-to-make-more-tree-friends-in-western-latvia-campaign.a669192/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-27"
     }
   ],
   "news": [
-    "Lietuvos asteroidų medžiotojas Kazimieras Černis apdovanotas Lenkijos Senato medaliu (2026-10-19).",
     "Europos kurčiųjų orientavimosi sporto čempionate Lietuva iškovojo visų spalvų medalius (2026-10-19).",
     "Lithuania puts mobile U.S.-made radars on NATO’s eastern edge (2026-10-20).",
     "Lietuvos vyrų tinklinio čempionato starte – „Sūduvos“ pergale pasibaigęs trileris Alytuje (2026-10-20).",
     "Per kampaniją „Dronatonas“ Ukrainos ir Lietuvos oro gynybai surinkta 1,3 mln. eurų (2026-10-20).",
     "Estonia passes the presidency of the Baltic Assembly to Lithuania (2026-10-24).",
     "Baltijos ledo ritulio čempionate – abiejų Lietuvos klubų nesėkmės (2026-10-25).",
-    "Vilniuje vyko antrasis šio sezono Lietuvos jaunių ir jaunimo fechtavimo čempionato etapas (2026-10-26)."
+    "Vilniuje vyko antrasis šio sezono Lietuvos jaunių ir jaunimo fechtavimo čempionato etapas (2026-10-26).",
+    "Tree friends hope to make more tree friends in western Latvia campaign (2026-10-27)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",

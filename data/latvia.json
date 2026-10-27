@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-10-27",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,30 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "264 million euro contract signed for Rīga Airport rail link",
-      "value": "264 million euro",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/16.10.2026-264-million-euro-contract-signed-for-riga-airport-rail-link.a667912/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-16"
-    },
-    {
-      "item": "Polish border guards to come to Latvian aid",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/19.10.2026-polish-border-guards-to-come-to-latvian-aid.a668203/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-19"
-    },
-    {
-      "item": "More illegal immigrants caught in Madona district",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/21.10.2026-more-illegal-immigrants-caught-in-madona-district.a668479/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-21"
-    },
     {
       "item": "Border reinforcement continues in Latvia",
       "value": "Not disclosed",
@@ -98,17 +74,41 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/crime/26.10.2026-de-facto-reveals-brutality-of-belarusian-border-guard-people-smugglers.a669043/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-10-26"
+    },
+    {
+      "item": "What's life like as a food delivery courier in Latvia?",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/employment/27.10.2026-whats-life-like-as-a-food-delivery-courier-in-latvia.a669259/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-27"
+    },
+    {
+      "item": "Latvia's blood reserves running low",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/health/27.10.2026-latvias-blood-reserves-running-low.a669211/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-27"
+    },
+    {
+      "item": "Tree friends hope to make more tree friends in western Latvia campaign",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/environment/27.10.2026-tree-friends-hope-to-make-more-tree-friends-in-western-latvia-campaign.a669192/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-27"
     }
   ],
   "news": [
-    "Latvian bottle deposit donations pay for Ukrainian medical ground drones (2026-10-22).",
-    "'Nationwide roaming' will be available across Latvia in a crisis (2026-10-22).",
-    "Estonia passes the presidency of the Baltic Assembly to Lithuania (2026-10-24).",
     "Crashed drone found in Alūksne district (2026-10-24).",
     "Baltijos ledo ritulio čempionate – abiejų Lietuvos klubų nesėkmės (2026-10-25).",
     "Royal Navy frigate crisis deepens as old warships wear out (2026-10-26).",
     "More ideas floated for new Latvian national football stadium (2026-10-26).",
-    "De Facto reveals brutality of Belarusian border guard people smugglers (2026-10-26)."
+    "De Facto reveals brutality of Belarusian border guard people smugglers (2026-10-26).",
+    "What's life like as a food delivery courier in Latvia? (2026-10-27).",
+    "Latvia's blood reserves running low (2026-10-27).",
+    "Tree friends hope to make more tree friends in western Latvia campaign (2026-10-27)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
