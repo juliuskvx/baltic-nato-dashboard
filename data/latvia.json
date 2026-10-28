@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Border reinforcement continues in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/21.10.2026-border-reinforcement-continues-in-latvia.a668463/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-21"
-    },
-    {
-      "item": "Conscription to be expanded to include Latvian State Border Guard",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/21.10.2026-conscription-to-be-expanded-to-include-latvian-state-border-guard.a668438/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-21"
-    },
     {
       "item": "Mobile networks a problem in Latvian border area",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/environment/27.10.2026-tree-friends-hope-to-make-more-tree-friends-in-western-latvia-campaign.a669192/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-10-27"
+    },
+    {
+      "item": "6 million euro competition announced for Latvian defence research",
+      "value": "6 million euro",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/28.10.2026-6-million-euro-competition-announced-for-latvian-defence-research.a669390/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-28"
+    },
+    {
+      "item": "First market manipulation case in Latvia's history goes to court",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/28.10.2026-first-market-manipulation-case-in-latvias-history-goes-to-court.a669357/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-10-28"
     }
   ],
   "news": [
-    "Crashed drone found in Alūksne district (2026-10-24).",
-    "Baltijos ledo ritulio čempionate – abiejų Lietuvos klubų nesėkmės (2026-10-25).",
     "Royal Navy frigate crisis deepens as old warships wear out (2026-10-26).",
     "More ideas floated for new Latvian national football stadium (2026-10-26).",
     "De Facto reveals brutality of Belarusian border guard people smugglers (2026-10-26).",
     "What's life like as a food delivery courier in Latvia? (2026-10-27).",
     "Latvia's blood reserves running low (2026-10-27).",
-    "Tree friends hope to make more tree friends in western Latvia campaign (2026-10-27)."
+    "Tree friends hope to make more tree friends in western Latvia campaign (2026-10-27).",
+    "6 million euro competition announced for Latvian defence research (2026-10-28).",
+    "First market manipulation case in Latvia's history goes to court (2026-10-28)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
