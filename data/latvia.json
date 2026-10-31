@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-10-30",
+  "last_updated": "2026-10-31",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "First market manipulation case in Latvia's history goes to court (2026-10-28).",
-    "Latvians honoured by Ukraine (2026-10-29).",
-    "airBaltic to sack 100 pilots, 200 flight attendants (2026-10-28).",
     "Finland and Varjo test virtual counter-drone training for soldiers (2026-10-29).",
     "Latvian border guards given clearer rights to use force and weapons (2026-10-29).",
     "Study suggests gambling ads are still a problem in Latvia (2026-10-29).",
     "Latvian armed forces staging Jēkabpils hockey tournament (2026-10-29).",
-    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29)."
+    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29).",
+    "Ukraine hits Russian Mi-8 during raid on supply lines in Luhansk (2026-10-30).",
+    "Baltic defence industry gains momentum (2026-10-31).",
+    "Report: U.S. pressures Baltics not to say nasty things about Russia (2026-10-30)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
