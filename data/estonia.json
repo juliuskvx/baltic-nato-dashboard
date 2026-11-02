@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "Defense startup wants to make genetically enhanced military dogs (2026-10-26).",
-    "Austrian startup shows off APS1 anti-drone turrets in Vienna (2026-10-28).",
-    "Israel eyes Covenant’s low-cost Anthem cruise missile (2026-10-29).",
     "German unmanned ground vehicle gets Ukrainian SABER weapon station (2026-10-29).",
     "Destinus’ monthly output tops Europe’s pre-war annual cruise missile production (2026-10-29).",
     "Kuldnõela laureaat Karl Korsar: hooajatrendid on asendunud mikrotrendidega (2026-10-30).",
     "Baltic defence industry gains momentum (2026-10-31).",
-    "Report: U.S. pressures Baltics not to say nasty things about Russia (2026-10-30)."
+    "Report: U.S. pressures Baltics not to say nasty things about Russia (2026-10-30).",
+    "High-energy lasers, drones and power: Innovations in defense tech | Business of Defense – Part 1 (2026-11-02).",
+    "Oshkosh partners with startup to build military drones (2026-11-02).",
+    "Ringkonnakohus jättis jõusse prokurörile määratud tingimisi vangistuse (2026-11-02)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

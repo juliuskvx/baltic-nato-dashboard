@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,30 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "What's life like as a food delivery courier in Latvia?",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/employment/27.10.2026-whats-life-like-as-a-food-delivery-courier-in-latvia.a669259/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-27"
-    },
-    {
-      "item": "Latvia's blood reserves running low",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/health/27.10.2026-latvias-blood-reserves-running-low.a669211/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-27"
-    },
-    {
-      "item": "Tree friends hope to make more tree friends in western Latvia campaign",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/environment/27.10.2026-tree-friends-hope-to-make-more-tree-friends-in-western-latvia-campaign.a669192/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-27"
-    },
     {
       "item": "6 million euro competition announced for Latvian defence research",
       "value": "6 million euro",
@@ -98,17 +74,41 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/nato-turns-5g-towers-into-sensors-in-baltic-battlefield-experiment/",
       "date_reported": "2026-11-01"
+    },
+    {
+      "item": "'Drone for Latvia, drone for Ukraine' calls fundraising campaign",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/02.11.2026-drone-for-latvia-drone-for-ukraine-calls-fundraising-campaign.a670236/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-02"
+    },
+    {
+      "item": "Latvia sends 'mobile surveillance device' to eastern border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/02.11.2026-latvia-sends-mobile-surveillance-device-to-eastern-border.a670167/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-02"
+    },
+    {
+      "item": "Latvia plans to buy Canadian 'Hellbender' helmets",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/02.11.2026-latvia-plans-to-buy-canadian-hellbender-helmets.a670161/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-02"
     }
   ],
   "news": [
-    "Latvian armed forces staging Jēkabpils hockey tournament (2026-10-29).",
-    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29).",
-    "Ukraine hits Russian Mi-8 during raid on supply lines in Luhansk (2026-10-30).",
-    "Baltic defence industry gains momentum (2026-10-31).",
-    "Report: U.S. pressures Baltics not to say nasty things about Russia (2026-10-30).",
-    "Greece receives second FDI frigate HS Nearchos (2026-11-01).",
     "NATO turns 5G towers into sensors in Baltic battlefield experiment (2026-11-01).",
-    "Latvians honoured by Ukraine (2026-10-29)."
+    "Latvians honoured by Ukraine (2026-10-29).",
+    "UK flies Protector drone on first home operation against Russian frigate (2026-11-01).",
+    "'Drone for Latvia, drone for Ukraine' calls fundraising campaign (2026-11-02).",
+    "NATO demonstrates its 'digital backbone' again in Latvia (2026-11-02).",
+    "Latvia sends 'mobile surveillance device' to eastern border (2026-11-02).",
+    "Latvia plans to buy Canadian 'Hellbender' helmets (2026-11-02).",
+    "Air alert in Ludza and Krāslava municipalities of Latvia is over (2026-11-01)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
