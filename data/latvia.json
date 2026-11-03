@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -101,14 +101,14 @@
     }
   ],
   "news": [
-    "NATO turns 5G towers into sensors in Baltic battlefield experiment (2026-11-01).",
-    "Latvians honoured by Ukraine (2026-10-29).",
-    "UK flies Protector drone on first home operation against Russian frigate (2026-11-01).",
-    "'Drone for Latvia, drone for Ukraine' calls fundraising campaign (2026-11-02).",
     "NATO demonstrates its 'digital backbone' again in Latvia (2026-11-02).",
     "Latvia sends 'mobile surveillance device' to eastern border (2026-11-02).",
     "Latvia plans to buy Canadian 'Hellbender' helmets (2026-11-02).",
-    "Air alert in Ludza and Krāslava municipalities of Latvia is over (2026-11-01)."
+    "Air alert in Ludza and Krāslava municipalities of Latvia is over (2026-11-01).",
+    "Why rain is a problem for hypersonic missiles, and how Auriga tests it (2026-11-03).",
+    "Latvia signs up to European Defence Alliance in Paris (2026-11-03).",
+    "Air threat alert in Latvia's Balvi, Ludza municipalities is over (2026-11-02).",
+    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
