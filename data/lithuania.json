@@ -1,6 +1,6 @@
 {
   "country": "Lithuania",
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "personnel": {
     "active": 23000,
     "reserve": 14600,
@@ -23,14 +23,6 @@
     "NASAMS air defence systems"
   ],
   "procurement": [
-    {
-      "item": "LRT: Lithuania considering reintroducing checks on Latvian border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/15.07.2026-lrt-lithuania-considering-reintroducing-checks-on-latvian-border.a655168/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-07-15"
-    },
     {
       "item": "German DHL to buy Venipak in Baltics",
       "value": "Not disclosed",
@@ -102,17 +94,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/environment/27.10.2026-tree-friends-hope-to-make-more-tree-friends-in-western-latvia-campaign.a669192/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-10-27"
+    },
+    {
+      "item": "GPS jamming hits almost all of NATO’s eastern flank in one day",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/gps-jamming-hits-almost-all-of-natos-eastern-flank-in-one-day/",
+      "date_reported": "2026-11-04"
     }
   ],
   "news": [
-    "Lietuvos rankininkai pradeda Europos čempionato atranką: pirmos kovos Splite ir Tauragėje (2026-10-29).",
-    "Kaunas dėl JAV prašymo: apie Rusiją kalbame faktais, neprovokuojame (2026-10-30).",
     "Baltic defence industry gains momentum (2026-10-31).",
     "Report: U.S. pressures Baltics not to say nasty things about Russia (2026-10-30).",
     "Lietuvos futbolo čempionato turo anonsas: ar titulas bus apgintas Raudondvaryje? (2026-10-30).",
     "Tarptautinėje NATO operacijoje jūroje dalyvauja Lietuvos karo medikai (2026-11-02).",
     "Nacionalinio stadiono statybų aikštelėje – pirmasis UEFA atstovų vizitas (2026-11-03).",
-    "Nausėda su Merzu aptarė Europos saugumo situaciją, pirmininkavimo ES prioritetus (2026-11-03)."
+    "Nausėda su Merzu aptarė Europos saugumo situaciją, pirmininkavimo ES prioritetus (2026-11-03).",
+    "GPS jamming hits almost all of NATO’s eastern flank in one day (2026-11-04).",
+    "Lietuva ir Vokietija sutarė plėsti bendradarbiavimą gynybos srityje (2026-11-04)."
   ],
   "upcoming_major_purchase": {
     "item": "Mercedes-Benz G-Class / Unimog / Zetros / Arocs military vehicle fleet",

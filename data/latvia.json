@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "6 million euro competition announced for Latvian defence research",
-      "value": "6 million euro",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/28.10.2026-6-million-euro-competition-announced-for-latvian-defence-research.a669390/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-28"
-    },
     {
       "item": "First market manipulation case in Latvia's history goes to court",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/02.11.2026-latvia-plans-to-buy-canadian-hellbender-helmets.a670161/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-02"
+    },
+    {
+      "item": "U.S. troops test Anduril’s Heimdal drone sensor on southern border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/u-s-troops-test-andurils-heimdal-drone-sensor-on-southern-border/",
+      "date_reported": "2026-11-04"
     }
   ],
   "news": [
-    "NATO demonstrates its 'digital backbone' again in Latvia (2026-11-02).",
-    "Latvia sends 'mobile surveillance device' to eastern border (2026-11-02).",
-    "Latvia plans to buy Canadian 'Hellbender' helmets (2026-11-02).",
     "Air alert in Ludza and Krāslava municipalities of Latvia is over (2026-11-01).",
     "Why rain is a problem for hypersonic missiles, and how Auriga tests it (2026-11-03).",
     "Latvia signs up to European Defence Alliance in Paris (2026-11-03).",
     "Air threat alert in Latvia's Balvi, Ludza municipalities is over (2026-11-02).",
-    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29)."
+    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29).",
+    "U.S. troops test Anduril’s Heimdal drone sensor on southern border (2026-11-04).",
+    "Paradoxical port: Liepāja's Karosta prepares for reborn role (2026-11-04).",
+    "More details released about recent drone incidents in Latvia (2026-11-03)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
