@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-04",
+  "last_updated": "2026-11-05",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "First market manipulation case in Latvia's history goes to court",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/crime/28.10.2026-first-market-manipulation-case-in-latvias-history-goes-to-court.a669357/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-28"
-    },
     {
       "item": "Latvians honoured by Ukraine",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/u-s-troops-test-andurils-heimdal-drone-sensor-on-southern-border/",
       "date_reported": "2026-11-04"
+    },
+    {
+      "item": "Dozens more illegal crossings prevented on Latvia-Belarus border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/05.11.2026-dozens-more-illegal-crossings-prevented-on-latvia-belarus-border.a670643/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-05"
     }
   ],
   "news": [
-    "Air alert in Ludza and Krāslava municipalities of Latvia is over (2026-11-01).",
-    "Why rain is a problem for hypersonic missiles, and how Auriga tests it (2026-11-03).",
     "Latvia signs up to European Defence Alliance in Paris (2026-11-03).",
     "Air threat alert in Latvia's Balvi, Ludza municipalities is over (2026-11-02).",
     "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29).",
     "U.S. troops test Anduril’s Heimdal drone sensor on southern border (2026-11-04).",
     "Paradoxical port: Liepāja's Karosta prepares for reborn role (2026-11-04).",
-    "More details released about recent drone incidents in Latvia (2026-11-03)."
+    "More details released about recent drone incidents in Latvia (2026-11-03).",
+    "WATCH: Latvian Foreign Minister speaks at NATO command centre (2026-11-05).",
+    "Dozens more illegal crossings prevented on Latvia-Belarus border (2026-11-05)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
