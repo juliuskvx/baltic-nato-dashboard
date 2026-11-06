@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvians honoured by Ukraine",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/society/29.10.2026-latvians-honoured-by-ukraine.a669625/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-29"
-    },
-    {
-      "item": "airBaltic to sack 100 pilots, 200 flight attendants",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/28.10.2026-airbaltic-to-sack-100-pilots-200-flight-attendants.a669487/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-28"
-    },
     {
       "item": "Latvian border guards given clearer rights to use force and weapons",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/05.11.2026-dozens-more-illegal-crossings-prevented-on-latvia-belarus-border.a670643/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-05"
+    },
+    {
+      "item": "Workers offered chance to improve Latvian language skills",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/employment/06.11.2026-workers-offered-chance-to-improve-latvian-language-skills.a670865/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-06"
+    },
+    {
+      "item": "Nepal declines Latvian humanitarian aid",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/society/06.11.2026-nepal-declines-latvian-humanitarian-aid.a670813/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-06"
     }
   ],
   "news": [
-    "Latvia signs up to European Defence Alliance in Paris (2026-11-03).",
-    "Air threat alert in Latvia's Balvi, Ludza municipalities is over (2026-11-02).",
-    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29).",
-    "U.S. troops test Anduril’s Heimdal drone sensor on southern border (2026-11-04).",
-    "Paradoxical port: Liepāja's Karosta prepares for reborn role (2026-11-04).",
     "More details released about recent drone incidents in Latvia (2026-11-03).",
     "WATCH: Latvian Foreign Minister speaks at NATO command centre (2026-11-05).",
-    "Dozens more illegal crossings prevented on Latvia-Belarus border (2026-11-05)."
+    "Dozens more illegal crossings prevented on Latvia-Belarus border (2026-11-05).",
+    "How a French frigate’s radical bow design makes for smooth sailing (2026-11-06).",
+    "Workers offered chance to improve Latvian language skills (2026-11-06).",
+    "Nepal declines Latvian humanitarian aid (2026-11-06).",
+    "Three for the Weekend: Porta, Patriotic Walk, Belts (2026-11-06).",
+    "Latvian public invited to mark Lāčplēsis Day on November 11th (2026-11-06)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
