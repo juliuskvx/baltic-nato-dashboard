@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-08",
+  "last_updated": "2026-11-09",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,22 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvian border guards given clearer rights to use force and weapons",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/29.10.2026-latvian-border-guards-given-clearer-rights-to-use-force-and-weapons.a669751/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-29"
-    },
-    {
-      "item": "Study suggests gambling ads are still a problem in Latvia",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/society/29.10.2026-study-suggests-gambling-ads-are-still-a-problem-in-latvia.a669723/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-10-29"
-    },
     {
       "item": "NATO turns 5G towers into sensors in Baltic battlefield experiment",
       "value": "Not disclosed",
@@ -98,17 +82,33 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/society/06.11.2026-nepal-declines-latvian-humanitarian-aid.a670813/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-06"
+    },
+    {
+      "item": "Tourism in eastern Latvia was hit by drone alerts",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/economy/09.11.2026-tourism-in-eastern-latvia-was-hit-by-drone-alerts.a671086/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-09"
+    },
+    {
+      "item": "Latvia continues to secure eastern border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/09.11.2026-latvia-continues-to-secure-eastern-border.a671046/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-09"
     }
   ],
   "news": [
-    "WATCH: Latvian Foreign Minister speaks at NATO command centre (2026-11-05).",
-    "Dozens more illegal crossings prevented on Latvia-Belarus border (2026-11-05).",
-    "How a French frigate’s radical bow design makes for smooth sailing (2026-11-06).",
-    "Workers offered chance to improve Latvian language skills (2026-11-06).",
     "Nepal declines Latvian humanitarian aid (2026-11-06).",
     "Three for the Weekend: Porta, Patriotic Walk, Belts (2026-11-06).",
     "Latvian public invited to mark Lāčplēsis Day on November 11th (2026-11-06).",
-    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29)."
+    "Army pilots are trying virtual reality to stay more alert in flight (2026-10-29).",
+    "U.S. Army tests FireAnt UGVs for resupply in Hawaii (2026-11-09).",
+    "Defence Minister Melnis ready to carry on regardless (2026-11-09).",
+    "Tourism in eastern Latvia was hit by drone alerts (2026-11-09).",
+    "Latvia continues to secure eastern border (2026-11-09)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
