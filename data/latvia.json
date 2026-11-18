@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Latvia plans to buy Canadian 'Hellbender' helmets",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/02.11.2026-latvia-plans-to-buy-canadian-hellbender-helmets.a670161/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-11-02"
-    },
     {
       "item": "U.S. troops test Anduril’s Heimdal drone sensor on southern border",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/economy/16.11.2026-riga-loses-million-euro-street-light-project.a672040/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-16"
+    },
+    {
+      "item": "Estonia estimates costs of introducing border controls with Latvia",
+      "value": "€65 million",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/defence/18.11.2026-estonia-estimates-costs-of-introducing-border-controls-with-latvia.a672427/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-18"
     }
   ],
   "news": [
-    "Air alerts across large parts of Latvia overnight (2026-11-10).",
-    "Cabbage patch (or pile) by Rīga City Council on Thursday morning (2026-11-12).",
     "Defence industry in Latvia has expanded (2026-11-13).",
     "German Leopard tank in Ukraine survived 45 drone strikes (2026-11-15).",
     "First American volunteer enjoying his Latvian military service (2026-11-16).",
     "Eight puppies born at Latvian Border Guard College (2026-11-16).",
     "Rīga loses million euro street light project (2026-11-16).",
-    "Eight Latvian nationals arrested over suspected Estonia drone arson plot (2026-11-15)."
+    "Eight Latvian nationals arrested over suspected Estonia drone arson plot (2026-11-15).",
+    "Estonia estimates costs of introducing border controls with Latvia (2026-11-18).",
+    "Latvia celebrates its independence day (2026-11-18)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
