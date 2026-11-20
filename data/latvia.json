@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "U.S. troops test Anduril’s Heimdal drone sensor on southern border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/u-s-troops-test-andurils-heimdal-drone-sensor-on-southern-border/",
-      "date_reported": "2026-11-04"
-    },
     {
       "item": "Dozens more illegal crossings prevented on Latvia-Belarus border",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/18.11.2026-estonia-estimates-costs-of-introducing-border-controls-with-latvia.a672427/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-18"
+    },
+    {
+      "item": "Estonian-Russian border closing means overtime for Latvian border guards",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/20.11.2026-estonian-russian-border-closing-means-overtime-for-latvian-border-guards.a672689/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-20"
     }
   ],
   "news": [
-    "German Leopard tank in Ukraine survived 45 drone strikes (2026-11-15).",
     "First American volunteer enjoying his Latvian military service (2026-11-16).",
     "Eight puppies born at Latvian Border Guard College (2026-11-16).",
     "Rīga loses million euro street light project (2026-11-16).",
     "Eight Latvian nationals arrested over suspected Estonia drone arson plot (2026-11-15).",
     "Estonia estimates costs of introducing border controls with Latvia (2026-11-18).",
     "Latvia celebrates its independence day (2026-11-18).",
-    "WATCH AGAIN: Latvia's 108th independence day military parade (2026-11-18)."
+    "WATCH AGAIN: Latvia's 108th independence day military parade (2026-11-18).",
+    "Estonian-Russian border closing means overtime for Latvian border guards (2026-11-20)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",

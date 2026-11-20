@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-11-19",
+  "last_updated": "2026-11-20",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "U.S. Air Force buys weather data from smart balloons",
-      "value": "$48.7 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/u-s-air-force-buys-weather-data-from-smart-balloons/",
-      "date_reported": "2026-10-02"
-    },
     {
       "item": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
       "value": "$10.5 billion",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/18.11.2026-estonia-estimates-costs-of-introducing-border-controls-with-latvia.a672427/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-18"
+    },
+    {
+      "item": "Estonian-Russian border closing means overtime for Latvian border guards",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/20.11.2026-estonian-russian-border-closing-means-overtime-for-latvian-border-guards.a672689/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-20"
     }
   ],
   "news": [
-    "Anti-drone gun maker ACS hires U.S. Army laser chiefs for new division (2026-11-12).",
     "Kell 21.40 \"Esimeses stuudios\" Eesti suursaadik NATO-s Kristjan Prikk (2026-11-12).",
     "Kristiina Nurk: tänavakunst eeldab nii vabadust kui ka vastutust (2026-11-15).",
     "Estonia to close border with Russia after arson attack on local drone maker (2026-11-16).",
     "Eight Latvian nationals arrested over suspected Estonia drone arson plot (2026-11-15).",
     "Estonia estimates costs of introducing border controls with Latvia (2026-11-18).",
     "Estonia says it just launched its biggest warship (2026-11-19).",
-    "MBDA and German startup Atmos team up to study space-based strike weapons (2026-11-19)."
+    "MBDA and German startup Atmos team up to study space-based strike weapons (2026-11-19).",
+    "Estonian-Russian border closing means overtime for Latvian border guards (2026-11-20)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
