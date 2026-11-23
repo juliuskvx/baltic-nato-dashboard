@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "French firm develops autonomous 2,000 km strike drone",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/french-firm-develops-autonomous-2000-km-strike-drone/",
-      "date_reported": "2026-10-07"
-    },
     {
       "item": "Lockheed adds 6,000 jobs to speed up missile production",
       "value": "$300 million",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://defence-blog.com/u-s-air-force-opens-16b-engine-deal-to-giants-and-startups-alike/",
       "date_reported": "2026-11-21"
+    },
+    {
+      "item": "Renewed call for 'blood grain' transit ban in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/business/23.11.2026-renewed-call-for-blood-grain-transit-ban-in-latvia.a672987/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-23"
     }
   ],
   "news": [
-    "Estonia to close border with Russia after arson attack on local drone maker (2026-11-16).",
     "Eight Latvian nationals arrested over suspected Estonia drone arson plot (2026-11-15).",
     "Estonia estimates costs of introducing border controls with Latvia (2026-11-18).",
     "Estonia says it just launched its biggest warship (2026-11-19).",
     "MBDA and German startup Atmos team up to study space-based strike weapons (2026-11-19).",
     "Estonian-Russian border closing means overtime for Latvian border guards (2026-11-20).",
     "U.S. Air Force opens $16B engine deal to giants and startups alike (2026-11-21).",
-    "Hugo Toom kerkis oma teises mängus parimaks lauavõitlejaks (2026-11-21)."
+    "Hugo Toom kerkis oma teises mängus parimaks lauavõitlejaks (2026-11-21).",
+    "Renewed call for 'blood grain' transit ban in Latvia (2026-11-23)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",

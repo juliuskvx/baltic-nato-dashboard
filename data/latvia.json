@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,30 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Dozens more illegal crossings prevented on Latvia-Belarus border",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/defence/05.11.2026-dozens-more-illegal-crossings-prevented-on-latvia-belarus-border.a670643/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-11-05"
-    },
-    {
-      "item": "Workers offered chance to improve Latvian language skills",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/employment/06.11.2026-workers-offered-chance-to-improve-latvian-language-skills.a670865/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-11-06"
-    },
-    {
-      "item": "Nepal declines Latvian humanitarian aid",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/society/society/06.11.2026-nepal-declines-latvian-humanitarian-aid.a670813/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-11-06"
-    },
     {
       "item": "Tourism in eastern Latvia was hit by drone alerts",
       "value": "Not disclosed",
@@ -98,17 +74,41 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/transport/20.11.2026-estonian-russian-border-closing-means-overtime-for-latvian-border-guards.a672689/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-20"
+    },
+    {
+      "item": "Alleged bribery case involving Latvian Railways in process",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/society/crime/23.11.2026-alleged-bribery-case-involving-latvian-railways-in-process.a673051/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-23"
+    },
+    {
+      "item": "Latvia on the lookout for a new international football coach",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/culture/sport/23.11.2026-latvia-on-the-lookout-for-a-new-international-football-coach.a673031/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-23"
+    },
+    {
+      "item": "Renewed call for 'blood grain' transit ban in Latvia",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/business/23.11.2026-renewed-call-for-blood-grain-transit-ban-in-latvia.a672987/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-23"
     }
   ],
   "news": [
-    "Eight puppies born at Latvian Border Guard College (2026-11-16).",
-    "Rīga loses million euro street light project (2026-11-16).",
-    "Eight Latvian nationals arrested over suspected Estonia drone arson plot (2026-11-15).",
     "Estonia estimates costs of introducing border controls with Latvia (2026-11-18).",
     "Latvia celebrates its independence day (2026-11-18).",
     "WATCH AGAIN: Latvia's 108th independence day military parade (2026-11-18).",
     "Estonian-Russian border closing means overtime for Latvian border guards (2026-11-20).",
-    "U.S. soldiers turn small drones into bombers in training (2026-11-22)."
+    "U.S. soldiers turn small drones into bombers in training (2026-11-22).",
+    "Alleged bribery case involving Latvian Railways in process (2026-11-23).",
+    "Latvia on the lookout for a new international football coach (2026-11-23).",
+    "Renewed call for 'blood grain' transit ban in Latvia (2026-11-23)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
