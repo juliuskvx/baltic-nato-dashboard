@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-24",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Tourism in eastern Latvia was hit by drone alerts",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/economy/09.11.2026-tourism-in-eastern-latvia-was-hit-by-drone-alerts.a671086/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-11-09"
-    },
     {
       "item": "Latvia continues to secure eastern border",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/business/23.11.2026-renewed-call-for-blood-grain-transit-ban-in-latvia.a672987/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-23"
+    },
+    {
+      "item": "Israeli Elbit to fit German Navy F128 frigates with electronic warfare",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://defence-blog.com/israeli-elbit-to-fit-german-navy-f128-frigates-with-electronic-warfare/",
+      "date_reported": "2026-11-24"
     }
   ],
   "news": [
-    "Estonia estimates costs of introducing border controls with Latvia (2026-11-18).",
-    "Latvia celebrates its independence day (2026-11-18).",
-    "WATCH AGAIN: Latvia's 108th independence day military parade (2026-11-18).",
     "Estonian-Russian border closing means overtime for Latvian border guards (2026-11-20).",
     "U.S. soldiers turn small drones into bombers in training (2026-11-22).",
     "Alleged bribery case involving Latvian Railways in process (2026-11-23).",
     "Latvia on the lookout for a new international football coach (2026-11-23).",
-    "Renewed call for 'blood grain' transit ban in Latvia (2026-11-23)."
+    "Renewed call for 'blood grain' transit ban in Latvia (2026-11-23).",
+    "Ukrainian army gets German Lynx fighting vehicles (2026-11-24).",
+    "Israeli Elbit to fit German Navy F128 frigates with electronic warfare (2026-11-24).",
+    "Russian diplomat summoned yet again by Latvia over ongoing aggression (2026-11-23)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
