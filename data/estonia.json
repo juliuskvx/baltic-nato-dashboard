@@ -1,6 +1,6 @@
 {
   "country": "Estonia",
-  "last_updated": "2026-11-26",
+  "last_updated": "2026-11-27",
   "personnel": {
     "active": 8200,
     "reserve": 30000
@@ -19,14 +19,6 @@
     "Piorun short-range air defence launchers"
   ],
   "procurement": [
-    {
-      "item": "Lockheed adds 6,000 jobs to speed up missile production",
-      "value": "$300 million",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://defence-blog.com/lockheed-adds-6000-jobs-to-speed-up-missile-production/",
-      "date_reported": "2026-10-15"
-    },
     {
       "item": "British startup develos modular ground drone for front line",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/economy/business/23.11.2026-renewed-call-for-blood-grain-transit-ban-in-latvia.a672987/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-23"
+    },
+    {
+      "item": "Estonian border closure could mean lines of lorries on Latvia-Russia border",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/economy/transport/27.11.2026-estonian-border-closure-could-mean-lines-of-lorries-on-latvia-russia-border.a673765/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-27"
     }
   ],
   "news": [
-    "Eight Latvian nationals arrested over suspected Estonia drone arson plot (2026-11-15).",
     "Estonia estimates costs of introducing border controls with Latvia (2026-11-18).",
     "Estonia says it just launched its biggest warship (2026-11-19).",
     "MBDA and German startup Atmos team up to study space-based strike weapons (2026-11-19).",
     "Estonian-Russian border closing means overtime for Latvian border guards (2026-11-20).",
     "U.S. Air Force opens $16B engine deal to giants and startups alike (2026-11-21).",
     "Hugo Toom kerkis oma teises mängus parimaks lauavõitlejaks (2026-11-21).",
-    "Renewed call for 'blood grain' transit ban in Latvia (2026-11-23)."
+    "Renewed call for 'blood grain' transit ban in Latvia (2026-11-23).",
+    "Estonian border closure could mean lines of lorries on Latvia-Russia border (2026-11-27)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system + 3x additional K239 Chunmoo MLRS",
