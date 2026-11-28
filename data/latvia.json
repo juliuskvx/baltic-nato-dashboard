@@ -1,6 +1,6 @@
 {
   "country": "Latvia",
-  "last_updated": "2026-11-27",
+  "last_updated": "2026-11-28",
   "personnel": {
     "active": 17870,
     "reserve": 8000,
@@ -19,14 +19,6 @@
     "Stinger and Mistral short-range air defence"
   ],
   "procurement": [
-    {
-      "item": "Estonian-Russian border closing means overtime for Latvian border guards",
-      "value": "Not disclosed",
-      "supplier": "See source",
-      "delivery": "See source",
-      "source_url": "https://eng.lsm.lv/article/economy/transport/20.11.2026-estonian-russian-border-closing-means-overtime-for-latvian-border-guards.a672689/?utm_source=rss&utm_campaign=rss&utm_medium=links",
-      "date_reported": "2026-11-20"
-    },
     {
       "item": "Alleged bribery case involving Latvian Railways in process",
       "value": "Not disclosed",
@@ -98,17 +90,25 @@
       "delivery": "See source",
       "source_url": "https://eng.lsm.lv/article/society/defence/27.11.2026-latvian-border-guards-doing-their-bit-for-frontex-force.a673716/?utm_source=rss&utm_campaign=rss&utm_medium=links",
       "date_reported": "2026-11-27"
+    },
+    {
+      "item": "WATCH AGAIN: Latvia versus Germany World Cup basketball",
+      "value": "Not disclosed",
+      "supplier": "See source",
+      "delivery": "See source",
+      "source_url": "https://eng.lsm.lv/article/culture/sport/27.11.2026-watch-again-latvia-versus-germany-world-cup-basketball.a673720/?utm_source=rss&utm_campaign=rss&utm_medium=links",
+      "date_reported": "2026-11-27"
     }
   ],
   "news": [
-    "Russian diplomat summoned yet again by Latvia over ongoing aggression (2026-11-23).",
     "ECHR finds fault with treatment of some border crossers from Belarus (2026-11-26).",
     "Latvian conductor to increase cooperation with Hong Kong orchestra (2026-11-26).",
     "Estonian border closure could mean lines of lorries on Latvia-Russia border (2026-11-27).",
     "Postal costs to rise in Latvia next year (2026-11-27).",
     "Latvian border guards doing their bit for Frontex force (2026-11-27).",
     "Bunkus murder case defendant wins small victory at ECHR (2026-11-27).",
-    "Possible air threats in Balvi and Ludza municipalities are over (2026-11-27)."
+    "Possible air threats in Balvi and Ludza municipalities are over (2026-11-27).",
+    "WATCH AGAIN: Latvia versus Germany World Cup basketball (2026-11-27)."
   ],
   "upcoming_major_purchase": {
     "item": "IRIS-T medium-range air defence system",
